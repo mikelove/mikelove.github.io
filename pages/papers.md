@@ -52,7 +52,8 @@ Psychiatry*, aop, February 2015.
 estimation of fold change and dispersion for RNA-seq data with
 DESeq2. *Genome Biology*, 15(12):550+, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
-[doi: 10.1186/s13059-014-0550-8](http://dx.doi.org/doi:10.1186/s13059-014-0550-8)
+[doi: 10.1186/s13059-014-0550-8](http://dx.doi.org/doi:10.1186/s13059-014-0550-8),
+[DESeq2 package](http://bioconductor.org/packages/DESeq2)
 
 Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
 Zhang, Rafael A. Irizarry, Jun S. Liu, Myles Brown, and
@@ -93,14 +94,16 @@ Martin Vingron, and Stefan A. Haas. Modeling read counts for CNV
 detection in exome sequencing data. *Statistical Applications in
 Genetics and Molecular Biology*, 10(1), January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
-[doi: 10.2202/1544-6115.1732](http://dx.doi.org/10.2202/1544-6115.1732)
+[doi: 10.2202/1544-6115.1732](http://dx.doi.org/10.2202/1544-6115.1732),
+[exomeCopy package](http://bioconductor.org/packages/exomeCopy)
 
 ### In progress
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767)
+[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
+[alpine package](http://github.com/mikelove/alpine)
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential
@@ -111,5 +114,5 @@ Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
 annotation-agnostic RNA-seq differential expression
 analysis. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370)
-
+[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
+[derfinder package](http://bioconductor.org/packages/derfinder)

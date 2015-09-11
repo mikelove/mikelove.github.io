@@ -6,7 +6,8 @@ description: foo bar
 
 ### Online courses
 
-Teaching fellow, **HarvardX PH525x**: Biomedical Data Science (2014, 2015)
+Teaching fellow, **HarvardX PH525x Series**: Biomedical Data Science
+(8 classes). 2014, 2015.
 
 Content lead for *Introduction to Linear Models and Matrix
 Algebra* and *Case study: RNA-seq data analysis*.
@@ -16,4 +17,3 @@ Algebra* and *Case study: RNA-seq data analysis*.
 * [Rmarkdown files](https://github.com/genomicsclass/labs)
 
 These classes were supported in part by NIH grant R25GM114818.
-

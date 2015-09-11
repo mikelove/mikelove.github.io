@@ -11,7 +11,7 @@ Thomas-Chollier, and Sebastiaan H. Meijsing. ChIP-exo signal
 associated with DNA-binding motifs provides insight into the genomic
 binding of the glucocorticoid receptor and cooperating transcription
 factors. *Genome Research*, 25(6):825–835, June 2015.
-[doi: 10.1101/gr.185157.114](dx.doi.org/10.1101/gr.185157.114)
+[doi: 10.1101/gr.185157.114](http://dx.doi.org/10.1101/gr.185157.114)
 
 Wolfgang Huber, Vincent J. Carey, Robert Gentleman, Simon Anders, Marc
 Carlson, Benilton S. Carvalho, Hector Corrada C. Bravo, Sean Davis,
@@ -20,8 +20,10 @@ D. Hansen, Rafael A. Irizarry, Michael Lawrence, **Michael I. Love**,
 James MacDonald, Valerie Obenchain, Andrzej K.  Oleś, Hervé Pagès,
 Alejandro Reyes, Paul Shannon, Gordon K. Smyth, Dan Tenenbaum, Levi
 Waldron, and Martin Morgan. Orchestrating high-throughput genomic
-analysis with bioconductor. *Nature Methods*, 12(2):115–121,
+analysis with Bioconductor. *Nature Methods*, 12(2):115–121,
 February 2015.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590/),
+[doi: 10.1038/nmeth.3252](http://dx.doi.org/10.1038/nmeth.3252)
 
 H. Hu, S. A. Haas, J. Chelly, H. Van Esch, M. Raynaud, A. P. M.  de
 Brouwer, S. Weinert, G. Froyen, S. G. M. Frints, F. Laumonnier,
@@ -43,16 +45,22 @@ J. Gecz, T. J. Jentsch, W. Chen, H. H. Ropers, and
 V. M. Kalscheuer. X-exome sequencing of 405 unresolved families
 identifies seven novel intellectual disability genes. *Molecular
 Psychiatry*, aop, February 2015.
+[doi: 10.1038/mp.2014.193](http://dx.doi.org/10.1038/mp.2014.193)
+
 
 **Michael I. Love**, Wolfgang Huber, and Simon Anders. Moderated
 estimation of fold change and dispersion for RNA-seq data with
 DESeq2. *Genome Biology*, 15(12):550+, December 2014.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
+[doi: 10.1186/s13059-014-0550-8](http://dx.doi.org/doi:10.1186/s13059-014-0550-8)
 
 Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
 Zhang, Rafael A. Irizarry, Jun S. Liu, Myles Brown, and
 X. S. Liu. MAGeCK enables robust identification of essential genes
 from genome-scale CRISPR/cas9 knockout screens. *Genome Biology*,
 15(12):554+, December 2014.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290824/),
+[doi: 10.1186/s13059-014-0554-4](http://dx.doi.org/10.1186/s13059-014-0554-4)
 
 Jonas Ibn-Salem, Sebastian Köhler, **Michael I. Love**, Ho-Ryun Chung,
 Ni Huang, Matthew E. Hurles, Melissa Haendel, Nicole L. Washington,
@@ -61,6 +69,8 @@ Ott, Sebastian Bauer, Paul N. Schofield, Stefan Mundlos, Malte
 Spielmann, and Peter N. Robinson. Deletions of chromosomal regulatory
 boundaries are associated with congenital disease. *Genome Biology*,
 15(9):423+, September 2014.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180961/),
+[doi: 10.1186/s13059-014-0423-1](http://dx.doi.org/10.1186/s13059-014-0423-1)
 
 Owen D. Solberg, Edwin J. Ostrin, **Michael I. Love**, Jeffrey
 C. Peng, Nirav R. Bhakta, Lydia Hou, Christine Nguyen, Margaret Solon,
@@ -69,16 +79,21 @@ Walter E. Finkbeiner, K. Mark Ansel, Joseph R. Arron, David J. Erle,
 and Prescott G. Woodruff. Airway epithelial miRNA expression is
 altered in asthma. *American Journal of Respiratory and Critical Care
 Medicine*, 186(10):965–974, November 2012.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530212/),
+[doi: 10.1164/rccm.201201-0027OC](http://dx.doi.org/10.1164/rccm.201201-0027OC)
 
 Ruping Sun, **Michael I. Love**, Tomasz Zemojtel, Anne-Katrin Emde,
 Ho-Ryun Chung, Martin Vingron, and Stefan A. Haas. Breakpointer: using
 local mapping artifacts to support sequence breakpoint discovery from
 single-end reads. *Bioinformatics*, 28(7):1024–1025, April 2012.
+[doi: 10.1093/bioinformatics/bts064](http://dx.doi.org/10.1093/bioinformatics/bts064)
 
 **Michael I. Love**, Alena Myšičková, Ruping Sun, Vera Kalscheuer,
 Martin Vingron, and Stefan A. Haas. Modeling read counts for CNV
 detection in exome sequencing data. *Statistical Applications in
 Genetics and Molecular Biology*, 10(1), January 2011.
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
+[doi: 10.2202/1544-6115.1732](http://dx.doi.org/10.2202/1544-6115.1732)
 
 ### In progress
 

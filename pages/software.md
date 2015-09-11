@@ -18,12 +18,13 @@ including unpaired samples. The package implements a hidden Markov
 model which uses positional covariates, such as background read depth
 and GC-content, to simultaneously normalize and segment the samples
 into regions of constant copy count.
-Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron.
+Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
+(MPI Berlin).
 
 [alpine](http://github.com/mikelove/alpine) (github)
 Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
-Collaboration with Rafael Irizarry.
+Collaboration with Rafael Irizarry (DFCI Boston).
 
 [SparseData](http://github.com/mikelove/SparseData) (github)
 Efficiently calculate statistics such as group mean, standard
@@ -35,11 +36,12 @@ deviation and t-statistics on large sparse genomic data sets.
 This package provides infrastructure for parallel computations
 distributed 'by file' or 'by range'. User defined MAPPER and REDUCER
 functions provide added flexibility for data combination and manipulation.
-Collaboration with Valerie Obenchain and Martin Morgan.
+Collaboration with Valerie Obenchain and Martin Morgan (Bioconductor
+core team).
 
 [rafalib](https://cran.r-project.org/web/packages/rafalib/index.html) (CRAN)
 A series of shortcuts for routine tasks.
-Collaboration with Rafael Irizarry.
+Collaboration with Rafael Irizarry (DFCI Boston).
 
 ### Data packages
 

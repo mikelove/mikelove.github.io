@@ -24,17 +24,17 @@ Harvard TH Chan School of Public Health
 I use statistical models to infer biologically meaningful
 patterns from high-throughput sequencing data, and develop
 open-source statistical software for the Bioconductor Project.
-My main research efforts are in authoring and maintaining the
+One of my main research efforts is in authoring and maintaining the
 [DESeq2 package](http://bioconductor.org/packages/DESeq2) for statistical
 analysis of RNA-seq experiments.
 
 ### Background
 
-I received a PhD in Computational Biology and Scientific Computing
-(2013) from the Vingron Department at the Max Planck Institute for
+I completed a PhD in Computational Biology and Scientific Computing
+(2013) in the Vingron Department at the Max Planck Institute for
 Molecular Genetics in Berlin and the Mathematics and Informatics
-Department of the Freie Universität, Berlin.  I received a Statistics
-M.S. (2010) and Mathematics B.S. (2005) from Stanford University.
+Department of the Freie Universität, Berlin.  I complete a Statistics
+M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Latest work
 

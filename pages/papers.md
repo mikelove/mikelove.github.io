@@ -3,6 +3,26 @@ layout: page
 title: Papers
 ---
 
+### In progress
+
+**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
+RNA-seq fragment sequence bias reduces systematic errors in
+transcript abundance estimation. (submitted)
+[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
+[alpine package](http://github.com/mikelove/alpine)
+
+**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
+workflow: gene-level exploratory analysis and differential
+expression. (submitted)
+[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/)
+
+Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
+Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
+annotation-agnostic RNA-seq differential expression
+analysis. (submitted)
+[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
+[derfinder package](http://bioconductor.org/packages/derfinder)
+
 ### Accepted
 
 Stephan R. Starick, Jonas Ibn-Salem, Marcel Jurk, Céline Hernandez,
@@ -97,22 +117,3 @@ Genetics and Molecular Biology*, 10(1), January 2011.
 [doi: 10.2202/1544-6115.1732](http://dx.doi.org/10.2202/1544-6115.1732),
 [exomeCopy package](http://bioconductor.org/packages/exomeCopy)
 
-### In progress
-
-**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
-RNA-seq fragment sequence bias reduces systematic errors in
-transcript abundance estimation. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
-[alpine package](http://github.com/mikelove/alpine)
-
-**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
-workflow: gene-level exploratory analysis and differential
-expression. (submitted)
-[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/)
-
-Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
-Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
-annotation-agnostic RNA-seq differential expression
-analysis. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
-[derfinder package](http://bioconductor.org/packages/derfinder)

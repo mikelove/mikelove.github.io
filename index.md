@@ -33,7 +33,7 @@ analysis of RNA-seq experiments.
 I completed a PhD in Computational Biology and Scientific Computing
 (2013) in the Vingron Department at the Max Planck Institute for
 Molecular Genetics in Berlin and the Mathematics and Informatics
-Department of the Freie Universität, Berlin.  I complete a Statistics
+Department of the Freie Universität, Berlin.  I completed a Statistics
 M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Latest work

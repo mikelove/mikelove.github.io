@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Teaching
-description: foo bar
+title: 
 ---
 
 ### Online courses

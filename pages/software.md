@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Software
-description: foo bar
+title: 
 ---
 
 ### Maintainer

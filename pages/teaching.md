@@ -3,6 +3,15 @@ layout: page
 title: 
 ---
 
+### Books
+
+[<img width="100" src="https://s3.amazonaws.com/titlepages.leanpub.com/dataanalysisforthelifesciences/large?1443014076">](https://leanpub.com/dataanalysisforthelifesciences/)
+
+[Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/)
+by Rafael A. Irizarry and Michael I. Love.
+
+Self-published on Leanpub. Compiled from class notes and exercises for PH525x. 
+
 ### Online courses
 
 Teaching fellow, **HarvardX PH525x Series**: Biomedical Data Science

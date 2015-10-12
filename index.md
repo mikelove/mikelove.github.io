@@ -16,8 +16,8 @@ Dana-Farber Cancer Institute & <br>
 Department of Biostatistics, <br>
 Harvard TH Chan School of Public Health
 
-[@mikelove](http://twitter.com/mikelove)
-[Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)
+[@mikelove](http://twitter.com/mikelove) <br>
+[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)
 
 ---
 

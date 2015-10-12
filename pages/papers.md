@@ -31,7 +31,7 @@ Hilde Van Esch, Maureen Holvoet, Martine Raynaud, Michael Field,
 Melanie Leffler, Bartłomiej Budny, Marzena Wisniewska, Magdalena
 Badura-Stronka, Anna Latos-Bieleńska, Jacqueline Batanian, Jill A
 Rosenfeld, Lina Basel-Vanagaite, Corinna Jensen, Melanie Bienek, Guy
-Froyen, Reinhard Ullmann, Hao Hu, **Michael I Love**, Stefan A Haas, Pawel
+Froyen, Reinhard Ullmann, Hao Hu, **Michael I. Love**, Stefan A Haas, Pawel
 Stankiewicz, Sau Wai Cheung, Anne Baxendale, Jillian Nicholl,
 Elizabeth M Thompson, Eric Haan, Vera M Kalscheuer, Jozef Gecz.
 Increased STAG2 dosage defines a novel cohesinopathy with intellectual

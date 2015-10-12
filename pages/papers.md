@@ -25,6 +25,20 @@ analysis. (submitted)
 
 ### Accepted
 
+Raman Kumar, Mark A Corbett, Bregje WM van Bon, Alison Gardner, Joshua
+A Woenig, Lachlan A Jolly, Evelyn Douglas, Kathryn Friend, Chuan Tan,
+Hilde Van Esch, Maureen Holvoet, Martine Raynaud, Michael Field,
+Melanie Leffler, Bartłomiej Budny, Marzena Wisniewska, Magdalena
+Badura-Stronka, Anna Latos-Bieleńska, Jacqueline Batanian, Jill A
+Rosenfeld, Lina Basel-Vanagaite, Corinna Jensen, Melanie Bienek, Guy
+Froyen, Reinhard Ullmann, Hao Hu, **Michael I Love**, Stefan A Haas, Pawel
+Stankiewicz, Sau Wai Cheung, Anne Baxendale, Jillian Nicholl,
+Elizabeth M Thompson, Eric Haan, Vera M Kalscheuer, Jozef Gecz.
+Increased STAG2 dosage defines a novel cohesinopathy with intellectual
+disability and behavioural problems. *Human Molecular Genetics*,
+Epub aop, October 2015.
+[doi: 10.1093/hmg/ddv414](http://dx.doi.org/10.1093/hmg/ddv414)
+
 Stephan R. Starick, Jonas Ibn-Salem, Marcel Jurk, Céline Hernandez,
 **Michael I. Love**, Ho-Ryun Chung, Martin Vingron, Morgane
 Thomas-Chollier, and Sebastiaan H. Meijsing. ChIP-exo signal
@@ -64,9 +78,8 @@ M. Vingron, K. Wrogemann, T. F. Wienker, A. Tzschach, H. van Bokhoven,
 J. Gecz, T. J. Jentsch, W. Chen, H. H. Ropers, and
 V. M. Kalscheuer. X-exome sequencing of 405 unresolved families
 identifies seven novel intellectual disability genes. *Molecular
-Psychiatry*, aop, February 2015.
+Psychiatry*, Epub aop, February 2015.
 [doi: 10.1038/mp.2014.193](http://dx.doi.org/10.1038/mp.2014.193)
-
 
 **Michael I. Love**, Wolfgang Huber, and Simon Anders. Moderated
 estimation of fold change and dispersion for RNA-seq data with

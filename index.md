@@ -7,8 +7,7 @@ title: ""
 
 Michael Love <img style="float: right;" src="http://mike-love.net/img/michaellove_sm.jpg"> <br>
 
-Email: michaelisaiahlove at gmail dot com <br>
-Twitter: [@mikelove](http://twitter.com/mikelove)
+michaelisaiahlove at gmail dot com <br>
 
 Postdoctoral Fellow <br>
 [Irizarry lab](http://rafalab.dfci.harvard.edu) <br>
@@ -16,6 +15,9 @@ Department of Biostatistics and Computational Biology, <br>
 Dana-Farber Cancer Institute & <br>
 Department of Biostatistics, <br>
 Harvard TH Chan School of Public Health
+
+[@mikelove](http://twitter.com/mikelove)
+[Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)
 
 ---
 

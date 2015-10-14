@@ -24,8 +24,8 @@ analysis. (submitted)
 workflow: gene-level exploratory analysis and differential
 expression. (published, awaiting peer review)
 [F1000Research](http://f1000research.com/articles/4-1070/v1),
-[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/),
-[doi: 10.12688/f1000research.7035.1](http://dx.doi.org/10.12688/f1000research.7035.1)
+[doi: 10.12688/f1000research.7035.1](http://dx.doi.org/10.12688/f1000research.7035.1),
+[live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Raman Kumar, Mark A Corbett, Bregje WM van Bon, Alison Gardner, Joshua
 A Woenig, Lachlan A Jolly, Evelyn Douglas, Kathryn Friend, Chuan Tan,

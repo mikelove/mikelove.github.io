@@ -11,11 +11,6 @@ transcript abundance estimation. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
 [alpine package](http://github.com/mikelove/alpine)
 
-**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
-workflow: gene-level exploratory analysis and differential
-expression. (submitted)
-[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/)
-
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
 annotation-agnostic RNA-seq differential expression
@@ -24,6 +19,12 @@ analysis. (submitted)
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
 ### Accepted
+
+**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
+workflow: gene-level exploratory analysis and differential
+expression. (published, awaiting peer review)
+[F1000Research](http://f1000research.com/articles/4-1070/v1), 
+[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Stephan R. Starick, Jonas Ibn-Salem, Marcel Jurk, Céline Hernandez,
 **Michael I. Love**, Ho-Ryun Chung, Martin Vingron, Morgane

@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-### In progress
+### Submitted Manuscripts
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
@@ -18,7 +18,7 @@ analysis. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
-### Accepted
+### Publications
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential

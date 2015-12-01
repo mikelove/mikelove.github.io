@@ -23,7 +23,6 @@ analysis. (submitted)
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential
 expression. *F1000Research*, 4(1070), October 2015.
-(published, awaiting peer review)
 [doi: 10.12688/f1000research.7035.1](http://dx.doi.org/10.12688/f1000research.7035.1),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 

@@ -73,3 +73,10 @@ genes and exonic parts for paired-end RNA-Seq data from experiments on
 primary cultures of parathyroid tumors.
 The citation for the experiment is:
 [Haglund F et al (2012)](http://www.ncbi.nlm.nih.gov/pubmed/23024189).
+
+[tximportData](https://github.com/mikelove/tximportData)
+This packages provides output files from common transcript estimation
+software (Salmon, Kallisto, RSEM, Cufflinks) for demonstration of
+import using `tximport`. The files are a subset of 6 samples from the
+GEUVADIS project. The citation for the GEUVADIS project is:
+[Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)

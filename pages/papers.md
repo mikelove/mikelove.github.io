@@ -3,18 +3,13 @@ layout: page
 title: 
 ---
 
-### In progress
+### Submitted Manuscripts
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
 [alpine package](http://github.com/mikelove/alpine)
-
-**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
-workflow: gene-level exploratory analysis and differential
-expression. (submitted)
-[Bioconductor](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
@@ -23,7 +18,13 @@ analysis. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
-### Accepted
+### Publications
+
+**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
+workflow: gene-level exploratory analysis and differential
+expression. *F1000Research*, 4(1070), October 2015.
+[doi: 10.12688/f1000research.7035.1](http://dx.doi.org/10.12688/f1000research.7035.1),
+[live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Raman Kumar, Mark A Corbett, Bregje WM van Bon, Alison Gardner, Joshua
 A Woenig, Lachlan A Jolly, Evelyn Douglas, Kathryn Friend, Chuan Tan,

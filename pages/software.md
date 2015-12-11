@@ -25,6 +25,11 @@ Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
 Collaboration with Rafael Irizarry (DFCI Boston).
 
+[tximport](http://github.com/mikelove/tximport) (github)
+Import and summarize transcript-level estimates for gene-level
+analysis.
+Collaboration with Charlotte Soneson and Mark Robinson (UZH Zurich).
+
 [SparseData](http://github.com/mikelove/SparseData) (github)
 Efficiently calculate statistics such as group mean, standard
 deviation and t-statistics on large sparse genomic data sets.

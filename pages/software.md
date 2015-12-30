@@ -11,6 +11,17 @@ sequencing assays and test for differential expression based on a
 model using the negative binomial distribution.
 Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
 
+[alpine](http://github.com/mikelove/alpine) (github)
+Modeling and correcting fragment sequence bias for RNA-seq transcript
+abundance estimation. 
+Collaboration with Rafael Irizarry (DFCI Boston).
+
+[tximport](https://github.com/mikelove/tximport) (github)
+Imports transcript-level abundance, estimated counts and transcript
+lengths, and summarizes into matrices for use with downstream
+gene-level analysis packages such as edgeR, DESeq2, limma-voom.
+Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
+
 [exomeCopy](http://bioconductor.org/packages/exomeCopy) (Bioc)
 Detection of copy number variants (CNV) from exome sequencing samples,
 including unpaired samples. The package implements a hidden Markov
@@ -19,11 +30,6 @@ and GC-content, to simultaneously normalize and segment the samples
 into regions of constant copy count.
 Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
 (MPI Berlin).
-
-[alpine](http://github.com/mikelove/alpine) (github)
-Modeling and correcting fragment sequence bias for RNA-seq transcript
-abundance estimation. 
-Collaboration with Rafael Irizarry (DFCI Boston).
 
 [SparseData](http://github.com/mikelove/SparseData) (github)
 Efficiently calculate statistics such as group mean, standard

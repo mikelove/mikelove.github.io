@@ -75,7 +75,7 @@ primary cultures of parathyroid tumors.
 The citation for the experiment is:
 [Haglund F et al (2012)](http://www.ncbi.nlm.nih.gov/pubmed/23024189).
 
-[tximportData](https://github.com/mikelove/tximportData)
+[tximportData](https://bioconductor.org/packages/tximportData)
 This packages provides output files from common transcript estimation
 software (Salmon, Kallisto, RSEM, Cufflinks) for demonstration of
 import using `tximport`. The files are a subset of 6 samples from the

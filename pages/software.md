@@ -16,7 +16,7 @@ Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
 Collaboration with Rafael Irizarry (DFCI Boston).
 
-[tximport](https://github.com/mikelove/tximport) (github)
+[tximport](https://bioconductor.org/packages/tximport) (Bioc)
 Imports transcript-level abundance, estimated counts and transcript
 lengths, and summarizes into matrices for use with downstream
 gene-level analysis packages such as edgeR, DESeq2, limma-voom.

@@ -5,14 +5,6 @@ title:
 
 ### Submitted Manuscripts
 
-Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
-analyses for RNA-seq: transcript-level estimates improve gene-level
-inferences. (published, awaiting peer-review) *F1000Research*,
-4(1521), December 2015. 
-[F1000Research](http://f1000research.com/articles/4-1521/v1),
-[doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
-[tximport package](https://github.com/mikelove/tximport)
-
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
@@ -27,6 +19,14 @@ analysis. (submitted)
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
 ### Publications
+
+Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
+analyses for RNA-seq: transcript-level estimates improve gene-level
+inferences. *F1000Research*,
+4(1521), December 2015. 
+[F1000Research](http://f1000research.com/articles/4-1521/v1),
+[doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
+[tximport package](https://github.com/mikelove/tximport)
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential

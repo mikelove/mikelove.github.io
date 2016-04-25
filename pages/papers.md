@@ -20,6 +20,14 @@ analysis. (submitted)
 
 ### Publications
 
+Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
+Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
+Sara Olson, Dmitri Pervouchine, Cricket A. Sloan, Xintao Wei, Lijun
+Zhan and Rafael A. Irizarry.
+A benchmark for RNA-seq quantification pipelines. *Genome Biology*,
+17(74), April 2016.
+[doi: 10.1186/s13059-016-0940-1](http://dx.doi.org/10.1186/s13059-016-0940-1)
+
 Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
 analyses for RNA-seq: transcript-level estimates improve gene-level
 inferences. *F1000Research*,

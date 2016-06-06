@@ -9,12 +9,11 @@ Michael Love <img style="float: right;" src="http://mike-love.net/img/michaellov
 
 michaelisaiahlove at gmail dot com <br>
 
-Postdoctoral Fellow <br>
-[Irizarry lab](http://rafalab.dfci.harvard.edu) <br>
-Department of Biostatistics and Computational Biology, <br>
-Dana-Farber Cancer Institute & <br>
-Department of Biostatistics, <br>
-Harvard TH Chan School of Public Health
+*As of August 2016:*<br>
+Assistant Professor <br>
+[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
+[Department of Genetics](http://www.med.unc.edu/genetics/) <br>
+UNC Chapel Hill
 
 [CV](http://mike-love.net/cv/love2015.pdf) <br>
 [@mikelove](http://twitter.com/mikelove) <br>
@@ -33,6 +32,10 @@ analysis of RNA-seq experiments.
 
 ### Background
 
+From 2013-2016, I was a Postdoctoral Fellow in the group of
+Rafael Irizarry in the Biostatistics and Computational Biology
+Department at the Dana-Farber Cancer Institute and the Harvard
+TH Chan School of Public Health.
 I completed a PhD in Computational Biology and Scientific Computing
 (2013) in the Vingron Department at the Max Planck Institute for
 Molecular Genetics in Berlin and the Mathematics and Informatics

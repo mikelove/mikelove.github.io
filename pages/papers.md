@@ -10,7 +10,7 @@ RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
 [bioRxiv, Aug 2015](http://biorxiv.org/content/early/2015/08/28/025767),
 [self-hosted preprint, Aug 2016](http://mikelove.nfshost.com/papers/love_alpine_preprint.pdf),
-[alpine package](http://github.com/mikelove/alpine)
+[alpine Bioconductor package](http://bioconductor.org/packages/alpine)
 
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for

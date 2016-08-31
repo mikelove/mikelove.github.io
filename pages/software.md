@@ -11,7 +11,7 @@ sequencing assays and test for differential expression based on a
 model using the negative binomial distribution.
 Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
 
-[alpine](http://github.com/mikelove/alpine) (github)
+[alpine](http://bioconductor/packages/alpine) (Bioc)
 Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
 Collaboration with Rafael Irizarry (DFCI Boston).

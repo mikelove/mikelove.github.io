@@ -10,7 +10,7 @@ RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
 [bioRxiv, Aug 2015](http://biorxiv.org/content/early/2015/08/28/025767),
 [self-hosted preprint, Aug 2016](http://mikelove.nfshost.com/papers/love_alpine_preprint.pdf),
-[alpine Bioconductor package](http://bioconductor.org/packages/alpine)
+[alpine package](http://bioconductor.org/packages/alpine)
 
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
@@ -35,7 +35,7 @@ inferences. *F1000Research*,
 4(1521), December 2015. 
 [F1000Research](http://f1000research.com/articles/4-1521/v1),
 [doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
-[tximport package](https://github.com/mikelove/tximport)
+[tximport package](http://bioconductor.org/packages/tximport)
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential

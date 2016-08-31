@@ -8,7 +8,8 @@ title:
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
+[bioRxiv 2015](http://biorxiv.org/content/early/2015/08/28/025767),
+[self-hosted preprint 2016](http://mikelove.nfshost.com/papers/love_alpine_preprint.pdf)
 [alpine package](http://github.com/mikelove/alpine)
 
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.

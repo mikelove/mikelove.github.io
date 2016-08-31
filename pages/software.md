@@ -51,7 +51,6 @@ Collaboration with Rafael Irizarry (DFCI Boston).
 ### Data packages
 
 [airway](http://bioconductor.org/packages/release/data/experiment/html/airway.html)
-(Bioc)
 This package provides a SummarizedExperiment object of read counts in
 genes for an RNA-Seq experiment on four human airway smooth muscle
 cell lines treated with dexamethasone.
@@ -59,7 +58,6 @@ The citation for the experiment is:
 [Himes BE et al (2014)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4057123/).
 
 [fission](http://bioconductor.org/packages/release/data/experiment/html/fission.html)
-(Bioc) 
 This package provides a SummarizedExperiment object of read counts in
 genes for a time course RNA-Seq experiment of fission yeast
 (Schizosaccharomyces pombe) in response to oxidative stress (1M
@@ -68,7 +66,6 @@ The citation for the experiment is:
 [Leong HS et al. (2014)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050258/).
 
 [parathyroidSE](http://bioconductor.org/packages/release/data/experiment/html/parathyroidSE.html)
-(Bioc) 
 This package provides SummarizedExperiment objects of read counts in
 genes and exonic parts for paired-end RNA-Seq data from experiments on
 primary cultures of parathyroid tumors.

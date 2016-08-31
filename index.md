@@ -9,7 +9,6 @@ Michael Love <img style="float: right;" src="http://mikelove.nfshost.com/img/mic
 
 michaelisaiahlove at gmail dot com <br>
 
-*As of August 2016:*<br>
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
 [Department of Genetics](http://www.med.unc.edu/genetics/) <br>

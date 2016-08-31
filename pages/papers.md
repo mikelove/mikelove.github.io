@@ -5,6 +5,12 @@ title:
 
 ### Submitted Manuscripts
 
+Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford.
+Salmon provides accurate, fast, and bias-aware transcript expression
+estimates using dual-phase inference. (submitted)
+[bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
+[Salmon software](https://combine-lab.github.io/salmon/)
+
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)

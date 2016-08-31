@@ -81,3 +81,9 @@ software (Salmon, Kallisto, RSEM, Cufflinks) for demonstration of
 import using `tximport`. The files are a subset of 6 samples from the
 GEUVADIS project. The citation for the GEUVADIS project is:
 [Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)
+
+[alpineData](https://bioconductor.org/packages/alpineData)
+This packages provides a subset of alignments for demonstration of
+`alpine`. The samples aligned are a subset of 4 samples from the
+GEUVADIS project. The citation for the GEUVADIS project is:
+[Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)

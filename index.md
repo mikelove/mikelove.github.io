@@ -14,7 +14,6 @@ Assistant Professor <br>
 [Department of Genetics](http://www.med.unc.edu/genetics/) <br>
 UNC Chapel Hill
 
-[CV](http://mikelove.nfshost.com/cv/love2015.pdf) <br>
 [@mikelove](http://twitter.com/mikelove) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)
 

@@ -14,8 +14,7 @@ estimates using dual-phase inference. (submitted)
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
 RNA-seq fragment sequence bias reduces systematic errors in
 transcript abundance estimation. (submitted)
-[bioRxiv, Aug 2015](http://biorxiv.org/content/early/2015/08/28/025767),
-[self-hosted preprint, Aug 2016](http://mikelove.nfshost.com/papers/love_alpine_preprint.pdf),
+[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
 [alpine package](http://bioconductor.org/packages/alpine)
 
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.

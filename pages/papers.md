@@ -11,12 +11,6 @@ estimates using dual-phase inference. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
 [Salmon software](https://combine-lab.github.io/salmon/)
 
-**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
-RNA-seq fragment sequence bias reduces systematic errors in
-transcript abundance estimation. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
-[alpine package](http://bioconductor.org/packages/alpine)
-
 Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
 Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
 annotation-agnostic RNA-seq differential expression
@@ -25,6 +19,16 @@ analysis. (submitted)
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
 ### Publications
+
+**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
+Modeling of RNA-seq fragment sequence bias reduces systematic errors
+in transcript abundance estimation. *Nature Biotechnology*,
+AOP, September, 2016.
+[doi: 10.1038/nbt.3682](http://dx.doi.org/10.1038/nbt.3682),
+[blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
+[YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
+[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
+[alpine package](http://bioconductor.org/packages/alpine)
 
 Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
 Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,

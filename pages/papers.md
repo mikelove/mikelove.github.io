@@ -11,14 +11,15 @@ estimates using dual-phase inference. (submitted)
 [bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
 [Salmon software](https://combine-lab.github.io/salmon/)
 
-Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
-Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
-annotation-agnostic RNA-seq differential expression
-analysis. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
-[derfinder package](http://bioconductor.org/packages/derfinder)
-
 ### Publications
+
+Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
+Christopher Wilks, **Michael I. Love**, Ben Langmead,
+Rafael A. Irizarry, Jeffrey Leek, Andrew E. Jaffe.
+Flexible expressed region analysis for RNA-seq with derfinder.
+AA *Nucleic Acids Research*, October 2016.
+[doi: 10.1093/nar/gkw852](http://dx.doi.org/10.1093/nar/gkw852),
+[derfinder package](http://bioconductor.org/packages/derfinder)
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
@@ -42,7 +43,6 @@ Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
 analyses for RNA-seq: transcript-level estimates improve gene-level
 inferences. *F1000Research*,
 4(1521), December 2015. 
-[F1000Research](http://f1000research.com/articles/4-1521/v1),
 [doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
 [tximport package](http://bioconductor.org/packages/tximport)
 

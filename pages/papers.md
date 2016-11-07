@@ -13,6 +13,14 @@ estimates using dual-phase inference. (submitted)
 
 ### Publications
 
+**Michael I. Love**, Matthew Huska, Marcel Jurk, Robert Schöpflin,
+Stephan Starick, Kevin Schwahn, Samantha Cooper, Keith Yamamoto, 
+Morgane Thomas-Chollier, Martin Vingron, Sebastiaan Meijsing.
+Role of the chromatin landscape and sequence in determining cell
+type-specific genomic glucocorticoid receptor binding and gene
+regulation.
+Accepted *Nucleic Acids Research*, November 2016.
+
 Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
 Christopher Wilks, **Michael I. Love**, Ben Langmead,
 Rafael A. Irizarry, Jeffrey Leek, Andrew E. Jaffe.

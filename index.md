@@ -5,7 +5,7 @@ title: "Michael I Love"
 
 <!-- {% include JB/setup %} -->
 
-Michael I Love <img style="float: right;" src="http://mikelove.nfshost.com/img/michaellove_sm.jpg"> <br>
+<img style="float: right;" src="http://mikelove.nfshost.com/img/michaellove_sm.jpg"> <br>
 
 michaelisaiahlove at gmail dot com <br>
 

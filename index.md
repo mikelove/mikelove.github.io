@@ -67,7 +67,7 @@ transcript lengths (following the method introduced by
 [Roberts 2011](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-3-r22)),
 and because effective transcript lengths are incorporated and passed
 along to the statistical models when using the 
-[tximport](http://bioconductor.org/tximport) pipeline,
+[tximport](http://bioconductor.org/packages/tximport) pipeline,
 any biases estimated and corrected for by Salmon (or Sailfish or
 kallisto) will be propogated to the differential expression tools,
 such as DESeq2. DESeq2 analyzes the estimated counts, but takes into

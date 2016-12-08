@@ -45,8 +45,22 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 My latest work is studying the effect of fragment sequence bias
 (e.g. fragment-level GC content bias) on
 RNA-seq transcript abundance estimation. I have developed a novel
-[method](http://biorxiv.org/content/early/2015/08/28/025767) and
-[software](http://github.com/mikelove/alpine) for correcting fragment
+[method](http://www.nature.com/nbt/journal/v34/n12/full/nbt.3682.html) and
+[software](http://bioconductor/packages/alpine) for correcting fragment
 sequence bias for the purposes of transcript quantification in
 RNA-seq, which greatly reduces the technical artifacts and batch
 effects when compared to state-of-the-art methods.
+
+In addition, I have collaborated with the authors and developers of
+the [Salmon](https://combine-lab.github.io/salmon/) 
+software, to incorporate fragment sequence bias correction
+into the fast, lightweight transcript abundance estimation methods.
+A new version of the 
+[Salmon manuscript](http://biorxiv.org/content/early/2016/08/30/021592) 
+describing the new bias correction methods has been posted to
+bioRxiv (8/2016).
+
+### Connection of bias correction, transcript abundance estimation,
+    and gene-level differential expression
+
+

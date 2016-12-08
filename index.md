@@ -72,5 +72,5 @@ any biases estimated and corrected for by Salmon (or Sailfish or
 kallisto) will be propogated to the differential expression tools,
 such as DESeq2. DESeq2 analyzes the estimated counts, but takes into
 account factors affecting those counts, such as differences in sequencing
-depth, as well as technical or biological changes in gene's effective
+depth, as well as technical or biological changes in genes' effective
 lengths. 

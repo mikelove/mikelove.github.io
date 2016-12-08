@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Michael Love"
 ---
 
 <!-- {% include JB/setup %} -->

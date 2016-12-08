@@ -60,7 +60,17 @@ A new version of the
 describing the new bias correction methods has been posted to
 bioRxiv (8/2016).
 
-### Connection of bias correction, transcript abundance estimation,
-    and gene-level differential expression
-
-
+There is a connection between the work in bias correction, transcript
+abundance estimation, and gene-level differential expression. Because
+the biases estimated by Salmon are incorporated as effective
+transcript lengths (following the method introduced by 
+[Roberts 2011](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-3-r22)),
+and because effective transcript lengths are incorporated and passed
+along to the statistical models when using the 
+[tximport](http://bioconductor.org/tximport) pipeline,
+any biases estimated and corrected for by Salmon (or Sailfish or
+kallisto) will be propogated to the differential expression tools,
+such as DESeq2. DESeq2 analyzes the estimated counts, but takes into
+account technical factors affecting those counts, such as sequencing
+depth, as well as technical or biological changes in gene's effective
+lengths. 

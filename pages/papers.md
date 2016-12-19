@@ -19,7 +19,8 @@ Morgane Thomas-Chollier, Martin Vingron, Sebastiaan Meijsing.
 Role of the chromatin landscape and sequence in determining cell
 type-specific genomic glucocorticoid receptor binding and gene
 regulation.
-Accepted *Nucleic Acids Research*, November 2016.
+AA *Nucleic Acids Research*, November 2016.
+[doi: 10.1093/nar/gkw1163](http://dx.doi.org/10.1093/nar/gkw1163)
 
 Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
 Christopher Wilks, **Michael I. Love**, Ben Langmead,

@@ -12,7 +12,7 @@ michaelisaiahlove at gmail dot com <br>
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
 [Department of Genetics](http://www.med.unc.edu/genetics/) <br>
-UNC Chapel Hill
+University of North Carolina-Chapel Hill
 
 [@mikelove](http://twitter.com/mikelove) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)

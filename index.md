@@ -7,7 +7,10 @@ title: "Michael I Love"
 
 <img style="float: right;" src="http://mikelove.nfshost.com/img/michaellove_sm.jpg"> <br>
 
-michaelisaiahlove at gmail dot com <br>
+michaelisaiahlove at gmail dot com *<br>
+
+* for software questions, do not email, instead use the
+[Bioc support site](http://support.bioconductor.org)
 
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>

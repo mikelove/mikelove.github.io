@@ -9,7 +9,7 @@ title: "Michael I Love"
 
 michaelisaiahlove at gmail dot com *
 
-* for software questions, do not email, <br>
+\* for software questions, do not email, <br>
 instead use the [Bioconductor support site](http://support.bioconductor.org)
 
 Assistant Professor <br>

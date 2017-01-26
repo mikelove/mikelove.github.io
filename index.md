@@ -10,7 +10,9 @@ title: "Michael I Love"
 michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, <br>
-instead use the [Bioconductor support site](http://support.bioconductor.org)
+instead use the [Bioconductor support site](https://support.bioconductor.org)
+
+..............................
 
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>

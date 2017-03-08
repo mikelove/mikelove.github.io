@@ -5,9 +5,8 @@ title: "Papers"
 
 ### Publications
 
-Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford.
-Salmon provides accurate, fast, and bias-aware transcript expression
-estimates using dual-phase inference.
+Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford. 
+Salmon provides fast and bias-aware quantification of transcript expression.
 AA *Nature Methods*, March 2017.
 [doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197),
 [CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),

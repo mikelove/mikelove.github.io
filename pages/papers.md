@@ -35,7 +35,7 @@ AA *Nucleic Acids Research*, October 2016.
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
 in transcript abundance estimation. *Nature Biotechnology*,
-34(12):1287-1291, December 2016.
+34(12):1287-1291, September 2016.
 [doi: 10.1038/nbt.3682](http://dx.doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
 [YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),

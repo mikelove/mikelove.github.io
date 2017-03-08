@@ -9,8 +9,8 @@ Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford.
 Salmon provides accurate, fast, and bias-aware transcript expression
 estimates using dual-phase inference.
 AA *Nature Methods*, March 2017.
-[doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197)
-[CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/)
+[doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197),
+[CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
 [bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
 [Salmon software](https://combine-lab.github.io/salmon/)
 

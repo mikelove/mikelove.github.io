@@ -56,14 +56,12 @@ sequence bias for the purposes of transcript quantification in
 RNA-seq, which greatly reduces the technical artifacts and batch
 effects when compared to state-of-the-art methods.
 
-In addition, I have collaborated with the authors and developers of
+In addition, I collaborate with the authors and developers of
 the [Salmon](https://combine-lab.github.io/salmon/) 
 software, to incorporate fragment sequence bias correction
 into the fast, lightweight transcript abundance estimation methods.
-A new version of the 
-[Salmon manuscript](http://biorxiv.org/content/early/2016/08/30/021592) 
-describing the new bias correction methods has been posted to
-bioRxiv (8/2016).
+The [Salmon method](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4197.html)
+is now published in Nature Methods (March 2017).
 
 There is a connection between the work in bias correction, transcript
 abundance estimation, and gene-level differential expression. Because

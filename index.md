@@ -12,7 +12,7 @@ michaelisaiahlove at gmail dot com *
 \* for software questions, do not email, <br>
 instead use the [Bioconductor support site](https://support.bioconductor.org)
 
-..............................
+<br><br>
 
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>

@@ -39,7 +39,7 @@ deviation and t-statistics on large sparse genomic data sets.
 
 [Salmon](https://combine-lab.github.io/salmon/) a tool for quantifying
 the expression of transcripts using RNA-seq data. I collaborate with
-the author and developer Rob Patro on bias correction methods in
+the lead author and maintainer Rob Patro (SBU) on bias correction methods in
 Salmon, similar to those in alpine, on measurements of estimation
 uncertainty through Gibbs and bootstrap sampling, and on propagation
 of metadata from abundance estimation to downstream analysis packages.

@@ -3,6 +3,10 @@ layout: page
 title: "Teaching"
 ---
 
+### Courses at UNC-Chapel Hill
+
+BIOS 784: Introduction to Computational Biology. Fall 2017, 9:05-10:20 MW
+
 ### Books
 
 [<img width="100" src="https://s3.amazonaws.com/titlepages.leanpub.com/dataanalysisforthelifesciences/large?1443014076">](https://leanpub.com/dataanalysisforthelifesciences/)

@@ -35,10 +35,10 @@ AA *Nucleic Acids Research*, October 2016.
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
 in transcript abundance estimation. *Nature Biotechnology*,
 34(12):1287-1291, September 2016.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143225/),
 [doi: 10.1038/nbt.3682](http://dx.doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
 [YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
 [alpine package](http://bioconductor.org/packages/alpine)
 
 Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,

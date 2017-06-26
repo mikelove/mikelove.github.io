@@ -21,6 +21,7 @@ University of North Carolina-Chapel Hill
 
 [@mikelove](http://twitter.com/mikelove) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ)
+[Biostatistics Dept. bio](http://sph.unc.edu/adv_profile/michael-love-phd/)
 
 ---
 

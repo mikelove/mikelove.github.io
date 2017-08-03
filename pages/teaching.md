@@ -3,6 +3,10 @@ layout: page
 title: 
 ---
 
+### Classes
+
+* [BIOS 784 - Introduction to Computational Biology](http://mikelove.github.io/compbio)
+
 ### Books
 
 [<img width="100" src="https://s3.amazonaws.com/titlepages.leanpub.com/dataanalysisforthelifesciences/large?1443014076">](https://leanpub.com/dataanalysisforthelifesciences/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: "Software"
 ---
 
 ### Maintainer
@@ -36,6 +36,13 @@ Efficiently calculate statistics such as group mean, standard
 deviation and t-statistics on large sparse genomic data sets.
 
 ### Contributor
+
+[Salmon](https://combine-lab.github.io/salmon/) a tool for quantifying
+the expression of transcripts using RNA-seq data. I collaborate with
+the lead author and maintainer Rob Patro (SBU) on bias correction methods in
+Salmon, similar to those in alpine, on measurements of estimation
+uncertainty through Gibbs and bootstrap sampling, and on propagation
+of metadata from abundance estimation to downstream analysis packages.
 
 [GenomicFiles](http://bioconductor.org/packages/GenomicFiles) (Bioc)
 This package provides infrastructure for parallel computations

@@ -1,30 +1,45 @@
 ---
 layout: page
-title: 
+title: "Papers"
 ---
 
-### Submitted Manuscripts
+### Publications
 
-Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford.
-Salmon provides accurate, fast, and bias-aware transcript expression
-estimates using dual-phase inference. (submitted)
+Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford. 
+Salmon provides fast and bias-aware quantification of transcript expression.
+AA *Nature Methods*, March 2017.
+[doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197),
+[CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
 [bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
 [Salmon software](https://combine-lab.github.io/salmon/)
 
-**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. Modeling of
-RNA-seq fragment sequence bias reduces systematic errors in
-transcript abundance estimation. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/08/28/025767),
-[alpine package](http://bioconductor.org/packages/alpine)
+**Michael I. Love**, Matthew Huska, Marcel Jurk, Robert Schöpflin,
+Stephan Starick, Kevin Schwahn, Samantha Cooper, Keith Yamamoto, 
+Morgane Thomas-Chollier, Martin Vingron, Sebastiaan Meijsing.
+Role of the chromatin landscape and sequence in determining cell
+type-specific genomic glucocorticoid receptor binding and gene
+regulation.
+AA *Nucleic Acids Research*, November 2016. 
+[NAR HTML](http://nar.oxfordjournals.org/content/early/2016/11/29/nar.gkw1163.long),
+[doi: 10.1093/nar/gkw1163](http://dx.doi.org/10.1093/nar/gkw1163)
 
-Leonardo Collado Torres, Alyssa C. Frazee, **Michael I. Love**, Rafael A.
-Irizarry, Andrew E. Jaffe, Jeffrey Leek. derfinder: Software for
-annotation-agnostic RNA-seq differential expression
-analysis. (submitted)
-[bioRxiv](http://biorxiv.org/content/early/2015/02/19/015370),
+Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
+Christopher Wilks, **Michael I. Love**, Ben Langmead,
+Rafael A. Irizarry, Jeffrey Leek, Andrew E. Jaffe.
+Flexible expressed region analysis for RNA-seq with derfinder.
+AA *Nucleic Acids Research*, October 2016.
+[doi: 10.1093/nar/gkw852](http://dx.doi.org/10.1093/nar/gkw852),
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
-### Publications
+**Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
+Modeling of RNA-seq fragment sequence bias reduces systematic errors
+in transcript abundance estimation. *Nature Biotechnology*,
+34(12):1287-1291, September 2016.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143225/),
+[doi: 10.1038/nbt.3682](http://dx.doi.org/10.1038/nbt.3682),
+[blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
+[YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
+[alpine package](http://bioconductor.org/packages/alpine)
 
 Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
 Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
@@ -38,7 +53,6 @@ Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
 analyses for RNA-seq: transcript-level estimates improve gene-level
 inferences. *F1000Research*,
 4(1521), December 2015. 
-[F1000Research](http://f1000research.com/articles/4-1521/v1),
 [doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
 [tximport package](http://bioconductor.org/packages/tximport)
 

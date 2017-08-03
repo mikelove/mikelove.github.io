@@ -25,8 +25,7 @@ Teaching fellow, **HarvardX PH525x Series**: Biomedical Data Science
 (8 classes), Feb-Jun 2014 (+4000 students participating), Feb-Jun 2015 (+7000 students
 participating). The development of these course was supported in part by NIH grant R25GM114818.
 
-* [Course links](http://genomicsclass.github.io/book/pages/classes.html) 
+* [Links to videos, edX](http://rafalab.github.io/pages/harvardx.html)
 * [Class notes (HTML)](http://genomicsclass.github.io/book/)
 * [Class notes (Rmd)](https://github.com/genomicsclass/labs)
-
 

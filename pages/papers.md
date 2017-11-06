@@ -5,12 +5,19 @@ title: "Papers"
 
 ### Publications
 
+Doug H. Phanstiel, Kevin Van Bortle, Damek Spacek, Gaelen T. Hess,
+Muhammad S. Shamim, Ido Machol, **Michael I. Love**, Erez L. Aiden, 
+Michael C. Bassik, Michael P. Snyder.
+Static and Dynamic DNA Loops form AP-1-Bound Activation Hubs during Macrophage Development.
+*Molecular Cell*, September 2017.
+[doi: 10.1016/j.molcel.2017.08.006](http://dx.doi.org/10.1016/j.molcel.2017.08.006)
+
 Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford. 
 Salmon provides fast and bias-aware quantification of transcript expression.
 AA *Nature Methods*, March 2017.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600148/),
 [doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197),
 [CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
-[bioRxiv](http://biorxiv.org/content/early/2016/08/30/021592),
 [Salmon software](https://combine-lab.github.io/salmon/)
 
 **Michael I. Love**, Matthew Huska, Marcel Jurk, Robert Schöpflin,

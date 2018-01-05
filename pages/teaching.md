@@ -5,7 +5,7 @@ title: "Teaching"
 
 ### Classes
 
-* [BIOS 784 - Introduction to Computational Biology](http://mikelove.github.io/compbio)
+* [BIOS 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio)
   Fall 2017, 9:05-10:20 MW
 
 ### Books

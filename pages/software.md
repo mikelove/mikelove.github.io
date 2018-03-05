@@ -45,7 +45,7 @@ role="button">apeglm</a>
 * Bayesian shrinkage estimators for effect sizes for a variety of GLM
 models, using approximation of the posterior for individual
 coefficients.  Developed by Anqi Zhu (UNC-CH), collaboration with
-Joseph Ibrahim (UNC-CH). `apeglm` methods be accessed via `lfcShrink`
+Joseph Ibrahim (UNC-CH). `apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 <a class="btn btn-primary"

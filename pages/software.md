@@ -7,14 +7,28 @@ title: "Software"
 
 **highly used**
 
-[DESeq2](http://bioconductor.org/packages/DESeq2) (Bioc)
-Estimate variance-mean dependence in count data from high-throughput
+<a class="btn btn-primary"
+href="http://bioconductor.org/packages/DESeq2"
+role="button">DESeq2</a>
+<a class="btn btn-secondary"
+href="http://bioconductor.org/packages/stats/bioc/DESeq2/"
+role="button">usage stats</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/DESeq2.svg">
+
+* Estimate variance-mean dependence in count data from high-throughput
 sequencing assays and test for differential expression based on a
 model using the negative binomial distribution.
 Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
 
-[tximport](http://bioconductor.org/packages/tximport) (Bioc)
-Imports transcript-level abundance, estimated counts and transcript
+<a class="btn btn-primary"
+href="http://bioconductor.org/packages/tximport"
+role="button">tximport</a>
+<a class="btn btn-secondary"
+href="http://bioconductor.org/packages/stats/bioc/tximport/"
+role="button">usage stats</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/tximport.svg">
+
+* Imports transcript-level abundance, estimated counts and transcript
 lengths, and summarizes into matrices for use with downstream
 gene-level analysis packages such as edgeR, DESeq2, limma-voom.
 Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
@@ -23,28 +37,43 @@ Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
 
 **newly developed**
 
-[apeglm](http://bioconductor.org/packages/apeglm) (Bioc) Bayesian
-shrinkage estimators for effect sizes for a variety of GLM models,
-using approximation of the posterior for individual coefficients.
-Developed by Anqi Zhu (UNC-CH), collaboration with Joseph Ibrahim
-(UNC-CH). `apeglm` methods be accessed via `lfcShrink` in
-the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
+<a class="btn btn-primary"
+href="http://bioconductor.org/packages/apeglm"
+role="button">apeglm</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/apeglm.svg">
 
-[tximeta](https://github.com/mikelove/tximeta) (GitHub) Import
-transcript abundances with automagic population of metadata.
+* Bayesian shrinkage estimators for effect sizes for a variety of GLM
+models, using approximation of the posterior for individual
+coefficients.  Developed by Anqi Zhu (UNC-CH), collaboration with
+Joseph Ibrahim (UNC-CH). `apeglm` methods be accessed via `lfcShrink`
+in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
+
+<a class="btn btn-primary"
+href="https://github.com/mikelove/tximeta"
+role="button">tximeta</a> (GitHub)
+
+* Import transcript abundances with automagic population of metadata.
 Builds on top of `tximport`, outputs a `SummarizedExperiment` object
 with transcriptome metadata automatically added. Collaboration with
 Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (JHU).
 
 ---
 
-[alpine](http://bioconductor/packages/alpine) (Bioc)
-Modeling and correcting fragment sequence bias for RNA-seq transcript
+<a class="btn btn-primary"
+href="http://bioconductor/packages/alpine"
+role="button">alpine</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/alpine.svg">
+
+* Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
 Collaboration with Rafael Irizarry (DFCI Boston).
 
-[exomeCopy](http://bioconductor.org/packages/exomeCopy) (Bioc)
-Detection of copy number variants (CNV) from exome sequencing samples,
+<a class="btn btn-primary"
+href="http://bioconductor.org/packages/exomeCopy"
+role="button">exomeCopy</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
+
+* Detection of copy number variants (CNV) from exome sequencing samples,
 including unpaired samples. The package implements a hidden Markov
 model which uses positional covariates, such as background read depth
 and GC-content, to simultaneously normalize and segment the samples
@@ -52,8 +81,11 @@ into regions of constant copy count.
 Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
 (MPI Berlin).
 
-[SparseData](http://github.com/mikelove/SparseData) (GitHub)
-Efficiently calculate statistics such as group mean, standard
+<a class="btn btn-primary"
+href="http://github.com/mikelove/SparseData"
+role="button">SparseData</a> (GitHub)
+
+* Efficiently calculate statistics such as group mean, standard
 deviation and t-statistics on large sparse genomic data sets.
 
 ### Contributor

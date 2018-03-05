@@ -11,7 +11,7 @@ D. Robinson, Sandrine Dudoit (N) and Lieven Clement (N).
 Observation weights unlock bulk RNA-seq tools for zero inflation and
 single-cell applications.
 *Genome Biology*, February 2018.
-[doi: 10.1186/s13059-018-1406-4](https://doi.org/10.1186/s13059-018-1406-4)
+[doi: 10.1186/s13059-018-1406-4](https://doi.org/10.1186/s13059-018-1406-4),
 [ZINB-WaVE software vignette for DE analysis](http://bioconductor.org/packages/zinbwave)
 
 Doug H. Phanstiel, Kevin Van Bortle, Damek Spacek, Gaelen T. Hess,
@@ -19,11 +19,12 @@ Muhammad S. Shamim, Ido Machol, **Michael I. Love**, Erez L. Aiden,
 Michael C. Bassik, Michael P. Snyder.
 Static and Dynamic DNA Loops form AP-1-Bound Activation Hubs during Macrophage Development.
 *Molecular Cell*, September 2017.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610110/),
 [doi: 10.1016/j.molcel.2017.08.006](https://doi.org/10.1016/j.molcel.2017.08.006)
 
 Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford. 
 Salmon provides fast and bias-aware quantification of transcript expression.
-AA *Nature Methods*, March 2017.
+*Nature Methods*, March 2017.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600148/),
 [doi: 10.1038/nmeth.4197](https://doi.org/10.1038/nmeth.4197),
 [CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
@@ -35,15 +36,15 @@ Morgane Thomas-Chollier, Martin Vingron, Sebastiaan Meijsing.
 Role of the chromatin landscape and sequence in determining cell
 type-specific genomic glucocorticoid receptor binding and gene
 regulation.
-AA *Nucleic Acids Research*, November 2016. 
-[NAR HTML](http://nar.oxfordjournals.org/content/early/2016/11/29/nar.gkw1163.long),
+*Nucleic Acids Research*, November 2016.
 [doi: 10.1093/nar/gkw1163](https://doi.org/10.1093/nar/gkw1163)
 
 Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
 Christopher Wilks, **Michael I. Love**, Ben Langmead,
 Rafael A. Irizarry, Jeffrey Leek, Andrew E. Jaffe.
 Flexible expressed region analysis for RNA-seq with derfinder.
-AA *Nucleic Acids Research*, October 2016.
+*Nucleic Acids Research*, October 2016.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314792/),
 [doi: 10.1093/nar/gkw852](https://doi.org/10.1093/nar/gkw852),
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
@@ -61,20 +62,24 @@ Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
 Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
 Sara Olson, Dmitri Pervouchine, Cricket A. Sloan, Xintao Wei, Lijun
 Zhan and Rafael A. Irizarry.
-A benchmark for RNA-seq quantification pipelines. *Genome Biology*,
-17(74), April 2016.
+A benchmark for RNA-seq quantification pipelines. 
+*Genome Biology*, 17(74), April 2016.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842274/),
 [doi: 10.1186/s13059-016-0940-1](https://doi.org/10.1186/s13059-016-0940-1)
 
-Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
-analyses for RNA-seq: transcript-level estimates improve gene-level
-inferences. *F1000Research*,
-4(1521), December 2015. 
+Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. 
+Differential analyses for RNA-seq: transcript-level estimates improve
+gene-level inferences. 
+*F1000Research*, 4(1521), December 2015. 
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712774/),
 [doi: 10.12688/f1000research.7563.1](https://doi.org/10.12688/f1000research.7563.1),
 [tximport package](http://bioconductor.org/packages/tximport)
 
-**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
-workflow: gene-level exploratory analysis and differential
-expression. *F1000Research*, 4(1070), October 2015.
+**Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. 
+RNA-seq workflow: gene-level exploratory analysis and differential
+expression. 
+*F1000Research*, 4(1070), October 2015.
+[PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/),
 [doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.1),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 

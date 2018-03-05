@@ -5,18 +5,27 @@ title: "Papers"
 
 ### Publications
 
+Koen Van den Berge (1), Fanny Perraudeau (1), Charlotte Soneson, Michael
+I. Love, Davide Risso, Jean-Philippe Vert, Mark D. Robinson, Sandrine
+Dudoit (N) and Lieven Clement (N).
+Observation weights unlock bulk RNA-seq tools for zero inflation and
+single-cell applications.
+*Genome Biology*, February 2018.
+[doi: 10.1186/s13059-018-1406-4](https://doi.org/10.1186/s13059-018-1406-4)
+[ZINB-WaVE software vignette for DE analysis](http://bioconductor.org/packages/zinbwave)
+
 Doug H. Phanstiel, Kevin Van Bortle, Damek Spacek, Gaelen T. Hess,
 Muhammad S. Shamim, Ido Machol, **Michael I. Love**, Erez L. Aiden, 
 Michael C. Bassik, Michael P. Snyder.
 Static and Dynamic DNA Loops form AP-1-Bound Activation Hubs during Macrophage Development.
 *Molecular Cell*, September 2017.
-[doi: 10.1016/j.molcel.2017.08.006](http://dx.doi.org/10.1016/j.molcel.2017.08.006)
+[doi: 10.1016/j.molcel.2017.08.006](https://doi.org/10.1016/j.molcel.2017.08.006)
 
 Rob Patro, Geet Duggal, **Michael I. Love**, Rafael A. Irizarry, Carl Kingsford. 
 Salmon provides fast and bias-aware quantification of transcript expression.
 AA *Nature Methods*, March 2017.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600148/),
-[doi: 10.1038/nmeth.4197](http://dx.doi.org/10.1038/nmeth.4197),
+[doi: 10.1038/nmeth.4197](https://doi.org/10.1038/nmeth.4197),
 [CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
 [Salmon software](https://combine-lab.github.io/salmon/)
 
@@ -28,14 +37,14 @@ type-specific genomic glucocorticoid receptor binding and gene
 regulation.
 AA *Nucleic Acids Research*, November 2016. 
 [NAR HTML](http://nar.oxfordjournals.org/content/early/2016/11/29/nar.gkw1163.long),
-[doi: 10.1093/nar/gkw1163](http://dx.doi.org/10.1093/nar/gkw1163)
+[doi: 10.1093/nar/gkw1163](https://doi.org/10.1093/nar/gkw1163)
 
 Leonardo Collado Torres, Abhinav Nellore, Alyssa C. Frazee, 
 Christopher Wilks, **Michael I. Love**, Ben Langmead,
 Rafael A. Irizarry, Jeffrey Leek, Andrew E. Jaffe.
 Flexible expressed region analysis for RNA-seq with derfinder.
 AA *Nucleic Acids Research*, October 2016.
-[doi: 10.1093/nar/gkw852](http://dx.doi.org/10.1093/nar/gkw852),
+[doi: 10.1093/nar/gkw852](https://doi.org/10.1093/nar/gkw852),
 [derfinder package](http://bioconductor.org/packages/derfinder)
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
@@ -43,7 +52,7 @@ Modeling of RNA-seq fragment sequence bias reduces systematic errors
 in transcript abundance estimation. *Nature Biotechnology*,
 34(12):1287-1291, September 2016.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143225/),
-[doi: 10.1038/nbt.3682](http://dx.doi.org/10.1038/nbt.3682),
+[doi: 10.1038/nbt.3682](https://doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
 [YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
 [alpine package](http://bioconductor.org/packages/alpine)
@@ -54,19 +63,19 @@ Sara Olson, Dmitri Pervouchine, Cricket A. Sloan, Xintao Wei, Lijun
 Zhan and Rafael A. Irizarry.
 A benchmark for RNA-seq quantification pipelines. *Genome Biology*,
 17(74), April 2016.
-[doi: 10.1186/s13059-016-0940-1](http://dx.doi.org/10.1186/s13059-016-0940-1)
+[doi: 10.1186/s13059-016-0940-1](https://doi.org/10.1186/s13059-016-0940-1)
 
 Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. Differential
 analyses for RNA-seq: transcript-level estimates improve gene-level
 inferences. *F1000Research*,
 4(1521), December 2015. 
-[doi: 10.12688/f1000research.7563.1](http://dx.doi.org/10.12688/f1000research.7563.1),
+[doi: 10.12688/f1000research.7563.1](https://doi.org/10.12688/f1000research.7563.1),
 [tximport package](http://bioconductor.org/packages/tximport)
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. RNA-seq
 workflow: gene-level exploratory analysis and differential
 expression. *F1000Research*, 4(1070), October 2015.
-[doi: 10.12688/f1000research.7035.1](http://dx.doi.org/10.12688/f1000research.7035.1),
+[doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.1),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Raman Kumar, Mark A Corbett, Bregje WM van Bon, Alison Gardner, Joshua
@@ -81,7 +90,7 @@ Elizabeth M Thompson, Eric Haan, Vera M Kalscheuer, Jozef Gecz.
 Increased STAG2 dosage defines a novel cohesinopathy with intellectual
 disability and behavioural problems. *Human Molecular Genetics*,
 Epub aop, October 2015.
-[doi: 10.1093/hmg/ddv414](http://dx.doi.org/10.1093/hmg/ddv414)
+[doi: 10.1093/hmg/ddv414](https://doi.org/10.1093/hmg/ddv414)
 
 Stephan R. Starick, Jonas Ibn-Salem, Marcel Jurk, Céline Hernandez,
 **Michael I. Love**, Ho-Ryun Chung, Martin Vingron, Morgane
@@ -89,7 +98,7 @@ Thomas-Chollier, and Sebastiaan H. Meijsing. ChIP-exo signal
 associated with DNA-binding motifs provides insight into the genomic
 binding of the glucocorticoid receptor and cooperating transcription
 factors. *Genome Research*, 25(6):825–835, June 2015.
-[doi: 10.1101/gr.185157.114](http://dx.doi.org/10.1101/gr.185157.114)
+[doi: 10.1101/gr.185157.114](https://doi.org/10.1101/gr.185157.114)
 
 Wolfgang Huber, Vincent J. Carey, Robert Gentleman, Simon Anders, Marc
 Carlson, Benilton S. Carvalho, Hector Corrada C. Bravo, Sean Davis,
@@ -101,7 +110,7 @@ Waldron, and Martin Morgan. Orchestrating high-throughput genomic
 analysis with Bioconductor. *Nature Methods*, 12(2):115–121,
 February 2015.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590/),
-[doi: 10.1038/nmeth.3252](http://dx.doi.org/10.1038/nmeth.3252)
+[doi: 10.1038/nmeth.3252](https://doi.org/10.1038/nmeth.3252)
 
 H. Hu, S. A. Haas, J. Chelly, H. Van Esch, M. Raynaud, A. P. M.  de
 Brouwer, S. Weinert, G. Froyen, S. G. M. Frints, F. Laumonnier,
@@ -123,13 +132,13 @@ J. Gecz, T. J. Jentsch, W. Chen, H. H. Ropers, and
 V. M. Kalscheuer. X-exome sequencing of 405 unresolved families
 identifies seven novel intellectual disability genes. *Molecular
 Psychiatry*, Epub aop, February 2015.
-[doi: 10.1038/mp.2014.193](http://dx.doi.org/10.1038/mp.2014.193)
+[doi: 10.1038/mp.2014.193](https://doi.org/10.1038/mp.2014.193)
 
 **Michael I. Love**, Wolfgang Huber, and Simon Anders. Moderated
 estimation of fold change and dispersion for RNA-seq data with
 DESeq2. *Genome Biology*, 15(12):550+, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
-[doi: 10.1186/s13059-014-0550-8](http://dx.doi.org/doi:10.1186/s13059-014-0550-8),
+[doi: 10.1186/s13059-014-0550-8](https://doi.org/doi:10.1186/s13059-014-0550-8),
 [DESeq2 package](http://bioconductor.org/packages/DESeq2)
 
 Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
@@ -138,7 +147,7 @@ X. S. Liu. MAGeCK enables robust identification of essential genes
 from genome-scale CRISPR/cas9 knockout screens. *Genome Biology*,
 15(12):554+, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290824/),
-[doi: 10.1186/s13059-014-0554-4](http://dx.doi.org/10.1186/s13059-014-0554-4)
+[doi: 10.1186/s13059-014-0554-4](https://doi.org/10.1186/s13059-014-0554-4)
 
 Jonas Ibn-Salem, Sebastian Köhler, **Michael I. Love**, Ho-Ryun Chung,
 Ni Huang, Matthew E. Hurles, Melissa Haendel, Nicole L. Washington,
@@ -148,9 +157,9 @@ Spielmann, and Peter N. Robinson. Deletions of chromosomal regulatory
 boundaries are associated with congenital disease. *Genome Biology*,
 15(9):423+, September 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180961/),
-[doi: 10.1186/s13059-014-0423-1](http://dx.doi.org/10.1186/s13059-014-0423-1)
+[doi: 10.1186/s13059-014-0423-1](https://doi.org/10.1186/s13059-014-0423-1)
 
-Owen D. Solberg, Edwin J. Ostrin, **Michael I. Love**, Jeffrey
+Owen D. Solberg (1), Edwin J. Ostrin (1), **Michael I. Love**, Jeffrey
 C. Peng, Nirav R. Bhakta, Lydia Hou, Christine Nguyen, Margaret Solon,
 Cindy Nguyen, Andrea J. Barczak, Lorna T. Zlock, Denitza P. Blagev,
 Walter E. Finkbeiner, K. Mark Ansel, Joseph R. Arron, David J. Erle,
@@ -158,19 +167,19 @@ and Prescott G. Woodruff. Airway epithelial miRNA expression is
 altered in asthma. *American Journal of Respiratory and Critical Care
 Medicine*, 186(10):965–974, November 2012.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530212/),
-[doi: 10.1164/rccm.201201-0027OC](http://dx.doi.org/10.1164/rccm.201201-0027OC)
+[doi: 10.1164/rccm.201201-0027OC](https://doi.org/10.1164/rccm.201201-0027OC)
 
 Ruping Sun, **Michael I. Love**, Tomasz Zemojtel, Anne-Katrin Emde,
 Ho-Ryun Chung, Martin Vingron, and Stefan A. Haas. Breakpointer: using
 local mapping artifacts to support sequence breakpoint discovery from
 single-end reads. *Bioinformatics*, 28(7):1024–1025, April 2012.
-[doi: 10.1093/bioinformatics/bts064](http://dx.doi.org/10.1093/bioinformatics/bts064)
+[doi: 10.1093/bioinformatics/bts064](https://doi.org/10.1093/bioinformatics/bts064)
 
 **Michael I. Love**, Alena Myšičková, Ruping Sun, Vera Kalscheuer,
 Martin Vingron, and Stefan A. Haas. Modeling read counts for CNV
 detection in exome sequencing data. *Statistical Applications in
 Genetics and Molecular Biology*, 10(1), January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
-[doi: 10.2202/1544-6115.1732](http://dx.doi.org/10.2202/1544-6115.1732),
+[doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732),
 [exomeCopy package](http://bioconductor.org/packages/exomeCopy)
 

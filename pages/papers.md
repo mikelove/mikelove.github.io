@@ -5,9 +5,9 @@ title: "Papers"
 
 ### Publications
 
-Koen Van den Berge (1), Fanny Perraudeau (1), Charlotte Soneson, Michael
-I. Love, Davide Risso, Jean-Philippe Vert, Mark D. Robinson, Sandrine
-Dudoit (N) and Lieven Clement (N).
+Koen Van den Berge (1), Fanny Perraudeau (1), Charlotte Soneson, 
+**Michael I. Love**, Davide Risso, Jean-Philippe Vert, Mark
+D. Robinson, Sandrine Dudoit (N) and Lieven Clement (N).
 Observation weights unlock bulk RNA-seq tools for zero inflation and
 single-cell applications.
 *Genome Biology*, February 2018.

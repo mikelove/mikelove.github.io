@@ -162,10 +162,10 @@ boundaries are associated with congenital disease. *Genome Biology*,
 Owen D. Solberg (1), Edwin J. Ostrin (1), **Michael I. Love**, Jeffrey
 C. Peng, Nirav R. Bhakta, Lydia Hou, Christine Nguyen, Margaret Solon,
 Cindy Nguyen, Andrea J. Barczak, Lorna T. Zlock, Denitza P. Blagev,
-Walter E. Finkbeiner, K. Mark Ansel, Joseph R. Arron, David J. Erle,
-and Prescott G. Woodruff. Airway epithelial miRNA expression is
-altered in asthma. *American Journal of Respiratory and Critical Care
-Medicine*, 186(10):965–974, November 2012.
+Walter E. Finkbeiner, K. Mark Ansel, Joseph R. Arron, David J. Erle (N),
+and Prescott G. Woodruff (N). Airway epithelial miRNA expression is
+altered in asthma. 
+*American Journal of Respiratory and Critical Care Medicine*, 186(10):965–974, November 2012.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530212/),
 [doi: 10.1164/rccm.201201-0027OC](https://doi.org/10.1164/rccm.201201-0027OC)
 

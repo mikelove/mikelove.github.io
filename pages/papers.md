@@ -7,12 +7,20 @@ title: "Papers"
 
 Koen Van den Berge (1), Fanny Perraudeau (1), Charlotte Soneson, 
 **Michael I. Love**, Davide Risso, Jean-Philippe Vert, Mark
-D. Robinson, Sandrine Dudoit (N) and Lieven Clement (N).
+D. Robinson, Sandrine Dudoit (N), Lieven Clement (N).
 Observation weights unlock bulk RNA-seq tools for zero inflation and
 single-cell applications.
 *Genome Biology*, February 2018.
 [doi: 10.1186/s13059-018-1406-4](https://doi.org/10.1186/s13059-018-1406-4),
 [ZINB-WaVE software vignette for DE analysis](http://bioconductor.org/packages/zinbwave)
+
+Lindsay A. Williams, Hazel B. Nichols, Katherine A. Hoadley, Chiu Kit
+Tse, Joseph Geradts, Mary Elizabeth Bell, Charles M. Perou, 
+**Michael I. Love**, Andrew F. Olshan, Melissa A. Troester.
+Reproductive risk factor associations with lobular and ductal
+carcinoma in the Carolina Breast Cancer Study. 
+*Cancer Causes & Control*, November 2017.
+[doi: 10.1007/s10552-017-0977-9](https://doi.org/10.1007/s10552-017-0977-9)
 
 Doug H. Phanstiel, Kevin Van Bortle, Damek Spacek, Gaelen T. Hess,
 Muhammad S. Shamim, Ido Machol, **Michael I. Love**, Erez L. Aiden, 
@@ -83,18 +91,10 @@ expression.
 [doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.1),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
-Raman Kumar, Mark A Corbett, Bregje WM van Bon, Alison Gardner, Joshua
-A Woenig, Lachlan A Jolly, Evelyn Douglas, Kathryn Friend, Chuan Tan,
-Hilde Van Esch, Maureen Holvoet, Martine Raynaud, Michael Field,
-Melanie Leffler, Bartłomiej Budny, Marzena Wisniewska, Magdalena
-Badura-Stronka, Anna Latos-Bieleńska, Jacqueline Batanian, Jill A
-Rosenfeld, Lina Basel-Vanagaite, Corinna Jensen, Melanie Bienek, Guy
-Froyen, Reinhard Ullmann, Hao Hu, **Michael I. Love**, Stefan A Haas, Pawel
-Stankiewicz, Sau Wai Cheung, Anne Baxendale, Jillian Nicholl,
-Elizabeth M Thompson, Eric Haan, Vera M Kalscheuer, Jozef Gecz.
+Raman Kumar, *et al*.
 Increased STAG2 dosage defines a novel cohesinopathy with intellectual
-disability and behavioural problems. *Human Molecular Genetics*,
-Epub aop, October 2015.
+disability and behavioural problems. 
+*Human Molecular Genetics*, October 2015.
 [doi: 10.1093/hmg/ddv414](https://doi.org/10.1093/hmg/ddv414)
 
 Stephan R. Starick, Jonas Ibn-Salem, Marcel Jurk, Céline Hernandez,
@@ -117,26 +117,10 @@ February 2015.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590/),
 [doi: 10.1038/nmeth.3252](https://doi.org/10.1038/nmeth.3252)
 
-H. Hu, S. A. Haas, J. Chelly, H. Van Esch, M. Raynaud, A. P. M.  de
-Brouwer, S. Weinert, G. Froyen, S. G. M. Frints, F. Laumonnier,
-T. Zemojtel, **Michael I. Love**, H. Richard, A. K. Emde, M. Bienek,
-C. Jensen, M. Hambrock, U. Fischer, C. Langnick, M. Feldkamp,
-W. Wissink-Lindhout, N. Lebrun, L. Castelnau, J. Rucci, R. Montjean,
-O. Dorseuil, P. Billuart, T. Stuhlmann, M. Shaw, M. A. Corbett,
-A. Gardner, S. Willis-Owen, C. Tan, K. L. Friend, S. Belet,
-K. E. P. van Roozendaal, M. Jimenez-Pocquet, M. P. Moizard, N. Ronce,
-R. Sun, S. O’Keeffe, R. Chenna, A. van Bommel, J. Goke, A. Hackett,
-M. Field, L. Christie, J. Boyle, E. Haan, J. Nelson, G. Turner,
-G. Baynam, G. Gillessen-Kaesbach, U. Muller, D. Steinberger, B. Budny,
-M. Badura-Stronka, A. Latos-Bielenska, L. B. Ousager, P. Wieacker,
-G. Rodriguez Criado, M. L. Bondeson, G. Anneren, A. Dufke, M. Cohen,
-L. Van Maldergem, C. Vincent-Delorme, B. Echenne, B. Simon-Bouy,
-T. Kleefstra, M. Willemsen, J. P. Fryns, K. Devriendt, R. Ullmann,
-M. Vingron, K. Wrogemann, T. F. Wienker, A. Tzschach, H. van Bokhoven,
-J. Gecz, T. J. Jentsch, W. Chen, H. H. Ropers, and
-V. M. Kalscheuer. X-exome sequencing of 405 unresolved families
-identifies seven novel intellectual disability genes. *Molecular
-Psychiatry*, Epub aop, February 2015.
+Hao Hu, *et al*.
+X-exome sequencing of 405 unresolved families
+identifies seven novel intellectual disability genes. 
+*Molecular Psychiatry*, February 2015.
 [doi: 10.1038/mp.2014.193](https://doi.org/10.1038/mp.2014.193)
 
 **Michael I. Love**, Wolfgang Huber, and Simon Anders. Moderated

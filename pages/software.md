@@ -3,7 +3,7 @@ layout: page
 title: "Software"
 ---
 
-### Maintained by Love Lab
+### Maintained by the Love Lab
 
 **highly used**
 
@@ -50,7 +50,8 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 <a class="btn btn-primary"
 href="https://github.com/mikelove/tximeta"
-role="button">tximeta</a> (GitHub)
+role="button">tximeta</a>
+<img src="https://travis-ci.org/mikelove/tximeta.svg?branch=master">
 
 * Import transcript abundances with automagic population of metadata.
 Builds on top of `tximport`, outputs a `SummarizedExperiment` object
@@ -83,29 +84,40 @@ Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
 
 <a class="btn btn-primary"
 href="http://github.com/mikelove/SparseData"
-role="button">SparseData</a> (GitHub)
+role="button">SparseData</a>
 
 * Efficiently calculate statistics such as group mean, standard
 deviation and t-statistics on large sparse genomic data sets.
 
 ### Contributor
 
-[Salmon](https://combine-lab.github.io/salmon/) a tool for quantifying
-the expression of transcripts using RNA-seq data. I collaborate with
-the lead author and maintainer Rob Patro (SBU) on bias correction methods in
-Salmon, similar to those in alpine, on measurements of estimation
-uncertainty through Gibbs and bootstrap sampling, and on propagation
+<a class="btn btn-primary"
+href="https://combine-lab.github.io/salmon/"
+role="button">Salmon</a>
+
+* Software for quantifying
+the expression of transcripts using RNA-seq data, developed and
+maintained by Rob Patro (SBU). The Love lab collaborates with
+Dr. Patro on bias correction methods, on estimation of uncertainty
+through Gibbs and bootstrap sampling, and on propagation 
 of metadata from abundance estimation to downstream analysis packages.
 
-[GenomicFiles](http://bioconductor.org/packages/GenomicFiles) (Bioc)
-This package provides infrastructure for parallel computations
+<a class="btn btn-primary"
+href="http://bioconductor.org/packages/GenomicFiles"
+role="button">GenomicFiles</a>
+<img src="http://bioconductor.org/shields/years-in-bioc/GenomicFiles.svg">
+
+* Provides infrastructure for parallel computations
 distributed 'by file' or 'by range'. User defined MAPPER and REDUCER
 functions provide added flexibility for data combination and manipulation.
 Collaboration with Valerie Obenchain and Martin Morgan (Bioconductor
 core team).
 
-[rafalib](https://cran.r-project.org/web/packages/rafalib/index.html) (CRAN)
-A series of shortcuts for routine tasks.
+<a class="btn btn-primary"
+href="https://cran.r-project.org/package=rafalib"
+role="button">rafalib</a>
+
+* A series of shortcuts for routine tasks.
 Collaboration with Rafael Irizarry (DFCI Boston).
 
 ### Data packages

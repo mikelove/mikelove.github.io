@@ -25,6 +25,10 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* June 2018 - Michael Love will be an instructor at the 
+  [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=18)
+  meeting at Cold Spring Harbor Laboratory which runs June 29 - July
+  12, 2018. The application deadline is March 31, 2018.
 * December 2017 - Anqi Zhu and Michael Love featured in a
   [Nature article](https://www.nature.com/articles/d41586-017-07833-1) 
   talking about the Bioconductor Project for genomic data analysis.

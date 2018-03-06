@@ -23,6 +23,13 @@ michaelisaiahlove at gmail dot com *
 
 ---
 
+### News
+
+* December 2017 - Anqi Zhu and Michael Love featured in a
+  [Nature article](https://www.nature.com/articles/d41586-017-07833-1) 
+  discussing using and developing tools for the Bioconductor Project
+  for genomic data analysis.
+
 ### Research
 
 The Love Lab uses statistical models to infer biologically meaningful

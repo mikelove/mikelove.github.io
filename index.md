@@ -25,6 +25,10 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* July 2018 - Michael Love will be an instructor at the 
+  [Statistical Data Analysis for Genome Scale Biology](http://www-huber.embl.de/csama2018/) 
+  meeting in Brixen, Italy which runs July 8-13, 2018. Registration
+  closes May 15, 2018.
 * June 2018 - Michael Love will be an instructor at the 
   [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=18)
   meeting at Cold Spring Harbor Laboratory which runs June 29 - July

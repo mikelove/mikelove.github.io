@@ -23,19 +23,35 @@ michaelisaiahlove at gmail dot com *
 
 ---
 
-### News
+### Upcoming
 
-* July 2018 - Michael Love will be an instructor at the 
-  [Statistical Data Analysis for Genome Scale Biology](http://www-huber.embl.de/csama2018/) 
-  meeting in Brixen, Italy which runs July 8-13, 2018. Registration
-  closes May 15, 2018.
+* March 2018 - Michael Love will give an RNA-seq tutorial at ENAR
+  conference in Atlanta, GA: 
+  "*Fast & Easy RNA-seq Computational Workflow Using Bioconductor*", 
+  Tuesday, March 27 from 8:30-10:15. 
+  He will also speak during the "*Teaching Data Science at all Levels*"
+  session, Monday, March 26 from 8:30-10:15.
 * June 2018 - Michael Love will be an instructor at the 
   [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=18)
   meeting at Cold Spring Harbor Laboratory which runs June 29 - July
   12, 2018. The application deadline is March 31, 2018.
+* July 2018 - Michael Love will be an instructor at the 
+  [Statistical Data Analysis for Genome Scale Biology](http://www-huber.embl.de/csama2018/) 
+  meeting in Brixen, Italy which runs July 8-13, 2018. Registration
+  closes May 15, 2018.
+
+### News
+
+* February 2018 - Michael Love gave a talk at UVA's Center for Public
+  Health Genomics: [Fragment-level bias modeling for RNA-seq Data
+  Analysis](http://goo.gl/ftK55e) (link to Google Slides).
 * December 2017 - Anqi Zhu and Michael Love featured in a
   [Nature article](https://www.nature.com/articles/d41586-017-07833-1) 
   talking about the Bioconductor Project for genomic data analysis.
+* December 2016 - Michael Love gave a talk at UMD's Computational
+  Biology, Bioinformatics & Genomics seminar series.
+* October 2016 - Michael Love gave a talk at the Triangle Statistical
+  Genetics Meeting, SAS Campus, Cary.
 
 ### Research
 

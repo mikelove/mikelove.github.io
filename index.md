@@ -5,7 +5,7 @@ title: Love Lab
 
 <!-- {% include JB/setup %} -->
 
-<img style="float: right;" src="http://mikelove.nfshost.com/img/michaellove_sm.jpg">
+<img style="float: right;" src="assets/michaellove.jpg">
 
 PI: Michael I. Love <br>
 Assistant Professor <br>

@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications
 
+Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
+Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.
+Intergenerational response to the endocrine disruptor vinclozolin is
+influenced by maternal genotype and crossing scheme.
+*Reproducitive Toxicology*, March 2018.
+[doi: 10.1016/j.reprotox.2018.03.005](https://doi.org/10.1016/j.reprotox.2018.03.005)
+
 Koen Van den Berge (1), Fanny Perraudeau (1), Charlotte Soneson, 
 **Michael I. Love**, Davide Risso, Jean-Philippe Vert, Mark
 D. Robinson, Sandrine Dudoit (N), Lieven Clement (N).

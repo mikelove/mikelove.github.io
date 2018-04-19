@@ -3,7 +3,7 @@ layout: page
 title: "Papers"
 ---
 
-### Publications
+### Publications and preprints
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
 Heavy-tailed prior distributions for sequence count data: removing the

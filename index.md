@@ -25,12 +25,6 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming
 
-* March 2018 - Michael Love will give an RNA-seq tutorial at ENAR
-  conference in Atlanta, GA: 
-  "*Fast & Easy RNA-seq Computational Workflow Using Bioconductor*", 
-  Tuesday, March 27 from 8:30-10:15. 
-  He will also speak during the "*Teaching Data Science at all Levels*"
-  session, Monday, March 26 from 8:30-10:15.
 * June 2018 - Michael Love will be an instructor at the 
   [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=18)
   meeting at Cold Spring Harbor Laboratory which runs June 29 - July
@@ -42,6 +36,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* April 2018 - Anqi Zhu sent off the first preprint from the lab:
+  [Heavy-tailed prior distributions for sequence count data](https://www.biorxiv.org/content/early/2018/04/17/303255),
+  which describes the [apeglm](http://bioconductor.org/packages/apeglm) software.
 * February 2018 - Michael Love gave a talk at UVA's Center for Public
   Health Genomics: [Fragment-level bias modeling for RNA-seq Data
   Analysis](http://goo.gl/ftK55e) (link to Google Slides).

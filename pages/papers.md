@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications
 
+**Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
+Heavy-tailed prior distributions for sequence count data: removing the
+noise and preserving large differences.
+*bioRxiv*, April 2018.
+[doi: 10.1101/303255](https://doi.org/10.1101/303255),
+[apeglm software](http://bioconductor.org/packages/apeglm)
+
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.
 Intergenerational response to the endocrine disruptor vinclozolin is

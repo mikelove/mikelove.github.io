@@ -114,7 +114,7 @@ RNA-seq workflow: gene-level exploratory analysis and differential
 expression. 
 *F1000Research*, 4(1070), October 2015.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/),
-[doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.1),
+[doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.2),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Raman Kumar, *et al*.

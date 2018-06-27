@@ -26,14 +26,20 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming
 
+* June 2018 - A new differential transcript usage workflow from the
+  Love Lab is published in *F1000Research*: 
+  [Swimming downstream](https://doi.org/10.12688/f1000research.15398.1)
 * June 2018 - Michael Love will be an instructor at the 
   [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=18)
-  meeting at Cold Spring Harbor Laboratory which runs June 29 - July
-  12, 2018. The application deadline is March 31, 2018.
+  meeting at Cold Spring Harbor Laboratory which runs June 29 - July 12, 2018.
 * July 2018 - Michael Love will be an instructor at the 
   [Statistical Data Analysis for Genome Scale Biology](http://www-huber.embl.de/csama2018/) 
-  meeting in Brixen, Italy which runs July 8-13, 2018. Registration
-  closes May 15, 2018.
+  meeting in Brixen, Italy which runs July 8-13, 2018. 
+* July 2018 - Michael Love will give a workshop on DESeq2 for RNA-seq
+  analysis Thurs July 26 at 3:15 during
+  the [Bioc2018](http://bioc2018.bioconductor.org) conference. 
+  He will give a talk Fri July 27 in the morning session on *tximeta* 
+  for transcriptome provenance tracking during RNA-seq analysis.
 
 ### News
 

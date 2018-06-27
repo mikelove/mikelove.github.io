@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Michael I. Love**, Charlotte Soneson, and Rob Patro.
+Swimming downstream: statistical analysis of differential transcript
+usage following Salmon quantification
+*F1000Research*, June 2018.
+[doi: 10.12688/f1000research.15398.1](https://doi.org/10.12688/f1000research.15398.1)
+[rnaseqDTU workflow](https://github.com/mikelove/rnaseqDTU)
+
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
 Heavy-tailed prior distributions for sequence count data: removing the
 noise and preserving large differences.
@@ -15,7 +22,7 @@ noise and preserving large differences.
 Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li
 SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data.
 *bioRxiv*, March 2018.
-[doi: ](https://doi.org/10.1101/215723)
+[doi: 10.1101/215723](https://doi.org/10.1101/215723)
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.

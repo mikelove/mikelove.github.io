@@ -58,6 +58,17 @@ Builds on top of `tximport`, outputs a `SummarizedExperiment` object
 with transcriptome metadata automatically added. Collaboration with
 Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (JHU).
 
+<a class="btn btn-primary"
+href="https://github.com/mccabes292/movie"
+role="button">MOVIE</a>
+
+* A framework for evaluating variance classification methods using
+  multi-omics data. Using data segmentation, this framework aims to
+  identify the consistency and the extent of overfitting of
+  multi-omics methods. Developed by Sean McCabe (UNC-CH),
+  collaboration with Dan-Yu Lin (UNC-CH).
+
+
 ---
 
 <a class="btn btn-primary"

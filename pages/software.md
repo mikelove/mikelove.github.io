@@ -56,7 +56,7 @@ role="button">tximeta</a>
 * Import transcript abundances with automagic population of metadata.
 Builds on top of `tximport`, outputs a `SummarizedExperiment` object
 with transcriptome metadata automatically added. Collaboration with
-Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (JHU).
+Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"

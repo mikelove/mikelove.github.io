@@ -5,6 +5,19 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
+MOVIE: Multi-Omics VIsualization of Estimated contributions
+*bioRxiv*, July 2018.
+[doi: 10.1101/379115](https://doi.org/10.1101/379115),
+[movie software](https://github.com/mccabes292/movie)
+
+Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
+Dheeraj Malhotra, Mark D. Robinson.
+A junction coverage compatibility score to quantify the reliability of
+transcript abundance estimates and annotation catalogs
+*bioRxiv*, July 2018.
+[doi: https://doi.org/10.1101/378539](https://doi.org/10.1101/378539)
+
 **Michael I. Love**, Charlotte Soneson, and Rob Patro.
 Swimming downstream: statistical analysis of differential transcript
 usage following Salmon quantification
@@ -19,7 +32,7 @@ noise and preserving large differences.
 [doi: 10.1101/303255](https://doi.org/10.1101/303255),
 [apeglm software](http://bioconductor.org/packages/apeglm)
 
-Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li
+Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
 SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data.
 *bioRxiv*, March 2018.
 [doi: 10.1101/215723](https://doi.org/10.1101/215723)

@@ -60,7 +60,7 @@ Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"
-role="button">MOVIE</a>
+role="button">movie</a>
 
 * A framework for evaluating variance classification methods using
   multi-omics data. Using data segmentation, this framework aims to

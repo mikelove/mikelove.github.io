@@ -62,10 +62,14 @@ michaelisaiahlove at gmail dot com *
 The Love Lab uses statistical models to infer biologically meaningful
 patterns from high-throughput sequencing data, and develops
 open-source statistical software for the Bioconductor Project.
-A major effort of the lab is maintaining
-the [DESeq2 package](http://bioconductor.org/packages/DESeq2) for
-statistical analysis of RNA-seq experiments, and associated packages
-and workflows for analyzing genomics data.
+At UNC-Chapel Hill, we collaborate with groups in the Genetics
+Department and the Lineberger Comprehensive Cancer Center, studying
+how genetic variants relevant to diseases are associated with changes
+in gene expression levels and other molecular phenotypes.
+A major effort of the lab is supporting and maintaining the
+[DESeq2 package](http://bioconductor.org/packages/DESeq2) 
+for statistical analysis of RNA-seq and other sequencing experiments,
+and associated packages and workflows for analyzing genomics data.
 
 ### PI - Background
 

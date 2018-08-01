@@ -35,7 +35,8 @@ michaelisaiahlove at gmail dot com *
 ### News
 
 * July 2018 - Sean McCabe sent off his first preprint:
-  [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://doi.org/10.1101/379115).
+  [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://doi.org/10.1101/379115),
+  which describes the [movie](https://github.com/mccabes292/movie) software.
 * June 2018 - A new differential transcript usage workflow from the
   Love Lab is published in *F1000Research*: 
   [Swimming downstream](https://doi.org/10.12688/f1000research.15398.1)

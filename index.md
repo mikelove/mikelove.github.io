@@ -42,6 +42,8 @@ michaelisaiahlove at gmail dot com *
 * April 2018 - Anqi Zhu sent off the first preprint from the lab:
   [Heavy-tailed prior distributions for sequence count data](https://www.biorxiv.org/content/early/2018/04/17/303255),
   which describes the [apeglm](http://bioconductor.org/packages/apeglm) software.
+* May 2018 - Michael Love gave a talk at NC State's Bioinformatics
+  Research Center Seminar Series.
 * February 2018 - Michael Love gave a talk at UVA's Center for Public
   Health Genomics: [Fragment-level bias modeling for RNA-seq Data
   Analysis](http://goo.gl/ftK55e) (link to Google Slides).

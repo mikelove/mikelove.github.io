@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Alena van Bömmel, **Michael I. Love**, Ho-Ryun Chung, Martin Vingron.
+coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers
+*PLOS Computational Biology*, August 2018.
+[doi: 10.1371/journal.pcbi.1006372](https://doi.org/10.1371/journal.pcbi.1006372)
+
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 MOVIE: Multi-Omics VIsualization of Estimated contributions
 *bioRxiv*, July 2018.

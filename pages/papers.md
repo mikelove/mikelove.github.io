@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
+SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data
+*Bioinformatics*, September 2018.
+[doi: 10.1093/bioinformatics/bty793](https://doi.org/10.1093/bioinformatics/bty793)
+
 Alena van Bömmel, **Michael I. Love**, Ho-Ryun Chung, Martin Vingron.
 coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers
 *PLOS Computational Biology*, August 2018.
@@ -36,11 +41,6 @@ noise and preserving large differences.
 *bioRxiv*, April 2018.
 [doi: 10.1101/303255](https://doi.org/10.1101/303255),
 [apeglm software](http://bioconductor.org/packages/apeglm)
-
-Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
-SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data.
-*bioRxiv*, March 2018.
-[doi: 10.1101/215723](https://doi.org/10.1101/215723)
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.

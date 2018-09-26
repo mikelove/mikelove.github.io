@@ -8,12 +8,12 @@ title: "Software"
 **highly used**
 
 <a class="btn btn-primary"
-href="http://bioconductor.org/packages/DESeq2"
+href="https://bioconductor.org/packages/DESeq2"
 role="button">DESeq2</a>
 <a class="btn btn-secondary"
-href="http://bioconductor.org/packages/stats/bioc/DESeq2/"
+href="https://bioconductor.org/packages/stats/bioc/DESeq2/"
 role="button">usage stats</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/DESeq2.svg">
+<img src="https://bioconductor.org/shields/years-in-bioc/DESeq2.svg">
 
 * Estimate variance-mean dependence in count data from high-throughput
 sequencing assays and test for differential expression based on a
@@ -21,12 +21,12 @@ model using the negative binomial distribution.
 Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
 
 <a class="btn btn-primary"
-href="http://bioconductor.org/packages/tximport"
+href="https://bioconductor.org/packages/tximport"
 role="button">tximport</a>
 <a class="btn btn-secondary"
-href="http://bioconductor.org/packages/stats/bioc/tximport/"
+href="https://bioconductor.org/packages/stats/bioc/tximport/"
 role="button">usage stats</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/tximport.svg">
+<img src="https://bioconductor.org/shields/years-in-bioc/tximport.svg">
 
 * Imports transcript-level abundance, estimated counts and transcript
 lengths, and summarizes into matrices for use with downstream
@@ -38,9 +38,9 @@ Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
 **newly developed**
 
 <a class="btn btn-primary"
-href="http://bioconductor.org/packages/apeglm"
+href="https://bioconductor.org/packages/apeglm"
 role="button">apeglm</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/apeglm.svg">
+<img src="https://bioconductor.org/shields/years-in-bioc/apeglm.svg">
 
 * Bayesian shrinkage estimators for effect sizes for a variety of GLM
 models, using approximation of the posterior for individual
@@ -49,9 +49,9 @@ Joseph Ibrahim (UNC-CH). `apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 <a class="btn btn-primary"
-href="https://github.com/mikelove/tximeta"
+href="https://bioconductor.org/packages/tximeta"
 role="button">tximeta</a>
-<img src="https://travis-ci.org/mikelove/tximeta.svg?branch=master">
+<img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
 
 * Import transcript abundances with automagic population of metadata.
 Builds on top of `tximport`, outputs a `SummarizedExperiment` object
@@ -72,18 +72,18 @@ role="button">movie</a>
 ---
 
 <a class="btn btn-primary"
-href="http://bioconductor/packages/alpine"
+href="https://bioconductor/packages/alpine"
 role="button">alpine</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/alpine.svg">
+<img src="https://bioconductor.org/shields/years-in-bioc/alpine.svg">
 
 * Modeling and correcting fragment sequence bias for RNA-seq transcript
 abundance estimation. 
 Collaboration with Rafael Irizarry (DFCI Boston).
 
 <a class="btn btn-primary"
-href="http://bioconductor.org/packages/exomeCopy"
+href="https://bioconductor.org/packages/exomeCopy"
 role="button">exomeCopy</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
+<img src="https://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
 
 * Detection of copy number variants (CNV) from exome sequencing samples,
 including unpaired samples. The package implements a hidden Markov
@@ -110,12 +110,12 @@ role="button">rnaseqGene</a>
   expression. [F1000R](https://doi.org/10.12688/f1000research.7035.2)
 
 <a class="btn btn-primary"
-href="http://github.com/mikelove/rnaseqDTU"
+href="https://bioconductor.org/packages/rnaseqDTU"
 role="button">rnaseqDTU</a>
 
 * Swimming downstream: statistical analysis of differential transcript
   usage following Salmon quantification.
-  [F1000R](https://doi.org/10.12688/f1000research.15398.1)
+  [F1000R](https://doi.org/10.12688/f1000research.15398.2)
 
 ### Contributor
 

@@ -32,8 +32,8 @@ transcript abundance estimates and annotation catalogs
 Swimming downstream: statistical analysis of differential transcript
 usage following Salmon quantification
 *F1000Research*, June 2018.
-[doi: 10.12688/f1000research.15398.1](https://doi.org/10.12688/f1000research.15398.2)
-[rnaseqDTU workflow](https://github.com/mikelove/rnaseqDTU)
+[doi: 10.12688/f1000research.15398.2](https://doi.org/10.12688/f1000research.15398.2)
+[rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
 Heavy-tailed prior distributions for sequence count data: removing the

@@ -100,7 +100,7 @@ role="button">SparseData</a>
 * Efficiently calculate statistics such as group mean, standard
 deviation and t-statistics on large sparse genomic data sets.
 
-### Workflows
+### Published workflows
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/rnaseqGene"
@@ -115,7 +115,7 @@ role="button">rnaseqDTU</a>
 
 * Swimming downstream: statistical analysis of differential transcript
   usage following Salmon quantification.
-  [F1000R](https://doi.org/10.12688/f1000research.15398.2)
+  [F1000R](https://doi.org/10.12688/f1000research.15398.3)
 
 ### Contributor
 

@@ -31,8 +31,8 @@ transcript abundance estimates and annotation catalogs
 **Michael I. Love**, Charlotte Soneson, and Rob Patro.
 Swimming downstream: statistical analysis of differential transcript
 usage following Salmon quantification
-*F1000Research*, June 2018.
-[doi: 10.12688/f1000research.15398.2](https://doi.org/10.12688/f1000research.15398.2)
+*F1000Research*, October 2018.
+[doi: 10.12688/f1000research.15398.2](https://doi.org/10.12688/f1000research.15398.3)
 [rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.

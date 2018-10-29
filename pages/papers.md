@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+(Review) Koen Van Den Berge, Katharina Hembach, Charlotte Soneson, Simone
+Tiberi, Lieven Clement, **Michael I. Love**, Rob Patro, Mark Robinson.
+RNA sequencing data: hitchhiker's guide to expression analysis
+*PeerJ*, October 2018.
+<https://peerj.com/manuscripts/32044/>
+
 Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
 SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data
 *Bioinformatics*, September 2018.
@@ -32,7 +38,7 @@ transcript abundance estimates and annotation catalogs
 Swimming downstream: statistical analysis of differential transcript
 usage following Salmon quantification
 *F1000Research*, October 2018.
-[doi: 10.12688/f1000research.15398.2](https://doi.org/10.12688/f1000research.15398.3)
+[doi: 10.12688/f1000research.15398.3](https://doi.org/10.12688/f1000research.15398.3)
 [rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.

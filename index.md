@@ -27,34 +27,39 @@ michaelisaiahlove at gmail dot com *
 ### Upcoming
 
 * Michael Love will be presenting at:
-    - September 24, 2018 - Brown University: *Statistics Seminar Series*
     - October 22, 2018 - Duke University: *Computational Biology & Bioinformatics Series*
     - March 24-27, 2019 - ENAR, speaker in the *Teaching Data Science through Case Studies*
       invited session organized by Stephanie Hicks and Leah Jager
+    - July 27-August 1, 2019 - JSM, speaker in the *Making an Impact in
+      Statistics Education through Innovation and Outreach* invited
+      session organized by Margaret Taub
 
 ### News
 
+* October 2018 - *Swimming downstream...* DTU workflow published on
+  *F1000Research* is now indexed.
+* September 2018 - Michael Love gave a talk at Brown SPH *Statistics Seminar Series*
 * July 2018 - Sean McCabe sent off his first preprint:
   [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://doi.org/10.1101/379115),
   which describes the [movie](https://github.com/mccabes292/movie) software.
 * June 2018 - A new differential transcript usage workflow from the
   Love Lab is published in *F1000Research*: 
-  [Swimming downstream](https://doi.org/10.12688/f1000research.15398.1)
+  [Swimming downstream](https://doi.org/10.12688/f1000research.15398.3)
 * April 2018 - Anqi Zhu sent off the first preprint from the lab:
   [Heavy-tailed prior distributions for sequence count data](https://www.biorxiv.org/content/early/2018/04/17/303255),
   which describes the [apeglm](http://bioconductor.org/packages/apeglm) software.
-* May 2018 - Michael Love gave a talk at NC State's Bioinformatics
-  Research Center Seminar Series.
+* May 2018 - Michael Love gave a talk at NC State's *Bioinformatics
+  Research Center Seminar Series*.
 * February 2018 - Michael Love gave a talk at UVA's Center for Public
   Health Genomics: [Fragment-level bias modeling for RNA-seq Data
   Analysis](http://goo.gl/ftK55e) (link to Google Slides).
 * December 2017 - Anqi Zhu and Michael Love featured in a
   [Nature article](https://www.nature.com/articles/d41586-017-07833-1) 
   talking about the Bioconductor Project for genomic data analysis.
-* December 2016 - Michael Love gave a talk at UMD's Computational
-  Biology, Bioinformatics & Genomics seminar series.
-* October 2016 - Michael Love gave a talk at the Triangle Statistical
-  Genetics Meeting, SAS Campus, Cary.
+* December 2016 - Michael Love gave a talk at UMD's *Computational
+  Biology, Bioinformatics & Genomics* seminar series.
+* October 2016 - Michael Love gave a talk at the *Triangle Statistical
+  Genetics Meeting*, SAS Campus, Cary.
 
 ### Research
 

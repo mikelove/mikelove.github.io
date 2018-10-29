@@ -5,10 +5,10 @@ title: "Software"
 
 ### Maintained by the Love Lab
 
-<img width=100 src="https://github.com/Bioconductor/BiocStickers/blob/master/DESeq2/DESeq2.png?raw=true">
-<img width=100 src="https://github.com/Bioconductor/BiocStickers/blob/master/tximport/tximport.png?raw=true">
-<img width=100 src="https://github.com/Bioconductor/BiocStickers/blob/master/tximeta/tximeta.png?raw=true">
-<img width=100 src="https://github.com/Bioconductor/BiocStickers/blob/master/apeglm/apeglm.png?raw=true">
+<img width=100 src="https://github.com/Bioconductor/BiocStickers/raw/master/DESeq2/DESeq2.png">
+<img width=100 src="https://github.com/Bioconductor/BiocStickers/raw/master/tximport/tximport.png">
+<img width=100 src="https://github.com/Bioconductor/BiocStickers/raw/master/tximeta/tximeta.png">
+<img width=100 src="https://github.com/Bioconductor/BiocStickers/raw/master/apeglm/apeglm.png">
 
 **highly used**
 

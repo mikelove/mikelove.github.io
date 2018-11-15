@@ -27,15 +27,20 @@ michaelisaiahlove at gmail dot com *
 ### Upcoming
 
 * Michael Love will be presenting at:
-    - October 22, 2018 - Duke University: *Computational Biology & Bioinformatics Series*
+
     - March 24-27, 2019 - ENAR, speaker in the *Teaching Data Science through Case Studies*
       invited session organized by Stephanie Hicks and Leah Jager
+<!--	- May 29-June 1, 2019 - ASA's *Symposium on Data Science & Statistics* -->
     - July 27-August 1, 2019 - JSM, speaker in the *Making an Impact in
       Statistics Education through Innovation and Outreach* invited
       session organized by Margaret Taub
 
 ### News
 
+* November, 2018 - Michael Love gave a talk at the Duke Epigenetics
+  and Epigenomics Program Seminar Series.
+* October, 2018 - Michael Love gave a talk at Duke University:
+  *Computational Biology & Bioinformatics Series* 
 * October 2018 - *Swimming downstream...* DTU workflow published on
   *F1000Research* is now indexed.
 * September 2018 - Michael Love gave a talk at Brown SPH *Statistics Seminar Series*

@@ -11,6 +11,13 @@ RNA sequencing data: hitchhiker's guide to expression analysis
 *PeerJ*, October 2018.
 <https://peerj.com/manuscripts/32044/>
 
+**Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
+Heavy-tailed prior distributions for sequence count data: removing the
+noise and preserving large differences.
+*Bioinformatics*, November 2018.
+[doi: 10.1093/bioinformatics/bty895](https://doi.org/10.1093/bioinformatics/bty895),
+[apeglm software](http://bioconductor.org/packages/apeglm)
+
 Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
 SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data
 *Bioinformatics*, September 2018.
@@ -40,13 +47,6 @@ usage following Salmon quantification
 *F1000Research*, October 2018.
 [doi: 10.12688/f1000research.15398.3](https://doi.org/10.12688/f1000research.15398.3)
 [rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
-
-**Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
-Heavy-tailed prior distributions for sequence count data: removing the
-noise and preserving large differences.
-*bioRxiv*, April 2018.
-[doi: 10.1101/303255](https://doi.org/10.1101/303255),
-[apeglm software](http://bioconductor.org/packages/apeglm)
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.

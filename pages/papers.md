@@ -7,13 +7,13 @@ title: "Papers"
 
 Yoh Isogai, Zheng Wu, **Michael I.Love**, Michael Ho-Young Ahn,
 Dhananjay Bambah-Mukku, Vivian Hua, Karolina Farrell, Catherine Dulac.
-Multisensory Logic of Infant-Directed Aggression by Males
+Multisensory Logic of Infant-Directed Aggression by Males.
 *Cell*, December 2018.
 [doi: 10.1016/j.cell.2018.11.032](https://doi.org/10.1016/j.cell.2018.11.032)
 
 (Review) Koen Van Den Berge, Katharina Hembach, Charlotte Soneson, Simone
 Tiberi, Lieven Clement, **Michael I. Love**, Rob Patro, Mark Robinson.
-RNA sequencing data: hitchhiker's guide to expression analysis
+RNA sequencing data: hitchhiker's guide to expression analysis.
 *PeerJ*, November 2018.
 <https://peerj.com/manuscripts/33040/>
 
@@ -25,17 +25,17 @@ noise and preserving large differences.
 [apeglm software](http://bioconductor.org/packages/apeglm)
 
 Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
-SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data
+SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data.
 *Bioinformatics*, September 2018.
 [doi: 10.1093/bioinformatics/bty793](https://doi.org/10.1093/bioinformatics/bty793)
 
 Alena van Bömmel, **Michael I. Love**, Ho-Ryun Chung, Martin Vingron.
-coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers
+coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers.
 *PLOS Computational Biology*, August 2018.
 [doi: 10.1371/journal.pcbi.1006372](https://doi.org/10.1371/journal.pcbi.1006372)
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
-MOVIE: Multi-Omics VIsualization of Estimated contributions
+MOVIE: Multi-Omics VIsualization of Estimated contributions.
 *bioRxiv*, July 2018.
 [doi: 10.1101/379115](https://doi.org/10.1101/379115),
 [movie software](https://github.com/mccabes292/movie)
@@ -43,13 +43,13 @@ MOVIE: Multi-Omics VIsualization of Estimated contributions
 Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
 Dheeraj Malhotra, Mark D. Robinson.
 A junction coverage compatibility score to quantify the reliability of
-transcript abundance estimates and annotation catalogs
+transcript abundance estimates and annotation catalogs.
 *bioRxiv*, July 2018.
 [doi: https://doi.org/10.1101/378539](https://doi.org/10.1101/378539)
 
 **Michael I. Love**, Charlotte Soneson, and Rob Patro.
 Swimming downstream: statistical analysis of differential transcript
-usage following Salmon quantification
+usage following Salmon quantification.
 *F1000Research*, October 2018.
 [doi: 10.12688/f1000research.15398.3](https://doi.org/10.12688/f1000research.15398.3)
 [rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
@@ -114,8 +114,8 @@ Flexible expressed region analysis for RNA-seq with derfinder.
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
-in transcript abundance estimation. *Nature Biotechnology*,
-34(12):1287-1291, September 2016.
+in transcript abundance estimation. 
+*Nature Biotechnology*, September 2016.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143225/),
 [doi: 10.1038/nbt.3682](https://doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
@@ -127,14 +127,14 @@ Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
 Sara Olson, Dmitri Pervouchine, Cricket A. Sloan, Xintao Wei, Lijun
 Zhan, Rafael A. Irizarry.
 A benchmark for RNA-seq quantification pipelines. 
-*Genome Biology*, 17(74), April 2016.
+*Genome Biology*, April 2016.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842274/),
 [doi: 10.1186/s13059-016-0940-1](https://doi.org/10.1186/s13059-016-0940-1)
 
 Charlotte Soneson, **Michael I. Love**, Mark D. Robinson. 
 Differential analyses for RNA-seq: transcript-level estimates improve
 gene-level inferences. 
-*F1000Research*, 4(1521), December 2015. 
+*F1000Research*, December 2015. 
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712774/),
 [doi: 10.12688/f1000research.7563.1](https://doi.org/10.12688/f1000research.7563.1),
 [tximport package](http://bioconductor.org/packages/tximport)
@@ -142,7 +142,7 @@ gene-level inferences.
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. 
 RNA-seq workflow: gene-level exploratory analysis and differential
 expression. 
-*F1000Research*, 4(1070), October 2015.
+*F1000Research*, October 2015.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/),
 [doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.2),
 [live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
@@ -159,7 +159,7 @@ Thomas-Chollier, Sebastiaan H. Meijsing.
 ChIP-exo signal associated with DNA-binding motifs provides insight
 into the genomic binding of the glucocorticoid receptor and
 cooperating transcription factors.
-*Genome Research*, 25(6):825–835, June 2015.
+*Genome Research*, June 2015.
 [doi: 10.1101/gr.185157.114](https://doi.org/10.1101/gr.185157.114)
 
 Wolfgang Huber, Vincent J. Carey, Robert Gentleman, Simon Anders, Marc
@@ -170,8 +170,7 @@ James MacDonald, Valerie Obenchain, Andrzej K.  Oleś, Hervé Pagès,
 Alejandro Reyes, Paul Shannon, Gordon K. Smyth, Dan Tenenbaum, Levi
 Waldron, Martin Morgan. 
 Orchestrating high-throughput genomic analysis with Bioconductor. 
-*Nature Methods*, 12(2):115–121,
-February 2015.
+*Nature Methods*, February 2015.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590/),
 [doi: 10.1038/nmeth.3252](https://doi.org/10.1038/nmeth.3252)
 
@@ -184,7 +183,7 @@ identifies seven novel intellectual disability genes.
 **Michael I. Love**, Wolfgang Huber, Simon Anders. 
 Moderated estimation of fold change and dispersion for RNA-seq data
 with DESeq2. 
-*Genome Biology*, 15(12):550+, December 2014.
+*Genome Biology*, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
 [doi: 10.1186/s13059-014-0550-8](https://doi.org/doi:10.1186/s13059-014-0550-8),
 [DESeq2 package](http://bioconductor.org/packages/DESeq2)
@@ -193,8 +192,7 @@ Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
 Zhang, Rafael A. Irizarry, Jun S. Liu, Myles Brown, X. S. Liu. 
 MAGeCK enables robust identification of essential genes from
 genome-scale CRISPR/cas9 knockout screens. 
-*Genome Biology*,
-15(12):554+, December 2014.
+*Genome Biology*, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290824/),
 [doi: 10.1186/s13059-014-0554-4](https://doi.org/10.1186/s13059-014-0554-4)
 
@@ -205,7 +203,7 @@ E. Lewis, Claus-Eric Ott, Sebastian Bauer, Paul N. Schofield, Stefan
 Mundlos, Malte Spielmann (N), Peter N. Robinson (N).
 Deletions of chromosomal regulatory boundaries are associated with
 congenital disease. 
-*Genome Biology*, 15(9):423+, September 2014.
+*Genome Biology*, September 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180961/),
 [doi: 10.1186/s13059-014-0423-1](https://doi.org/10.1186/s13059-014-0423-1)
 
@@ -215,7 +213,7 @@ Cindy Nguyen, Andrea J. Barczak, Lorna T. Zlock, Denitza P. Blagev,
 Walter E. Finkbeiner, K. Mark Ansel, Joseph R. Arron, David J. Erle (N),
 Prescott G. Woodruff (N). 
 Airway epithelial miRNA expression is altered in asthma. 
-*American Journal of Respiratory and Critical Care Medicine*, 186(10):965–974, November 2012.
+*American Journal of Respiratory and Critical Care Medicine*, November 2012.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530212/),
 [doi: 10.1164/rccm.201201-0027OC](https://doi.org/10.1164/rccm.201201-0027OC)
 
@@ -223,13 +221,13 @@ Ruping Sun, **Michael I. Love**, Tomasz Zemojtel, Anne-Katrin Emde,
 Ho-Ryun Chung, Martin Vingron, Stefan A. Haas. 
 Breakpointer: using local mapping artifacts to support sequence
 breakpoint discovery from single-end reads. 
-*Bioinformatics*, 28(7):1024–1025, April 2012.
+*Bioinformatics*, April 2012.
 [doi: 10.1093/bioinformatics/bts064](https://doi.org/10.1093/bioinformatics/bts064)
 
 **Michael I. Love**, Alena Myšičková, Ruping Sun, Vera Kalscheuer,
 Martin Vingron, Stefan A. Haas. 
 Modeling read counts for CNV detection in exome sequencing data. 
-*Statistical Applications in Genetics and Molecular Biology*, 10(1), January 2011.
+*Statistical Applications in Genetics and Molecular Biology*, January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
 [doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732),
 [exomeCopy package](http://bioconductor.org/packages/exomeCopy)

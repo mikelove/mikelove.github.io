@@ -5,11 +5,17 @@ title: "Papers"
 
 ### Publications and preprints
 
+Yoh Isogai, Zheng Wu, **Michael I.Love**, Michael Ho-Young Ahn,
+Dhananjay Bambah-Mukku, Vivian Hua, Karolina Farrell, Catherine Dulac.
+Multisensory Logic of Infant-Directed Aggression by Males
+*Cell*, December 2018.
+[doi: 10.1016/j.cell.2018.11.032](https://doi.org/10.1016/j.cell.2018.11.032)
+
 (Review) Koen Van Den Berge, Katharina Hembach, Charlotte Soneson, Simone
 Tiberi, Lieven Clement, **Michael I. Love**, Rob Patro, Mark Robinson.
 RNA sequencing data: hitchhiker's guide to expression analysis
-*PeerJ*, October 2018.
-<https://peerj.com/manuscripts/32044/>
+*PeerJ*, November 2018.
+<https://peerj.com/manuscripts/33040/>
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
 Heavy-tailed prior distributions for sequence count data: removing the

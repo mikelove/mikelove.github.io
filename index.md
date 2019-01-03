@@ -28,12 +28,13 @@ michaelisaiahlove at gmail dot com *
 
 * Michael Love will be presenting at:
 
-    - March 24-27, 2019 - ENAR, speaker in the *Teaching Data Science through Case Studies*
+    - March 24-27, 2019 - ENAR, 
+	  *Teaching Data Science through Case Studies*
       invited session organized by Stephanie Hicks and Leah Jager
-<!--	- May 29-June 1, 2019 - ASA's *Symposium on Data Science & Statistics* -->
-    - July 27-August 1, 2019 - JSM, speaker in the *Making an Impact in
-      Statistics Education through Innovation and Outreach* invited
-      session organized by Margaret Taub
+    - May 31, 2019 @ 3:30pm - ASA's *Symposium on Data Science & Statistics*,
+	  [Publishing Literate Programming Workflows in Scientific Journals](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
+    - July 29, 2019 @ 2pm - JSM,
+	  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049)
 
 ### News
 

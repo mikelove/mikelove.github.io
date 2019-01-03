@@ -5,6 +5,8 @@ title: "Teaching"
 
 ### Classes
 
+* [BIOS 735 - Introduction to Statistical Computing](http://biodatascience.github.io/statcomp)
+  Spring 2019, 1:25-3:10 MW
 * [BIOS 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio)
   Fall 2017, 9:05-10:20 MW
 

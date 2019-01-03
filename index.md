@@ -38,9 +38,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* November, 2018 - Michael Love gave a talk at the Duke Epigenetics
+* November 2018 - Michael Love gave a talk at the Duke Epigenetics
   and Epigenomics Program Seminar Series.
-* October, 2018 - Michael Love gave a talk at Duke University:
+* October 2018 - Michael Love gave a talk at Duke University:
   *Computational Biology & Bioinformatics Series* 
 * October 2018 - *Swimming downstream...* DTU workflow published on
   *F1000Research* is now indexed.

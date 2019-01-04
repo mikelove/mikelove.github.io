@@ -28,6 +28,8 @@ michaelisaiahlove at gmail dot com *
 
 * Michael Love will be presenting at:
 
+    - February 7, 2019 - *Epigenetics and Stem Cell Biology* seminar
+      series at NIEHS in Research Triangle Park
     - March 24-27, 2019 - ENAR, 
 	  *Teaching Data Science through Case Studies*
       invited session organized by Stephanie Hicks and Leah Jager

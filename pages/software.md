@@ -38,13 +38,12 @@ lengths, and summarizes into matrices for use with downstream
 gene-level analysis packages such as edgeR, DESeq2, limma-voom.
 Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
 
----
-
-**newly developed**
-
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/apeglm"
 role="button">apeglm</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/stats/bioc/apeglm/"
+role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/apeglm.svg">
 
 * Bayesian shrinkage estimators for effect sizes for a variety of GLM
@@ -53,12 +52,16 @@ coefficients.  Developed by Anqi Zhu (UNC-CH), collaboration with
 Joseph Ibrahim (UNC-CH). `apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
+---
+
+**newly developed**
+
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/tximeta"
 role="button">tximeta</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
 
-* Import transcript abundances with automagic population of metadata.
+* Import transcript abundances with automatic population of metadata.
 Builds on top of `tximport`, outputs a `SummarizedExperiment` object
 with transcriptome metadata automatically added. Collaboration with
 Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).

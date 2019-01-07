@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Love Lab
 ---
 
 <!-- {% include JB/setup %} -->
@@ -14,31 +13,62 @@ Assistant Professor <br>
 Member of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) <br>
 University of North Carolina-Chapel Hill
 
-[@mikelove](http://twitter.com/mikelove) <br>
-[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) <br>
-[Biostatistics Dept. bio](http://sph.unc.edu/adv_profile/michael-love-phd/)
+[@mikelove](http://twitter.com/mikelove) ---
+[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
+[Biostatistics Dept profile](http://sph.unc.edu/adv_profile/michael-love-phd/)
 
 michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
----
+### Upcoming talks
 
-### Upcoming
+* February 7, 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
+* March 24-27, 2019 - ENAR, *Teaching Data Science through Case Studies*, invited session
+* May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
+  [abstract](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
+* July 29, 2019 @ 2pm - JSM,
+  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049)
 
-* Michael Love will be presenting at:
+### Research
 
-    - February 7, 2019 - *Epigenetics and Stem Cell Biology* seminar
-      series at NIEHS in Research Triangle Park
-    - March 24-27, 2019 - ENAR, 
-	  *Teaching Data Science through Case Studies*
-      invited session organized by Stephanie Hicks and Leah Jager
-    - May 31, 2019 @ 3:30pm - ASA's *Symposium on Data Science & Statistics*,
-	  [Publishing Literate Programming Workflows in Scientific Journals](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
-    - July 29, 2019 @ 2pm - JSM,
-	  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049)
+The Love Lab uses statistical models to infer biologically meaningful
+patterns in high-dimensional datasets, and develops
+open-source statistical software for the [Bioconductor Project](https://bioconductor.org).
+At UNC-Chapel Hill, we collaborate with groups in the 
+*Genetics Department* and the *Lineberger Comprehensive Cancer Center*, 
+studying how genetic variants relevant to diseases are associated with changes
+in molecular and cellular phenotypes.
 
-### News
+* We collaborate with the [Patro lab](http://www.robpatro.com/) in the
+  development of computational and statistical methods for
+  quantification of RNA transcript abundance, including the software
+  packages [Salmon](https://combine-lab.github.io/salmon/)
+  and [tximeta](https://bioconductor.org/packages/tximeta).
+* We collaborate with the [Stein lab](https://steinlab.org ) in the
+  study of genetic risk for neuropsychiatric disorders, leveraging
+  data from molecular assays of chromatin accessibility and the
+  transcriptome in neural progenitor cell lines to macroscale
+  phenotypes such as gross human brain structure measured with MRI.
+* We develop, support, and maintain the
+  [DESeq2](http://bioconductor.org/packages/DESeq2) package
+  for statistical analysis of RNA-seq and other sequencing experiments,
+  and associated packages and workflows for analyzing genomics
+  data. See the [Software](pages/software.html) tab for more details.
+
+### PI - Background
+
+From 2013-2016, I was a Postdoctoral Fellow in the group of
+Rafael Irizarry in the Biostatistics and Computational Biology
+Department at the Dana-Farber Cancer Institute and the Harvard
+TH Chan School of Public Health.
+I completed a PhD in Computational Biology and Scientific Computing
+(2013) in the Vingron Department at the Max Planck Institute for
+Molecular Genetics in Berlin and the Mathematics and Informatics
+Department of the Freie Universität, Berlin.  I completed a Statistics
+M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
+
+### Past news items
 
 * November 2018 - Michael Love gave a talk at the Duke Epigenetics
   and Epigenomics Program Seminar Series.
@@ -68,41 +98,3 @@ michaelisaiahlove at gmail dot com *
   Biology, Bioinformatics & Genomics* seminar series.
 * October 2016 - Michael Love gave a talk at the *Triangle Statistical
   Genetics Meeting*, SAS Campus, Cary.
-
-### Research
-
-The Love Lab uses statistical models to infer biologically meaningful
-patterns from high-throughput sequencing data, and develops
-open-source statistical software for the [Bioconductor Project](https://bioconductor.org).
-At UNC-Chapel Hill, we collaborate with groups in the Genetics
-Department and the Lineberger Comprehensive Cancer Center, studying
-how genetic variants relevant to diseases are associated with changes
-in gene expression levels and other molecular phenotypes.
-
-* We collaborate with the [Patro lab](http://www.robpatro.com/) in the
-  development of computational and statistical methods for
-  quantification of transcript abundance, including the software
-  packages [Salmon](https://combine-lab.github.io/salmon/)
-  and [tximeta](https://bioconductor.org/packages/tximeta).
-* We collaborate with the [Stein lab](https://steinlab.org ) in the
-  study of genetic risk for neuropsychiatric disorders, leveraging
-  data from molecular assays of chromatin accessibility and the
-  transcriptome in neural progenitor cell lines to macroscale
-  phenotypes such as gross human brain structure measured with MRI.
-* We develop, support, and maintain the
-  [DESeq2 package](http://bioconductor.org/packages/DESeq2) 
-  for statistical analysis of RNA-seq and other sequencing experiments,
-  and associated packages and workflows for analyzing genomics
-  data. See the **Software** tab for more details.
-
-### PI - Background
-
-From 2013-2016, I was a Postdoctoral Fellow in the group of
-Rafael Irizarry in the Biostatistics and Computational Biology
-Department at the Dana-Farber Cancer Institute and the Harvard
-TH Chan School of Public Health.
-I completed a PhD in Computational Biology and Scientific Computing
-(2013) in the Vingron Department at the Max Planck Institute for
-Molecular Genetics in Berlin and the Mathematics and Informatics
-Department of the Freie Universität, Berlin.  I completed a Statistics
-M.S. (2010) and Mathematics B.S. (2005) at Stanford University.

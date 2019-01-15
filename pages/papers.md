@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+Lindsay A. Williams, Katherine A. Hoadley, Hazel B. Nichols, Joseph
+Geradts, Charles M. Perou, **Michael I. Love**, Andrew F. Olshan, Melissa
+A. Troester.
+Differences in race, molecular and tumor characteristics among women
+diagnosed with invasive ductal and lobular breast carcinomas.
+*Cancer Causes & Control*, January 2019.
+[doi: 10.1007/s10552-018-1121-1](https://doi.org/10.1007/s10552-018-1121-1)
+
 Yoh Isogai, Zheng Wu, **Michael I.Love**, Michael Ho-Young Ahn,
 Dhananjay Bambah-Mukku, Vivian Hua, Karolina Farrell, Catherine Dulac.
 Multisensory Logic of Infant-Directed Aggression by Males.

@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
+Dheeraj Malhotra, Mark D. Robinson.
+A junction coverage compatibility score to quantify the reliability of
+transcript abundance estimates and annotation catalogs 
+*Life Science Alliance*, January 2019.
+[doi: 10.26508/lsa.201800175](https://doi.org/10.26508/lsa.201800175)
+
 Lindsay A. Williams, Katherine A. Hoadley, Hazel B. Nichols, Joseph
 Geradts, Charles M. Perou, **Michael I. Love**, Andrew F. Olshan, Melissa
 A. Troester.
@@ -32,6 +39,13 @@ noise and preserving large differences.
 [doi: 10.1093/bioinformatics/bty895](https://doi.org/10.1093/bioinformatics/bty895),
 [apeglm software](http://bioconductor.org/packages/apeglm)
 
+**Michael I. Love**, Charlotte Soneson, and Rob Patro.
+Swimming downstream: statistical analysis of differential transcript
+usage following Salmon quantification.
+*F1000Research*, October 2018.
+[doi: 10.12688/f1000research.15398.3](https://doi.org/10.12688/f1000research.15398.3)
+[rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
+
 Yuchen Yang, Ruth Huh, Houston W. Culpepper, Yuan Lin, **Michael I. Love**, Yun Li.
 SAFE-clustering: Single-cell Aggregated (From Ensemble) Clustering for Single-cell RNA-seq Data.
 *Bioinformatics*, September 2018.
@@ -47,20 +61,6 @@ MOVIE: Multi-Omics VIsualization of Estimated contributions.
 *bioRxiv*, July 2018.
 [doi: 10.1101/379115](https://doi.org/10.1101/379115),
 [movie software](https://github.com/mccabes292/movie)
-
-Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
-Dheeraj Malhotra, Mark D. Robinson.
-A junction coverage compatibility score to quantify the reliability of
-transcript abundance estimates and annotation catalogs.
-*bioRxiv*, July 2018.
-[doi: https://doi.org/10.1101/378539](https://doi.org/10.1101/378539)
-
-**Michael I. Love**, Charlotte Soneson, and Rob Patro.
-Swimming downstream: statistical analysis of differential transcript
-usage following Salmon quantification.
-*F1000Research*, October 2018.
-[doi: 10.12688/f1000research.15398.3](https://doi.org/10.12688/f1000research.15398.3)
-[rnaseqDTU workflow](https://bioconductor.org/packages/rnaseqDTU)
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.

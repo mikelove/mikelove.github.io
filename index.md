@@ -24,6 +24,7 @@ michaelisaiahlove at gmail dot com *
 ### Upcoming talks
 
 * February 7, 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
+* March 7, 2019 - Department of Biostatistics and Bioinformatics, Emory University
 * March 24-27, 2019 - ENAR, *Teaching Data Science through Case Studies*, invited session
 * May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
   [abstract](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)

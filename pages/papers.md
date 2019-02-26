@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
+**Michael I. Love**.
+Nonparametric expression analysis using inferential replicate counts
+*bioRxiv*, February 2019.
+[doi: 10.1101/561084](https://doi.org/10.1101/561084),
+`swish` function in the 
+[fishpond](https://github.com/mikelove/fishpond) R package
+
 Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
 Dheeraj Malhotra, Mark D. Robinson.
 A junction coverage compatibility score to quantify the reliability of
@@ -37,7 +45,7 @@ Heavy-tailed prior distributions for sequence count data: removing the
 noise and preserving large differences.
 *Bioinformatics*, November 2018.
 [doi: 10.1093/bioinformatics/bty895](https://doi.org/10.1093/bioinformatics/bty895),
-[apeglm software](http://bioconductor.org/packages/apeglm)
+[apeglm](http://bioconductor.org/packages/apeglm) R package
 
 **Michael I. Love**, Charlotte Soneson, and Rob Patro.
 Swimming downstream: statistical analysis of differential transcript
@@ -60,7 +68,7 @@ coTRaCTE predicts co-occurring transcription factors within cell-type specific e
 MOVIE: Multi-Omics VIsualization of Estimated contributions.
 *bioRxiv*, July 2018.
 [doi: 10.1101/379115](https://doi.org/10.1101/379115),
-[movie software](https://github.com/mccabes292/movie)
+[movie](https://github.com/mccabes292/movie) R package
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.
@@ -100,7 +108,7 @@ Salmon provides fast and bias-aware quantification of transcript expression.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600148/),
 [doi: 10.1038/nmeth.4197](https://doi.org/10.1038/nmeth.4197),
 [CMU PR](http://www.cbd.cmu.edu/gene_expression_analyses/),
-[Salmon software](https://combine-lab.github.io/salmon/)
+[Salmon](https://combine-lab.github.io/salmon/) software
 
 **Michael I. Love**, Matthew Huska, Marcel Jurk, Robert Schöpflin,
 Stephan Starick, Kevin Schwahn, Samantha Cooper, Keith Yamamoto, 
@@ -118,7 +126,7 @@ Flexible expressed region analysis for RNA-seq with derfinder.
 *Nucleic Acids Research*, October 2016.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314792/),
 [doi: 10.1093/nar/gkw852](https://doi.org/10.1093/nar/gkw852),
-[derfinder package](http://bioconductor.org/packages/derfinder)
+[derfinder](http://bioconductor.org/packages/derfinder) R package
 
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
@@ -128,7 +136,7 @@ in transcript abundance estimation.
 [doi: 10.1038/nbt.3682](https://doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
 [YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
-[alpine package](http://bioconductor.org/packages/alpine)
+[alpine](http://bioconductor.org/packages/alpine) R package
 
 Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
 Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
@@ -145,7 +153,7 @@ gene-level inferences.
 *F1000Research*, December 2015. 
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712774/),
 [doi: 10.12688/f1000research.7563.1](https://doi.org/10.12688/f1000research.7563.1),
-[tximport package](http://bioconductor.org/packages/tximport)
+[tximport](http://bioconductor.org/packages/tximport) R package
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. 
 RNA-seq workflow: gene-level exploratory analysis and differential
@@ -194,7 +202,7 @@ with DESeq2.
 *Genome Biology*, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
 [doi: 10.1186/s13059-014-0550-8](https://doi.org/doi:10.1186/s13059-014-0550-8),
-[DESeq2 package](http://bioconductor.org/packages/DESeq2)
+[DESeq2](http://bioconductor.org/packages/DESeq2) R package
 
 Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
 Zhang, Rafael A. Irizarry, Jun S. Liu, Myles Brown, X. S. Liu. 
@@ -238,4 +246,4 @@ Modeling read counts for CNV detection in exome sequencing data.
 *Statistical Applications in Genetics and Molecular Biology*, January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
 [doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732),
-[exomeCopy package](http://bioconductor.org/packages/exomeCopy)
+[exomeCopy](http://bioconductor.org/packages/exomeCopy) R package

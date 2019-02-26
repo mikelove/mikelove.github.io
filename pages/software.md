@@ -57,14 +57,23 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
+href="https://github.com/mikelove/fishpond"
+role="button">fishpond</a>
+
+* `swish` is a nonparametric differential transcript and gene analysis
+  method making use of inferential replicate counts. Collaboration
+  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
+  Rob Patro (SBU).
+
+<a class="btn btn-primary"
 href="https://bioconductor.org/packages/tximeta"
 role="button">tximeta</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
 
 * Import transcript abundances with automatic population of metadata.
-Builds on top of `tximport`, outputs a `SummarizedExperiment` object
-with transcriptome metadata automatically added. Collaboration with
-Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).
+  Builds on top of `tximport`, outputs a `SummarizedExperiment` object
+  with transcriptome metadata automatically added. Collaboration with
+  Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"

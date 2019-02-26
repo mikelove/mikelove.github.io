@@ -23,7 +23,6 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks
 
-* February 7, 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
 * March 7, 2019 - Department of Biostatistics and Bioinformatics, Emory University
 * March 27, 2019 @ 8:30am - [ENAR](https://www.enar.org/meetings/spring2019/program/Preliminary_Program.pdf), *Teaching Data Science through Case Studies*, invited session
 * May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
@@ -71,6 +70,9 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
+* February 25, 2019 - Anqi Zhu's second paper is posted to *bioRxiv*:
+  [Nonparametric expression analysis using inferential replicate counts](https://doi.org/10.1101/561084)
+* February 7, 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
 * November 2018 - Michael Love gave a talk at the Duke Epigenetics
   and Epigenomics Program Seminar Series.
 * October 2018 - Michael Love gave a talk at Duke University:

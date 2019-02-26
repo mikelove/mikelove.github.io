@@ -167,14 +167,30 @@ Collaboration with Rafael Irizarry (DFCI Boston).
 
 ### Data packages
 
-[airway](http://bioconductor.org/packages/release/data/experiment/html/airway.html)
+[macrophage](http://bioconductor.org/packages/macrophage)
+This package provides the output of running Salmon on a set of 24
+RNA-seq samples from 
+[Alasoo, et al.](https://doi.org/10.1038/s41588-018-0046-7), 
+"Shared genetic effects on chromatin and gene expression indicate a
+role for enhancer priming in immune response", published in Nature
+Genetics, January 2018.
+
+[oct4](http://bioconductor.org/packages/oct4)
+This package provides the output of running Salmon on a set of 12
+RNA-seq samples from 
+[King & Klose](https://doi.org/10.7554/eLife.22631),
+"The pioneer factor OCT4 requires the chromatin remodeller BRG1 to
+support gene regulatory element function in mouse embryonic stem
+cells", published in eLIFE, March 2017.
+
+[airway](http://bioconductor.org/packages/airway)
 This package provides a SummarizedExperiment object of read counts in
 genes for an RNA-Seq experiment on four human airway smooth muscle
 cell lines treated with dexamethasone.
 The citation for the experiment is:
 [Himes BE et al (2014)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4057123/).
 
-[fission](http://bioconductor.org/packages/release/data/experiment/html/fission.html)
+[fission](http://bioconductor.org/packages/fission)
 This package provides a SummarizedExperiment object of read counts in
 genes for a time course RNA-Seq experiment of fission yeast
 (Schizosaccharomyces pombe) in response to oxidative stress (1M
@@ -182,7 +198,7 @@ sorbitol treatment) at 0, 15, 30, 60, 120 and 180 mins.
 The citation for the experiment is:
 [Leong HS et al. (2014)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050258/).
 
-[parathyroidSE](http://bioconductor.org/packages/release/data/experiment/html/parathyroidSE.html)
+[parathyroidSE](http://bioconductor.org/packages/parathyroidSE)
 This package provides SummarizedExperiment objects of read counts in
 genes and exonic parts for paired-end RNA-Seq data from experiments on
 primary cultures of parathyroid tumors.

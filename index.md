@@ -23,10 +23,11 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks
 
-* March 7, 2019 - Department of Biostatistics and Bioinformatics, Emory University
 * March 27, 2019 @ 8:30am - [ENAR](https://www.enar.org/meetings/spring2019/program/Preliminary_Program.pdf), *Teaching Data Science through Case Studies*, invited session
 * May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
   [abstract](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
+* June 27-July 11 - [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19)
+  short course at CSHL
 * July 29, 2019 @ 2pm - JSM,
   [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049)
 
@@ -70,9 +71,10 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
-* February 25, 2019 - Anqi Zhu's second paper is posted to *bioRxiv*:
+* March 2019 - Department of Biostatistics and Bioinformatics, Emory University
+* February 2019 - Anqi Zhu's second paper is posted to *bioRxiv*:
   [Nonparametric expression analysis using inferential replicate counts](https://doi.org/10.1101/561084)
-* February 7, 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
+* February 2019 - Epigenetics and Stem Cell Biology seminar series at NIEHS
 * November 2018 - Michael Love gave a talk at the Duke Epigenetics
   and Epigenomics Program Seminar Series.
 * October 2018 - Michael Love gave a talk at Duke University:
@@ -89,15 +91,15 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 * April 2018 - Anqi Zhu sent off the first preprint from the lab:
   [Heavy-tailed prior distributions for sequence count data](https://www.biorxiv.org/content/early/2018/04/17/303255),
   which describes the [apeglm](http://bioconductor.org/packages/apeglm) software.
-* May 2018 - Michael Love gave a talk at NC State's *Bioinformatics
-  Research Center Seminar Series*.
+* May 2018 - Michael Love gave a talk at NC State's 
+  *Bioinformatics Research Center Seminar Series*.
 * February 2018 - Michael Love gave a talk at UVA's Center for Public
   Health Genomics: [Fragment-level bias modeling for RNA-seq Data
   Analysis](http://goo.gl/ftK55e) (link to Google Slides).
 * December 2017 - Anqi Zhu and Michael Love featured in a
   [Nature article](https://www.nature.com/articles/d41586-017-07833-1) 
   talking about the Bioconductor Project for genomic data analysis.
-* December 2016 - Michael Love gave a talk at UMD's *Computational
-  Biology, Bioinformatics & Genomics* seminar series.
+* December 2016 - Michael Love gave a talk at UMD's 
+  *Computational Biology, Bioinformatics & Genomics* seminar series.
 * October 2016 - Michael Love gave a talk at the *Triangle Statistical
   Genetics Meeting*, SAS Campus, Cary.

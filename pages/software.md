@@ -9,6 +9,7 @@ title: "Software"
 <img width="100" src="../assets/tximport.png">
 <img width="100" src="../assets/tximeta.png">
 <img width="100" src="../assets/apeglm.png">
+<img width="100" src="../assets/fishpond.png">
 
 **highly used**
 
@@ -57,13 +58,15 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
-href="https://github.com/mikelove/fishpond"
+href="https://bioconductor.org/packages/fishpond"
 role="button">fishpond</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
 
 * `swish` is a nonparametric differential transcript and gene analysis
   method making use of inferential replicate counts. Collaboration
   with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (SBU).
+  Rob Patro (SBU). `swish` lives in the Bioconductor package
+  *fishpond*.
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/tximeta"

@@ -60,6 +60,13 @@
 	    {% endif %}
 	    <a href="{{ BASE_PATH }}/pages/software.html">Software</a></li>
 
+	    {% if page.url == '/pages/talks.html' %}
+	    <li class="active">
+	    {% else %}
+	    <li>
+	    {% endif %}
+	    <a href="{{ BASE_PATH }}/pages/talks.html">Talks</a></li>	    
+	    
 	    {% if page.url == '/pages/teaching.html' %}
 	    <li class="active">
 	    {% else %}

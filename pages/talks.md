@@ -4,6 +4,9 @@ title: "Talks"
 ---
 
 * March 2019 - 
+  ENAR - Teaching Data Science through Case Studies, invited session <br>
+  [Teaching Genomic Data Science](https://bit.ly/teach-genomic-data-science)
+* March 2019 - 
   Department of Biostatistics and Bioinformatics,
   Emory University <br>
   [Assessing consistency of unsupervised multi-omics methods](https://bit.ly/omics-assess)

@@ -23,7 +23,6 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks
 
-* March 27, 2019 @ 8:30am - [ENAR](https://www.enar.org/meetings/spring2019/program/Preliminary_Program.pdf), *Teaching Data Science through Case Studies*, invited session
 * May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
   [abstract](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
 * June 27-July 11 - [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19)

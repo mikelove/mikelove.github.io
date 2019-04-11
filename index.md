@@ -35,7 +35,7 @@ michaelisaiahlove at gmail dot com *
 The Love Lab uses statistical models to infer biologically meaningful
 patterns in high-dimensional datasets, and develops
 open-source statistical software for the [Bioconductor Project](https://bioconductor.org).
-At UNC-Chapel Hill, we collaborate with groups in the 
+At UNC-Chapel Hill, we often collaborate with groups in the 
 *Genetics Department* and the *Lineberger Comprehensive Cancer Center*, 
 studying how genetic variants relevant to diseases are associated with changes
 in molecular and cellular phenotypes.
@@ -45,11 +45,17 @@ in molecular and cellular phenotypes.
   quantification of RNA transcript abundance, including the software
   packages [Salmon](https://combine-lab.github.io/salmon/)
   and [tximeta](https://bioconductor.org/packages/tximeta).
-* We collaborate with the [Stein lab](https://steinlab.org ) in the
+* We collaborate with the [Stein lab](https://steinlab.org) in the
   study of genetic risk for neuropsychiatric disorders, leveraging
   data from molecular assays of chromatin accessibility and the
   transcriptome in neural progenitor cell lines to macroscale
   phenotypes such as gross human brain structure measured with MRI.
+* We collaborate with the
+  [Troester lab](https://sph.unc.edu/adv_profile/melissa-troester-phd/) 
+  and the Carolina Breast Cancer Study, investigating the intersection
+  between gene expression profiles of breast tumors and genetic risk
+  for breast cancer, with a focus on racial disparities in patient
+  outcomes.
 * We develop, support, and maintain the
   [DESeq2](http://bioconductor.org/packages/DESeq2) package
   for statistical analysis of RNA-seq and other sequencing experiments,

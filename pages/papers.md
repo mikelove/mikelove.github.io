@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
+Consistency and overfitting of multi-omics methods on experimental data
+[2019 author manuscript](../assets/mccabe_2019.pdf),
+[2018 bioRxiv: 10.1101/379115](https://doi.org/10.1101/379115),
+[movie](https://github.com/mccabes292/movie) R package
+
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
 **Michael I. Love**.
 Nonparametric expression analysis using inferential replicate counts
@@ -63,12 +69,6 @@ Alena van Bömmel, **Michael I. Love**, Ho-Ryun Chung, Martin Vingron.
 coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers.
 *PLOS Computational Biology*, August 2018.
 [doi: 10.1371/journal.pcbi.1006372](https://doi.org/10.1371/journal.pcbi.1006372)
-
-**Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
-MOVIE: Multi-Omics VIsualization of Estimated contributions.
-*bioRxiv*, July 2018.
-[doi: 10.1101/379115](https://doi.org/10.1101/379115),
-[movie](https://github.com/mccabes292/movie) R package
 
 Edward W. Pietryk, Kiristin Clement, Marwa Elnagheeb, Ryan Kuster,
 Kayla Kilpatrick, **Michael I. Love**, Folami Y. Ideraabdullah.

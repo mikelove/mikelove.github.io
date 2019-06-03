@@ -2,7 +2,9 @@
 layout: page
 title: "Talks"
 ---
-
+* May 2019 - Symposium on Data Science & Statistics (SDSS) -
+  Democratizing Data Science with Workflows, invited session <br>
+  [Publishing Literate Programming Workflows in Scientific Journals](https://bit.ly/lit-prog.workflow)
 * March 2019 - 
   ENAR - Teaching Data Science through Case Studies, invited session <br>
   [Teaching Genomic Data Science](https://bit.ly/teach-genomic-data-science)

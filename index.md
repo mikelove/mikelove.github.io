@@ -23,8 +23,6 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks
 
-* May 31, 2019 @ 3:30pm - ASA Symposium on Data Science & Statistics,
-  [abstract](http://ww2.amstat.org/meetings/sdss/2019/onlineprogram/AbstractDetails.cfm?AbstractID=305103)
 * June 27-July 11 - [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19)
   short course at CSHL
 * July 29, 2019 @ 2pm - JSM,

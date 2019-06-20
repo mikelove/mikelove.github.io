@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+Avi Srivastava, Laraib Malik, Mohsen Zakeri, Hirak Sarkar,
+Charlotte Soneson, **Michael I Love**, Carl Kingsford, Rob Patro.
+Alignment and mapping methodology influence transcript abundance estimation
+*bioRxiv*, June 2019.
+[doi: 10.1101/657874](https://doi.org/10.1101/657874)
+
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data
 [2019 author manuscript](../assets/mccabe_2019.pdf),

@@ -13,8 +13,9 @@ Alignment and mapping methodology influence transcript abundance estimation
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data
-[2019 author manuscript](../assets/mccabe_2019.pdf),
-[2018 bioRxiv: 10.1101/379115](https://doi.org/10.1101/379115),
+*Briefings in Bioinformatics*, July 2019.
+[doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
+[2019 Author Manuscript](../assets/mccabe_2019.pdf),
 [movie](https://github.com/mccabes292/movie) R package
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 

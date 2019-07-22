@@ -23,10 +23,8 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks
 
-* June 27-July 11 - [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19)
-  short course at CSHL
 * July 29, 2019 @ 2pm - JSM,
-  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049)
+  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049) [slides](https://bit.ly/lit-prog-workflow)
 
 ### Research
 
@@ -74,15 +72,16 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
-* February 2019 - Anqi Zhu's second paper is posted to *bioRxiv*:
+* July 2019 - Sean McCabe's first paper published in *Briefings in Bioinformatics*:
+  [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
+  [2019 Author Manuscript](../assets/mccabe_2019.pdf)  
+* February 2019 - Anqi Zhu's second paper posted to *bioRxiv*:
   [Nonparametric expression analysis using inferential replicate counts](https://doi.org/10.1101/561084)
-* October 2018 - *Swimming downstream...* DTU workflow published on
-  *F1000Research* is now indexed.
+* October 2018 - *Swimming downstream...* DTU workflow published on *F1000Research* is now indexed.
 * July 2018 - Sean McCabe sent off his first preprint:
   [MOVIE: Multi-Omics VIsualization of Estimated contributions](https://doi.org/10.1101/379115),
   which describes the [movie](https://github.com/mccabes292/movie) software.
-* June 2018 - A new differential transcript usage workflow from the
-  Love Lab is published in *F1000Research*: 
+* June 2018 - A new differential transcript usage workflow from the Love Lab is published in *F1000Research*: 
   [Swimming downstream](https://doi.org/10.12688/f1000research.15398.3)
 * April 2018 - Anqi Zhu sent off the first preprint from the lab:
   [Heavy-tailed prior distributions for sequence count data](https://www.biorxiv.org/content/early/2018/04/17/303255),

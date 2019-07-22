@@ -4,13 +4,13 @@ title: "Talks"
 ---
 
 * July 2019 - 
-  JSM - Making an Impact in Statistics Education through Innovation and Outreach, invited session <br>
+  JSM - Making an Impact in Statistics Education through Innovation and Outreach, invited <br>
   [Rmarkdown Workflows Make New Statistical Methods Accessible to Biomedical Researchers](https://bit.ly/lit-prog-workflow)
 * May 2019 - Symposium on Data Science & Statistics (SDSS) -
-  Democratizing Data Science with Workflows, invited session <br>
+  Democratizing Data Science with Workflows, invited <br>
   [Publishing Literate Programming Workflows in Scientific Journals](https://bit.ly/lit-prog.workflow)
 * March 2019 - 
-  ENAR - Teaching Data Science through Case Studies, invited session <br>
+  ENAR - Teaching Data Science through Case Studies, invited <br>
   [Teaching Genomic Data Science](https://bit.ly/teach-genomic-data-science)
 * March 2019 - 
   Department of Biostatistics and Bioinformatics,

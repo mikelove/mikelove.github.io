@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
+**Michael I. Love**.
+Nonparametric expression analysis using inferential replicate counts
+*Nucleic Acids Research*, August 2019.
+[doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
+`swish` function in the 
+[fishpond](https://github.com/mikelove/fishpond) R package
+
 Avi Srivastava, Laraib Malik, Mohsen Zakeri, Hirak Sarkar,
 Charlotte Soneson, **Michael I Love**, Carl Kingsford, Rob Patro.
 Alignment and mapping methodology influence transcript abundance estimation
@@ -17,14 +25,6 @@ Consistency and overfitting of multi-omics methods on experimental data
 [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
 [2019 Author Manuscript](../assets/mccabe_2019.pdf),
 [movie](https://github.com/mccabes292/movie) R package
-
-**Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
-**Michael I. Love**.
-Nonparametric expression analysis using inferential replicate counts
-*bioRxiv*, February 2019.
-[doi: 10.1101/561084](https://doi.org/10.1101/561084),
-`swish` function in the 
-[fishpond](https://github.com/mikelove/fishpond) R package
 
 Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
 Dheeraj Malhotra, Mark D. Robinson.

@@ -21,11 +21,6 @@ michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
-### Upcoming talks
-
-* July 29, 2019 @ 2pm - JSM,
-  [Making an Impact in Statistics Education through Innovation and Outreach](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218049) [slides](https://bit.ly/lit-prog-workflow)
-
 ### Research
 
 The Love Lab uses statistical models to infer biologically meaningful
@@ -72,9 +67,12 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
+* August 2019 - Anqi Zhu's second paper published in *Nucleic Acids Research*:
+  [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
+  which describes the Swish method in the [fishpond](https://bioconductor.org/packages/fishpond) package.
 * July 2019 - Sean McCabe's first paper published in *Briefings in Bioinformatics*:
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
-  [2019 Author Manuscript](../assets/mccabe_2019.pdf)  
+  [2019 Author Manuscript](../assets/mccabe_2019.pdf)
 * February 2019 - Anqi Zhu's second paper posted to *bioRxiv*:
   [Nonparametric expression analysis using inferential replicate counts](https://doi.org/10.1101/561084)
 * October 2018 - *Swimming downstream...* DTU workflow published on *F1000Research* is now indexed.

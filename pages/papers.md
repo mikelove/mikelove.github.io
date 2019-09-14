@@ -6,7 +6,7 @@ title: "Papers"
 ### Publications and preprints
 
 **Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
-Charles M. Perou,  Melissa A. Troester, **Michael I. Love**
+Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
 A framework for transcriptome-wide association studies in breast
 cancer in diverse study populations
 *bioRxiv*, September 2019.

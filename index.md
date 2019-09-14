@@ -21,6 +21,16 @@ michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
+### News and upcoming talks
+
+* Arjun Bhattacharya's first paper is preprinted:
+  "A framework for transcriptome-wide association studies in breast
+  cancer in diverse study populations"
+  [doi: 10.1101/769570](https://doi.org/10.1101/769570)
+* Michael Love will give a talk at APHA on Tuesday, November 5:
+  "Genetically regulated tumor gene expression in the Carolina Breast
+  Cancer Study"
+
 ### Research
 
 The Love Lab uses statistical models to infer biologically meaningful

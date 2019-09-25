@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
+K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
+Tximeta: reference sequence checksums for provenance identification in RNA-seq
+*bioRxiv*, September 2019.
+[doi: 10.1101/777888](https://doi.org/10.1101/777888), 
+[tximeta](https://bioconductor.org/packages/tximeta)
+
 **Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
 Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
 A framework for transcriptome-wide association studies in breast

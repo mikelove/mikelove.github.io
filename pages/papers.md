@@ -174,7 +174,7 @@ gene-level inferences.
 *F1000Research*, December 2015. 
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712774/),
 [doi: 10.12688/f1000research.7563.1](https://doi.org/10.12688/f1000research.7563.1),
-[tximport](http://bioconductor.org/packages/tximport) R package
+[tximport](http://bioconductor.org/packages/tximport) R/Bioconductor package
 
 **Michael I. Love**, Simon Anders, Vladislav Kim, Wolfgang Huber. 
 RNA-seq workflow: gene-level exploratory analysis and differential

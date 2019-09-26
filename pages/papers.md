@@ -10,7 +10,7 @@ K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
 Tximeta: reference sequence checksums for provenance identification in RNA-seq
 *bioRxiv*, September 2019.
 [doi: 10.1101/777888](https://doi.org/10.1101/777888), 
-[tximeta](https://bioconductor.org/packages/tximeta)
+[tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
 
 **Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
 Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
@@ -25,7 +25,7 @@ Nonparametric expression analysis using inferential replicate counts
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
 `swish` function in the 
-[fishpond](https://github.com/mikelove/fishpond) R package
+[fishpond](https://github.com/mikelove/fishpond) R/Bioconductor package
 
 Avi Srivastava, Laraib Malik, Mohsen Zakeri, Hirak Sarkar,
 Charlotte Soneson, **Michael I Love**, Carl Kingsford, Rob Patro.
@@ -72,7 +72,7 @@ Heavy-tailed prior distributions for sequence count data: removing the
 noise and preserving large differences.
 *Bioinformatics*, November 2018.
 [doi: 10.1093/bioinformatics/bty895](https://doi.org/10.1093/bioinformatics/bty895),
-[apeglm](http://bioconductor.org/packages/apeglm) R package
+[apeglm](http://bioconductor.org/packages/apeglm) R/Bioconductor package
 
 **Michael I. Love**, Charlotte Soneson, and Rob Patro.
 Swimming downstream: statistical analysis of differential transcript
@@ -157,7 +157,7 @@ in transcript abundance estimation.
 [doi: 10.1038/nbt.3682](https://doi.org/10.1038/nbt.3682),
 [blog post](https://mikelove.wordpress.com/2016/09/26/rna-seq-fragment-sequence-bias/),
 [YouTube](https://www.youtube.com/watch?v=9xskajkNJwg),
-[alpine](http://bioconductor.org/packages/alpine) R package
+[alpine](http://bioconductor.org/packages/alpine) R/Bioconductor package
 
 Mingxiang Teng, **Michael I. Love**, Carrie A. Davis, Sarah Djebali,
 Alexander Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason,
@@ -223,7 +223,7 @@ with DESeq2.
 *Genome Biology*, December 2014.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049/),
 [doi: 10.1186/s13059-014-0550-8](https://doi.org/doi:10.1186/s13059-014-0550-8),
-[DESeq2](http://bioconductor.org/packages/DESeq2) R package
+[DESeq2](http://bioconductor.org/packages/DESeq2) R/Bioconductor package
 
 Wei Li, Han Xu, Tengfei Xiao, Le Cong, **Michael I. Love**, Feng
 Zhang, Rafael A. Irizarry, Jun S. Liu, Myles Brown, X. S. Liu. 
@@ -267,4 +267,4 @@ Modeling read counts for CNV detection in exome sequencing data.
 *Statistical Applications in Genetics and Molecular Biology*, January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
 [doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732),
-[exomeCopy](http://bioconductor.org/packages/exomeCopy) R package
+[exomeCopy](http://bioconductor.org/packages/exomeCopy) R/Bioconductor package

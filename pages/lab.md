@@ -1,11 +1,21 @@
 ---
 layout: page
-title: "Lab members"
+title: "Lab members and RAs"
 ---
 
-| Name | Research topic | Photo |
+| Name | Research topics | |
 | :--- | :---- | :---- |
-| Anqi Zhu | Shrinkage estimation for sequence count data. <br> Methods implemented in the [apeglm](http://bioconductor.org/packages/apeglm) Bioconductor package. &nbsp; &nbsp; &nbsp; | <img width="100" src="../assets/anqizhu.png"> |
-| Sean McCabe | Multi 'omics factor analysis and visualization. | <img width="100" src="../assets/seanmccabe.png"> |
-| Arjun Bhattacharya &nbsp; &nbsp; &nbsp; | Variant association in Carolina Breast Cancer Study. | <img width="100" src="../assets/arjunbhattacharya.jpg"> |
+| Sean McCabe | Multi-omics factor analysis and visualization, implemented in [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with comparison to a reference panel (GTEx) | <img width="100" src="../assets/seanmccabe.png"> |
+| Arjun Bhattacharya | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring | <img width="100" src="../assets/arjunbhattacharya.jpg"> |
+| Amanda Tapia | Colocalization of molecular QTL and neuropsychiatric GWAS | <img width="100" src="../assets/amandatapia.jpg"> |
+| Scott Van Buren | Uncertainty estimation in scRNA-seq | |
+| Euphy Wu | Allele-specific expression estimation in RNA-seq | |
+| Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
+| Alexandre Lochkart | Identification of mutational signatures via targeted sequencing | |
 
+## Alumni
+
+| Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
+| :--- | :---- | :---- | :---- |
+| Anqi Zhu | Differential analysis of RNA-seq count data <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
+| Joshua Zitovsky | Fast implementation of *apeglm* for differential analysis of allelic expression ratios | Kosorok lab member | <img width="100" src="../assets/joshuazitovsky.jpg"> | 

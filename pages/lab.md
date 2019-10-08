@@ -6,7 +6,8 @@ title: "Lab members and RAs"
 | Name | Research topics | |
 | :--- | :---- | :---- |
 | Sean McCabe | Multi-omics factor analysis and visualization, implemented in [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with comparison to a reference panel (GTEx) | <img width="100" src="../assets/seanmccabe.png"> |
-| Arjun Bhattacharya | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring | <img width="100" src="../assets/arjunbhattacharya.jpg"> |
+| Arjun Bhattacharya | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
+| Sarah Reifeis | Exposure effect on gene expression in observational studies | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Amanda Tapia | Colocalization of molecular QTL and neuropsychiatric GWAS | <img width="100" src="../assets/amandatapia.jpg"> |
 | Scott Van Buren | Uncertainty estimation in scRNA-seq | |
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | |

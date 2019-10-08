@@ -9,10 +9,10 @@ title: "Lab members and RAs"
 | Arjun Bhattacharya | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring; <br> Co-supervised with Melissa Troester | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | Sarah Reifeis | Exposure effects on gene expression in observational studies; <br> Co-supervised with Michael Hudgens | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Amanda Tapia | Colocalization of molecular QTL and neuropsychiatric GWAS; <br> Co-supervised with Yun Li and Jason Stein | <img width="100" src="../assets/amandatapia.jpg"> |
-| Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | |
+| Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | <img width="100" src="../assets/scottvanburen.jpg"> |
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | |
 | Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
-| Alexandre Lochkart | Identification of mutational signatures via targeted sequencing | |
+| Alexandre Lochkart | Identification of mutational signatures via targeted sequencing | <img width="100" src="../assets/alexlockhart.jpg"> |
 
 ## Alumni
 

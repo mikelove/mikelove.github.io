@@ -3,9 +3,26 @@ layout: page
 title: "Lab members and RAs"
 ---
 
+<style>
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th{
+  background-color: #eeeeee;
+  padding: 5px;
+}
+
+td{
+  border: 1px solid #eeeeee;
+  padding: 5px;
+}
+</style>
+
 | Name | Research topics | |
 | :--- | :---- | :---- |
-| Sean McCabe | Multi-omics factor analysis and visualization, implemented in [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with comparison to a reference panel (GTEx); <br> Co-supervised with Danyu Lin | <img width="100" src="../assets/seanmccabe.png"> |
+| Sean McCabe | Multi-omics evaluation and visualization with [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with comparison to a reference panel (GTEx); <br> Co-supervised with Danyu Lin | <img width="100" src="../assets/seanmccabe.png"> |
 | [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring; <br> Co-supervised with Melissa Troester | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects on gene expression in observational studies; <br> Co-supervised with Michael Hudgens | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Amanda Tapia | Colocalization of molecular QTL and neuropsychiatric GWAS; <br> Co-supervised with Yun Li and Jason Stein | <img width="100" src="../assets/amandatapia.jpg"> |
@@ -18,5 +35,5 @@ title: "Lab members and RAs"
 
 | Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
 | :--- | :---- | :---- | :---- |
-| Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis of RNA-seq count data <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
+| Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis of RNA-seq count data; <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
 | Joshua Zitovsky | Fast implementation of *apeglm* for differential analysis of allelic expression ratios | Kosorok lab member | <img width="100" src="../assets/joshuazitovsky.jpg"> | 

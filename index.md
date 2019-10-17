@@ -23,6 +23,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News and upcoming talks
 
+* Sarah Reifeis's first paper is preprinted:
+  "Assessing exposure effects on gene expression"
+  [doi: 10.1101/806554](https://doi.org/10.1101/806554)
 * Arjun Bhattacharya's first paper is preprinted:
   "A framework for transcriptome-wide association studies in breast
   cancer in diverse study populations"

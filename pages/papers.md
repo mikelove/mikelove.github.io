@@ -5,9 +5,15 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karel
+L. Mohlke, **Michael I. Love**.
+Assessing exposure effects on gene expression.
+*bioRxiv*, October 2019.
+[doi: 10.1101/806554](https://doi.org/10.1101/806554)
+
 **Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
 K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
-Tximeta: reference sequence checksums for provenance identification in RNA-seq
+Tximeta: reference sequence checksums for provenance identification in RNA-seq.
 *bioRxiv*, September 2019.
 [doi: 10.1101/777888](https://doi.org/10.1101/777888), 
 [tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
@@ -15,13 +21,13 @@ Tximeta: reference sequence checksums for provenance identification in RNA-seq
 **Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
 Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
 A framework for transcriptome-wide association studies in breast
-cancer in diverse study populations
+cancer in diverse study populations.
 *bioRxiv*, September 2019.
 [doi: 10.1101/769570](https://doi.org/10.1101/769570)
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
 **Michael I. Love**.
-Nonparametric expression analysis using inferential replicate counts
+Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
 `swish` function in the 
@@ -29,12 +35,12 @@ Nonparametric expression analysis using inferential replicate counts
 
 Avi Srivastava, Laraib Malik, Mohsen Zakeri, Hirak Sarkar,
 Charlotte Soneson, **Michael I Love**, Carl Kingsford, Rob Patro.
-Alignment and mapping methodology influence transcript abundance estimation
+Alignment and mapping methodology influence transcript abundance estimation.
 *bioRxiv*, June 2019.
 [doi: 10.1101/657874](https://doi.org/10.1101/657874)
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
-Consistency and overfitting of multi-omics methods on experimental data
+Consistency and overfitting of multi-omics methods on experimental data.
 *Briefings in Bioinformatics*, July 2019.
 [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
 [2019 Author Manuscript](../assets/mccabe_2019.pdf),
@@ -43,7 +49,7 @@ Consistency and overfitting of multi-omics methods on experimental data
 Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,
 Dheeraj Malhotra, Mark D. Robinson.
 A junction coverage compatibility score to quantify the reliability of
-transcript abundance estimates and annotation catalogs 
+transcript abundance estimates and annotation catalogs.
 *Life Science Alliance*, January 2019.
 [doi: 10.26508/lsa.201800175](https://doi.org/10.26508/lsa.201800175)
 

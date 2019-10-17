@@ -11,6 +11,18 @@ Assessing exposure effects on gene expression.
 *bioRxiv*, October 2019.
 [doi: 10.1101/806554](https://doi.org/10.1101/806554)
 
+Chelsea K. Raulerson, Arthur Ko, John C. Kidd, Kevin W. Currin, Sarah
+M. Brotman, Maren E. Cannon, Ying Wu, Cassandra N. Spracklen, Anne
+U. Jackson, Heather M. Stringham, Ryan P. Welch, Christian
+Fuchsberger, Adam E. Locke, Narisu Narisu, Aldons J. Lusis, Mete
+Civelek, Terrence S. Furey, Johanna Kuusisto, Francis S. Collins,
+Michael Boehnke, Laura J. Scott, Dan-Yu Lin, **Michael I. Love**,
+Markku Laakso, Päivi Pajukanta, Karen L. Mohlke.
+Adipose Tissue Gene Expression Associations Reveal Hundreds of
+Candidate Genes for Cardiometabolic Traits.
+*Americal Journal of Human Genetics*, October 2019.
+[doi: 10.1016/j.ajhg.2019.09.001](https://doi.org/10.1016/j.ajhg.2019.09.001)
+
 **Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
 K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
 Tximeta: reference sequence checksums for provenance identification in RNA-seq.

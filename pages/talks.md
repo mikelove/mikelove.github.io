@@ -3,6 +3,9 @@ layout: page
 title: "Talks"
 ---
 
+* November 2019 - 
+  APHA - Spiegelman Awardee Invited Session - organized by Raphael Gottardo
+  [Genetically regulated tumor gene expression in the Carolina Breast Cancer Study](../assets/love_cbcs_apha_2019.pdf)
 * July 2019 - 
   JSM - Making an Impact in Statistics Education through Innovation and Outreach, invited <br>
   [Rmarkdown Workflows Make New Statistical Methods Accessible to Biomedical Researchers](https://bit.ly/lit-prog-workflow)

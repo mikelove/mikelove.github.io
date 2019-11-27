@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
+ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel.
+*bioRxiv*, November 2019.
+[doi: 10.1101/856401](https://doi.org/10.1101/856401),
+[actor](https://github.com/mccabes292/actor) R package
+
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karel
 L. Mohlke, **Michael I. Love**.
 Assessing exposure effects on gene expression.

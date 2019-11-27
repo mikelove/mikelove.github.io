@@ -23,6 +23,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News and upcoming talks
 
+* Sean McCabe's second paper is preprinted:
+  "ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel"
+  [doi: 10.1101/856401](https://doi.org/10.1101/856401)
 * Sarah Reifeis's first paper is preprinted:
   "Assessing exposure effects on gene expression"
   [doi: 10.1101/806554](https://doi.org/10.1101/806554)

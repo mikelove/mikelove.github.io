@@ -58,6 +58,15 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
+href="https://github.com/mccabes292/actor"
+role="button">actor</a>
+
+* A latent Dirichlet model with Dirichlet Multinomial observations to
+  compare expressed isoform proportions in a dataset to an independent
+  reference panel. Developed by Sean McCabe (UNC-CH),
+  collaboration with Andrew Nobel (STOR, UNC-CH).
+
+<a class="btn btn-primary"
 href="https://bioconductor.org/packages/fishpond"
 role="button">fishpond</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
@@ -88,8 +97,9 @@ role="button">movie</a>
   multi-omics methods. Developed by Sean McCabe (UNC-CH),
   collaboration with Dan-Yu Lin (UNC-CH).
 
-
 ---
+
+**older packages from the lab**
 
 <a class="btn btn-primary"
 href="https://bioconductor/packages/alpine"

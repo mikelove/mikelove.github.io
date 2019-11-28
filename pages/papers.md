@@ -5,8 +5,15 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Joshua P. Zitovsky**, **Michael I. Love**.
+Fast effect size shrinkage software for beta-binomial models of
+allelic imbalance. 
+*F1000Research*, November, 2019.
+[doi: 10.12688/f1000research.20916](https://doi.org/10.12688/f1000research.20916)
+
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
-ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel.
+ACTOR: a latent Dirichlet model to compare expressed isoform
+proportions to a reference panel. 
 *bioRxiv*, November 2019.
 [doi: 10.1101/856401](https://doi.org/10.1101/856401),
 [actor](https://github.com/mccabes292/actor) R package

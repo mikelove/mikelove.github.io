@@ -24,14 +24,19 @@ michaelisaiahlove at gmail dot com *
 ### News and upcoming talks
 
 * Sean McCabe's second paper is preprinted:
-  "ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel"
+  "ACTOR: a latent Dirichlet model to compare expressed 
+  isoform proportions to a reference panel"
   [doi: 10.1101/856401](https://doi.org/10.1101/856401)
+* Joshua Zitovsky's first paper is up on F1000Research:
+  "Fast effect size shrinkage software for beta-binomial 
+  models of allelic imbalance"
+  [doi: 10.12688/f1000research.20916](https://doi.org/10.12688/f1000research.20916)
 * Sarah Reifeis's first paper is preprinted:
   "Assessing exposure effects on gene expression"
   [doi: 10.1101/806554](https://doi.org/10.1101/806554)
 * Arjun Bhattacharya's first paper is preprinted:
-  "A framework for transcriptome-wide association studies in breast
-  cancer in diverse study populations"
+  "A framework for transcriptome-wide association studies 
+  in breast cancer in diverse study populations"
   [doi: 10.1101/769570](https://doi.org/10.1101/769570)
 
 ### Research

@@ -22,7 +22,7 @@ td{
 
 | Name | Research topics | |
 | :--- | :---- | :---- |
-| [Sean McCabe](https://mccabes292.github.io/) | Multi-omics evaluation and visualization with [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with [actor](https://github.com/mccabes292/actor); <br> Co-supervised with Danyu Lin | <img width="100" src="../assets/seanmccabe.png"> |
+| [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics evaluation and visualization with [movie](https://github.com/mccabes292/movie); <br> Latent Dirichlet modeling of isoform proportions with [actor](https://github.com/mccabes292/actor); <br> Co-supervised with Danyu Lin | <img width="100" src="../assets/seanmccabe.png"> |
 | [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring; <br> Co-supervised with Melissa Troester | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects on gene expression in observational studies; <br> Co-supervised with Michael Hudgens | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Amanda Tapia | Colocalization of molecular QTL and neuropsychiatric GWAS; <br> Co-supervised with Yun Li and Jason Stein | <img width="100" src="../assets/amandatapia.jpg"> |
@@ -37,3 +37,10 @@ td{
 | :--- | :---- | :---- | :---- |
 | Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis of RNA-seq count data; <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
 | Joshua Zitovsky | Fast implementation of *apeglm* for differential analysis of allelic expression ratios | Kosorok lab member | <img width="100" src="../assets/joshuazitovsky.jpg"> | 
+
+## Friends of the lab
+
+| Name | Research topic | School (lab) | |
+| :--- | :---- | :---- | :---- |
+| [Avi Srivastava](https://k3yavi.github.io/) [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quantification | Stony Brook University (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
+| [Hirak Sarkar](https://hiraksarkar.github.io/) [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, scRNA-seq simulation | University of Maryland (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |

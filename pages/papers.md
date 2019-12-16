@@ -5,10 +5,17 @@ title: "Papers"
 
 ### Publications and preprints
 
+Lourdes Cruz-Garcia, Grainne O'Brien, Botond Sipos, Simon Mayes,
+**Michael I. Love**, Daniel J. Turner, Christophe Badie.
+Generation of a Transcriptional Radiation Exposure Signature in Human
+Blood Using Long-Read Nanopore Sequencing.
+*Radiation Research*, December 2019.
+[doi: 10.1667/RR15476.1](https://doi.org/10.1667/RR15476.1)
+
 **Joshua P. Zitovsky**, **Michael I. Love**.
 Fast effect size shrinkage software for beta-binomial models of
 allelic imbalance. 
-*F1000Research*, November, 2019.
+*F1000Research*, November 2019.
 [doi: 10.12688/f1000research.20916](https://doi.org/10.12688/f1000research.20916)
 
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.

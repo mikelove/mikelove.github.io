@@ -3,6 +3,10 @@ layout: page
 title: "Talks"
 ---
 
+* December 2019 - Statistical Genetics Seminar, Biostatistics
+  Department, Johns Hopkins University <br>
+  Genetically regulated tumor gene expression in the Carolina Breast
+  Cancer Study
 * November 2019 - 
   APHA - Spiegelman Awardee Invited Session - organized by Raphael Gottardo
   [Genetically regulated tumor gene expression in the Carolina Breast Cancer Study](../assets/love_cbcs_apha_2019.pdf)

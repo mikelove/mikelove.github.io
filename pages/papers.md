@@ -16,7 +16,7 @@ Blood Using Long-Read Nanopore Sequencing.
 Fast effect size shrinkage software for beta-binomial models of
 allelic imbalance. 
 *F1000Research*, November 2019.
-[doi: 10.12688/f1000research.20916](https://doi.org/10.12688/f1000research.20916)
+[doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
 
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
 ACTOR: a latent Dirichlet model to compare expressed isoform

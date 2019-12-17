@@ -30,7 +30,7 @@ michaelisaiahlove at gmail dot com *
 * Joshua Zitovsky's first paper is up on F1000Research:
   "Fast effect size shrinkage software for beta-binomial 
   models of allelic imbalance"
-  [doi: 10.12688/f1000research.20916](https://doi.org/10.12688/f1000research.20916.1)
+  [doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
 * Sarah Reifeis's first paper is preprinted:
   "Assessing exposure effects on gene expression"
   [doi: 10.1101/806554](https://doi.org/10.1101/806554)

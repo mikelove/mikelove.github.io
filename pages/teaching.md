@@ -14,6 +14,7 @@ title: "Teaching"
 
 ### Books
 
+* Chapter in RNA Bioinformatics - [Statistical Modeling of High-Dimensional Counts](counts-model)
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/) by Rafael A. Irizarry and Michael I. Love
     - PDF from [Leanpub](https://leanpub.com/dataanalysisforthelifesciences/)
     - Paperback or eBook from [CRC Press](https://www.crcpress.com/Data-Analysis-for-the-Life-Sciences-with-R/Irizarry-Love/p/book/9781498775670)

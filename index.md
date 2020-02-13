@@ -23,6 +23,13 @@ michaelisaiahlove at gmail dot com *
 
 ### News and upcoming talks
 
+* Mike will be giving a talk at **ENAR 2020**:
+  Session 118. RECENT ADVANCES AND OPPORTUNITIES IN LARGE
+  SCALE & MULTI-OMIC SINGLE-CELL DATA ANALYSIS,
+  Wednesday, March 25, 10:30am-12:15pm.
+* New paper on *F1000Research*: From first author Stuart Lee (Monash U.),
+  "Fluent genomics with plyranges and tximeta"
+  [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
 * Sean McCabe's second paper is preprinted:
   "ACTOR: a latent Dirichlet model to compare expressed 
   isoform proportions to a reference panel"

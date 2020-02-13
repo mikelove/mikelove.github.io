@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Stuart Lee, Michael Lawrence, **Michael I. Love**.
+Fluent genomics with plyranges and tximeta.
+*F1000Research*, February 2020.
+[doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
+
 Lourdes Cruz-Garcia, Grainne O'Brien, Botond Sipos, Simon Mayes,
 **Michael I. Love**, Daniel J. Turner, Christophe Badie.
 Generation of a Transcriptional Radiation Exposure Signature in Human

@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
+Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
+A framework for transcriptome-wide association studies in breast
+cancer in diverse study populations.
+*Genome Biology*, February 2020.
+[doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
+
 Stuart Lee, Michael Lawrence, **Michael I. Love**.
 Fluent genomics with plyranges and tximeta.
 *F1000Research*, February 2020.
@@ -54,13 +61,6 @@ Tximeta: reference sequence checksums for provenance identification in RNA-seq.
 *bioRxiv*, September 2019.
 [doi: 10.1101/777888](https://doi.org/10.1101/777888), 
 [tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
-
-**Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
-Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
-A framework for transcriptome-wide association studies in breast
-cancer in diverse study populations.
-*bioRxiv*, September 2019.
-[doi: 10.1101/769570](https://doi.org/10.1101/769570)
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
 **Michael I. Love**.

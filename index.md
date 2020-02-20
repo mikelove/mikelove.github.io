@@ -23,6 +23,8 @@ michaelisaiahlove at gmail dot com *
 
 ### News and upcoming talks
 
+* Arjun's breast cancer TWAS is published in *Genome Biology*
+  [doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
 * Mike will be giving a talk at **ENAR 2020**:
   Session 118. RECENT ADVANCES AND OPPORTUNITIES IN LARGE
   SCALE & MULTI-OMIC SINGLE-CELL DATA ANALYSIS,
@@ -41,10 +43,6 @@ michaelisaiahlove at gmail dot com *
 * Sarah Reifeis's first paper is preprinted:
   "Assessing exposure effects on gene expression"
   [doi: 10.1101/806554](https://doi.org/10.1101/806554)
-* Arjun Bhattacharya's first paper is preprinted:
-  "A framework for transcriptome-wide association studies 
-  in breast cancer in diverse study populations"
-  [doi: 10.1101/769570](https://doi.org/10.1101/769570)
 
 ### Research
 

@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
+K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
+Tximeta: Reference sequence checksums for provenance identification in RNA-seq.
+*PLOS Computational Biology*, February 2020.
+[doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664),
+[tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
+
 **Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
 Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
 A framework for transcriptome-wide association studies in breast
@@ -54,13 +61,6 @@ Adipose Tissue Gene Expression Associations Reveal Hundreds of
 Candidate Genes for Cardiometabolic Traits.
 *Americal Journal of Human Genetics*, October 2019.
 [doi: 10.1016/j.ajhg.2019.09.001](https://doi.org/10.1016/j.ajhg.2019.09.001)
-
-**Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
-K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
-Tximeta: reference sequence checksums for provenance identification in RNA-seq.
-*bioRxiv*, September 2019.
-[doi: 10.1101/777888](https://doi.org/10.1101/777888), 
-[tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
 **Michael I. Love**.

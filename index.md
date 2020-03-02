@@ -21,14 +21,22 @@ michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
-### News and upcoming talks
+### Upcoming talks, seminars, courses
+
+* **University of Utah**: Wednesday, March 10.
+* **ENAR 2020**, Nashville, TN: Wednesday, March 25, 10:30am-12:15pm.
+  Session 118. RECENT ADVANCES AND OPPORTUNITIES IN LARGE
+  SCALE & MULTI-OMIC SINGLE-CELL DATA ANALYSIS.
+* **MAQC 2020**, Cary, NC: Thursday, April 9.
+* **BIRS 20w5197**: June 14 - June 19.
+  Mathematical Frameworks for Integrative Analysis of Emerging
+  Biological Data Types
+* **Statistical Methods for Functional Genomics**: CSHL: June 26 - July 9.
+
+### News
 
 * Arjun's breast cancer TWAS is published in *Genome Biology*
   [doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
-* Mike will be giving a talk at **ENAR 2020**:
-  Session 118. RECENT ADVANCES AND OPPORTUNITIES IN LARGE
-  SCALE & MULTI-OMIC SINGLE-CELL DATA ANALYSIS,
-  Wednesday, March 25, 10:30am-12:15pm.
 * New paper on *F1000Research*: From first author Stuart Lee (Monash U.),
   "Fluent genomics with plyranges and tximeta"
   [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)

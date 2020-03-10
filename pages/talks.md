@@ -3,10 +3,11 @@ layout: page
 title: "Talks"
 ---
 
+* March, 2020 - Human Genetics Seminar Series, University of Utah <br>
+  [Reliable and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
 * December 2019 - Statistical Genetics Seminar, Biostatistics
   Department, Johns Hopkins University <br>
-  Genetically regulated tumor gene expression in the Carolina Breast
-  Cancer Study
+  Genetically regulated tumor gene expression in the Carolina Breast Cancer Study
 * November 2019 - 
   APHA - Spiegelman Awardee Invited Session - organized by Raphael Gottardo
   [Genetically regulated tumor gene expression in the Carolina Breast Cancer Study](../assets/love_cbcs_apha_2019.pdf)

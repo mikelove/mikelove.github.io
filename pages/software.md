@@ -21,9 +21,7 @@ href="https://bioconductor.org/packages/stats/bioc/DESeq2/"
 role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/DESeq2.svg">
 
-* Estimate variance-mean dependence in count data from high-throughput
-sequencing assays and test for differential expression based on a
-model using the negative binomial distribution.
+* Test for differential expression based on Negative Binomial GLM.<br>
 Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
 
 <a class="btn btn-primary"
@@ -35,9 +33,19 @@ role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/tximport.svg">
 
 * Imports transcript-level abundance, estimated counts and transcript
-lengths, and summarizes into matrices for use with downstream
-gene-level analysis packages such as edgeR, DESeq2, limma-voom.
-Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich)
+lengths.<br>
+Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich).
+
+<a class="btn btn-primary"
+href="https://bioconductor.org/packages/tximeta"
+role="button">tximeta</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/stats/bioc/tximeta/"
+role="button">usage stats</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
+
+* Import transcript abundances with automatic population of metadata.<br>
+Collaboration with Rob Patro (UMD), Charlotte Soneson (FMI), and Peter Hickey (WEHI).
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/apeglm"
@@ -48,9 +56,10 @@ role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/apeglm.svg">
 
 * Bayesian shrinkage estimators for effect sizes for a variety of GLM
-models, using approximation of the posterior for individual
-coefficients.  Developed by Anqi Zhu (UNC-CH), collaboration with
-Joseph Ibrahim (UNC-CH). `apeglm` methods can be accessed via `lfcShrink`
+models.<br>
+Developed by Anqi Zhu (UNC-CH), collaboration with Joseph Ibrahim
+(UNC-CH).<br> 
+`apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 ---
@@ -76,16 +85,6 @@ role="button">fishpond</a>
   with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
   Rob Patro (SBU). `swish` lives in the Bioconductor package
   *fishpond*.
-
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/tximeta"
-role="button">tximeta</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
-
-* Import transcript abundances with automatic population of metadata.
-  Builds on top of `tximport`, outputs a `SummarizedExperiment` object
-  with transcriptome metadata automatically added. Collaboration with
-  Rob Patro (SBU), Charlotte Soneson (UZH), and Peter Hickey (WEHI).
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"

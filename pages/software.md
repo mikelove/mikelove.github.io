@@ -11,6 +11,8 @@ title: "Software"
 <img width="100" src="../assets/apeglm.png">
 <img width="100" src="../assets/fishpond.png">
 
+<br>
+
 **highly used**
 
 <a class="btn btn-primary"
@@ -34,7 +36,7 @@ role="button">usage stats</a>
 
 * Imports transcript-level abundance, estimated counts and transcript
 lengths.<br>
-Collaboration with Charlotte Soneson and Mark Robinson (UZH Zürich).
+Collaboration with Charlotte Soneson (FMI) and Mark Robinson (UZH Zürich).
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/tximeta"
@@ -67,8 +69,19 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
+href="https://github.com/bhattacharya-a-bt/MOSTWAS"
+role="button">MOSTWAS</a>
+<img width="100" src="../assets/gh.png">
+
+* Suite of tools to prioritize distal variants in transcriptomic
+  prediction, and conduct TWAS-like association testing using GWAS
+  summary statistics.
+  Developed by Arjun Bhattacharya (UNC-CH).
+
+<a class="btn btn-primary"
 href="https://github.com/mccabes292/actor"
 role="button">actor</a>
+<img width="100" src="../assets/gh.png">
 
 * A latent Dirichlet model with Dirichlet Multinomial observations to
   compare expressed isoform proportions in a dataset to an independent
@@ -83,12 +96,13 @@ role="button">fishpond</a>
 * `swish` is a nonparametric differential transcript and gene analysis
   method making use of inferential replicate counts. Collaboration
   with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (SBU). `swish` lives in the Bioconductor package
+  Rob Patro (UMD). `swish` lives in the Bioconductor package
   *fishpond*.
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"
 role="button">movie</a>
+<img width="100" src="../assets/gh.png">
 
 * A framework for evaluating variance classification methods using
   multi-omics data. Using data segmentation, this framework aims to
@@ -98,63 +112,51 @@ role="button">movie</a>
 
 ---
 
-**older packages from the lab**
-
-<a class="btn btn-primary"
-href="https://bioconductor/packages/alpine"
-role="button">alpine</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/alpine.svg">
-
-* Modeling and correcting fragment sequence bias for RNA-seq transcript
-abundance estimation. 
-Collaboration with Rafael Irizarry (DFCI Boston).
-
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/exomeCopy"
-role="button">exomeCopy</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
-
-* Detection of copy number variants (CNV) from exome sequencing samples,
-including unpaired samples. The package implements a hidden Markov
-model which uses positional covariates, such as background read depth
-and GC-content, to simultaneously normalize and segment the samples
-into regions of constant copy count.
-Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
-(MPI Berlin).
-
-<a class="btn btn-primary"
-href="http://github.com/mikelove/SparseData"
-role="button">SparseData</a>
-
-* Efficiently calculate statistics such as group mean, standard
-deviation and t-statistics on large sparse genomic data sets.
-
 ### Published workflows
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/rnaseqGene"
 role="button">rnaseqGene</a>
+<img width="120" src="../assets/bioc.png">
 
 * RNA-seq workflow: gene-level exploratory analysis and differential
-  expression. [F1000R](https://doi.org/10.12688/f1000research.7035.2)
+  expression. <br>
+  Developed in collaboration with Simon Anders, Vladislav Kim, Wolfgang Huber (EMBL Heidelberg).<br>
+  [F1000Research](https://doi.org/10.12688/f1000research.7035.2) publication
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/rnaseqDTU"
 role="button">rnaseqDTU</a>
+<img width="120" src="../assets/bioc.png">
 
 * Swimming downstream: statistical analysis of differential transcript
-  usage following Salmon quantification.
-  [F1000R](https://doi.org/10.12688/f1000research.15398.3)
+  usage following Salmon quantification.<br>
+  Developed in collaboration with Charlotte Soneson (FMI) and Rob Patro (UMD).<br>
+  [F1000Research](https://doi.org/10.12688/f1000research.15398.3) publication
+
+<a class="btn btn-primary"
+href="https://bioconductor.org/packages/fluentGenomics"
+role="button">fluentGenomics</a>
+<img width="120" src="../assets/bioc.png">
+
+* An extended workflow using the plyranges and tximeta packages for
+  fluent genomic data analysis.<br>
+  Developed by Stuart Lee (WEHI), in collaboration with Michael
+  Lawrence (Genentech).<br>
+  [F1000Research](https://doi.org/10.12688/f1000research.22259.1) publication
+
+---
 
 ### Contributor
 
 <a class="btn btn-primary"
 href="https://combine-lab.github.io/salmon/"
 role="button">Salmon</a>
+<img width="100" src="../assets/gh.png">
 
 * Software for quantifying
 the expression of transcripts using RNA-seq data, developed and
-maintained by Rob Patro (SBU). The Love lab collaborates with
+maintained by Rob Patro (UMD). The Love lab collaborates with
 Dr. Patro on bias correction methods, on estimation of uncertainty
 through Gibbs and bootstrap sampling, and on propagation 
 of metadata from abundance estimation to downstream analysis packages.
@@ -172,10 +174,12 @@ core team).
 
 <a class="btn btn-primary"
 href="https://cran.r-project.org/package=rafalib"
-role="button">rafalib</a>
+role="button">rafalib</a> --- CRAN
 
 * A series of shortcuts for routine tasks.
 Collaboration with Rafael Irizarry (DFCI Boston).
+
+---
 
 ### Data packages
 
@@ -229,3 +233,37 @@ This packages provides a subset of alignments for demonstration of
 `alpine`. The samples aligned are a subset of 4 samples from the
 GEUVADIS project. The citation for the GEUVADIS project is:
 [Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)
+
+---
+
+### Older packages from the lab
+
+<a class="btn btn-primary"
+href="https://bioconductor/packages/alpine"
+role="button">alpine</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/alpine.svg">
+
+* Modeling and correcting fragment sequence bias for RNA-seq transcript
+abundance estimation. 
+Collaboration with Rafael Irizarry (DFCI Boston).
+
+<a class="btn btn-primary"
+href="https://bioconductor.org/packages/exomeCopy"
+role="button">exomeCopy</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
+
+* Detection of copy number variants (CNV) from exome sequencing samples,
+including unpaired samples. The package implements a hidden Markov
+model which uses positional covariates, such as background read depth
+and GC-content, to simultaneously normalize and segment the samples
+into regions of constant copy count.
+Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
+(MPI Berlin).
+
+<a class="btn btn-primary"
+href="http://github.com/mikelove/SparseData"
+role="button">SparseData</a>
+<img width="100" src="../assets/gh.png">
+
+* Efficiently calculate statistics such as group mean, standard
+deviation and t-statistics on large sparse genomic data sets.

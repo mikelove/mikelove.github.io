@@ -23,9 +23,6 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks, seminars, courses
 
-* **ENAR 2020**: *Virtual* Nashville, TN: Wednesday, March 25, 10:30am-12:15pm.
-  Session 118. RECENT ADVANCES AND OPPORTUNITIES IN LARGE
-  SCALE & MULTI-OMIC SINGLE-CELL DATA ANALYSIS.
 * **BIRS 20w5197**: June 14 - June 19.
   Mathematical Frameworks for Integrative Analysis of Emerging
   Biological Data Types

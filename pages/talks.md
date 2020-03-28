@@ -3,6 +3,9 @@ layout: page
 title: "Talks"
 ---
 
+* March, 2020 - ENAR - Recent advanced and opportunities in large
+  scale and multi-omic single cell data analysis, invited. <br>
+  *Assessing consistency of unsupervised single-cell multi-omic methods*
 * March, 2020 - Human Genetics Seminar Series, University of Utah <br>
   [Reliable and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
 * December 2019 - Statistical Genetics Seminar, Biostatistics

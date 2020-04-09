@@ -31,13 +31,13 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* Arjun's second paper is preprinted:
-  *An approach for normalization and quality control for NanoString RNA expression data*
+* Arjun Bhattacharya's second paper is preprinted:
+  "An approach for normalization and quality control for NanoString RNA expression data"
   [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
 
 * Tximeta is published in *PLOS Computational Biology*
   [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)
-* Arjun's breast cancer TWAS is published in *Genome Biology*
+* Arjun Bhattacharya's breast cancer TWAS is published in *Genome Biology*
   [doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
 * New paper on *F1000Research*: From first author Stuart Lee (Monash U.),
   "Fluent genomics with plyranges and tximeta"

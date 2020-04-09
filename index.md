@@ -1,4 +1,5 @@
 ---
+title: Love Lab
 layout: page
 ---
 

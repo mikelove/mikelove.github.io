@@ -31,6 +31,10 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* Arjun's second paper is preprinted:
+  *An approach for normalization and quality control for NanoString RNA expression data*
+  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
+
 * Tximeta is published in *PLOS Computational Biology*
   [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)
 * Arjun's breast cancer TWAS is published in *Genome Biology*

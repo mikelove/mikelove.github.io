@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
+**Michael I. Love**, Rob Patro
+Terminus enables the discovery of data-driven, robust transcript
+groups from RNA-seq data. 
+*bioRxiv*, April 2020.
+[doi: 10.1101/2020.04.07.029967](https://doi.org/10.1101/2020.04.07.029967)
+
 **Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
 K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.
 Tximeta: Reference sequence checksums for provenance identification in RNA-seq.
@@ -23,6 +30,15 @@ Stuart Lee, Michael Lawrence, **Michael I. Love**.
 Fluent genomics with plyranges and tximeta.
 *F1000Research*, February 2020.
 [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
+
+Dan Liang, Angela L. Elwell, Nil Aygün, Michael J. Lafferty, Oleh
+Krupa, Kerry E. Cheek, Kenan P. Courtney, Marianna Yusupova, Melanie
+E. Garrett, Allison Ashley-Koch, Gregory E. Crawford, **Michael I. Love**,
+Luis de la Torre-Ubieta, Daniel H. Geschwind, Jason L. Stein
+Cell-type specific effects of genetic variation on chromatin
+accessibility during human neuronal differentiation.
+*bioRxiv*, January 2020.
+[doi: 10.1101/2020.01.13.904862](https://doi.org/10.1101/2020.01.13.904862)
 
 Lourdes Cruz-Garcia, Grainne O'Brien, Botond Sipos, Simon Mayes,
 **Michael I. Love**, Daniel J. Turner, Christophe Badie.

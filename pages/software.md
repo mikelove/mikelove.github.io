@@ -239,7 +239,7 @@ GEUVADIS project. The citation for the GEUVADIS project is:
 ### Older packages from the lab
 
 <a class="btn btn-primary"
-href="https://bioconductor/packages/alpine"
+href="https://bioconductor.org/packages/alpine"
 role="button">alpine</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/alpine.svg">
 

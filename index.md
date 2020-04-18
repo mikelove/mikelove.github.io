@@ -28,12 +28,16 @@ michaelisaiahlove at gmail dot com *
   Mathematical Frameworks for Integrative Analysis of Emerging
   Biological Data Types
 * **Statistical Methods for Functional Genomics**: CSHL: June 26 - July 9.
+* **BioC2020**: July 29 - 31. [Quantification of droplet scRNA-seq and import into Bioconductor with alevin and tximeta](https://github.com/mikelove/bioc-proposal)
 
 ### News
 
-* Arjun Bhattacharya's second paper is preprinted:
-  "An approach for normalization and quality control for NanoString RNA expression data"
-  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
+* Arjun Bhattacharya's second and third papers are preprinted:<br>
+  "An approach for normalization and quality control for NanoString RNA expression data"<br>
+  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490),
+  and <br>
+  "Multi-omic strategies for transcriptome-wide prediction and association studies"<br>
+  [doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225)
 * Tximeta is published in *PLOS Computational Biology*
   [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)
 * Arjun Bhattacharya's breast cancer TWAS is published in *Genome Biology*
@@ -45,13 +49,6 @@ michaelisaiahlove at gmail dot com *
   "ACTOR: a latent Dirichlet model to compare expressed 
   isoform proportions to a reference panel"
   [doi: 10.1101/856401](https://doi.org/10.1101/856401)
-* Joshua Zitovsky's first paper is up on F1000Research:
-  "Fast effect size shrinkage software for beta-binomial 
-  models of allelic imbalance"
-  [doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
-* Sarah Reifeis's first paper is preprinted:
-  "Assessing exposure effects on gene expression"
-  [doi: 10.1101/806554](https://doi.org/10.1101/806554)
 
 ### Research
 
@@ -99,6 +96,13 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
+* November 2019 - Joshua Zitovsky's first paper is up on F1000Research:
+  "Fast effect size shrinkage software for beta-binomial 
+  models of allelic imbalance"
+  [doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
+* October 2019 - Sarah Reifeis's first paper is preprinted:
+  "Assessing exposure effects on gene expression"
+  [doi: 10.1101/806554](https://doi.org/10.1101/806554)
 * August 2019 - Anqi Zhu's second paper published in *Nucleic Acids Research*:
   [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
   which describes the Swish method in the [fishpond](https://bioconductor.org/packages/fishpond) package.

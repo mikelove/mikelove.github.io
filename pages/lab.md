@@ -27,7 +27,7 @@ td{
 | Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | <img width="100" src="../assets/scottvanburen.jpg"> |
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
 | Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
-| Alexandre Lochkart | Identification of mutational signatures via targeted sequencing | <img width="100" src="../assets/alexlockhart.jpg"> |
+| Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | <img width="100" src="../assets/alexlockhart.jpg"> |
 
 ## Alumni
 

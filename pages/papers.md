@@ -48,7 +48,7 @@ Fluent genomics with plyranges and tximeta.
 Dan Liang, Angela L. Elwell, Nil Aygün, Michael J. Lafferty, Oleh
 Krupa, Kerry E. Cheek, Kenan P. Courtney, Marianna Yusupova, Melanie
 E. Garrett, Allison Ashley-Koch, Gregory E. Crawford, **Michael I. Love**,
-Luis de la Torre-Ubieta, Daniel H. Geschwind, Jason L. Stein
+Luis de la Torre-Ubieta, Daniel H. Geschwind, Jason L. Stein.
 Cell-type specific effects of genetic variation on chromatin
 accessibility during human neuronal differentiation.
 *bioRxiv*, January 2020.

@@ -8,7 +8,8 @@ title: "Teaching"
 * BIOS 663 - Intermediate Linear Models,
   Spring 2020, 1:25-3:10 MW, opt. lab 3:35-4:35 M
 * [BIOS 735 - Introduction to Statistical Computing](http://biodatascience.github.io/statcomp),
-  Spring 2019, 1:25-3:10 MW
+  Spring 2019, 1:25-3:10 MW (co-taught in 2019 with 
+  [Dr. Naim Rashid](https://naimurashid.github.io/))
 * [BIOS 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
   Fall 2017, 9:05-10:20 MW
 

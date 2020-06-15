@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
+L. Mohlke, **Michael I. Love**. 
+Assessing exposure effects on gene expression.
+*Genetic Epidemiology*, June, 2020.
+[doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)
+
 Charlotte Soneson, Federico Marini, Florian Geier, **Michael
 I. Love**, Michael B. Stadler.
 ExploreModelMatrix: Interactive exploration for improved understanding
@@ -81,12 +87,6 @@ proportions to a reference panel.
 *bioRxiv*, November 2019.
 [doi: 10.1101/856401](https://doi.org/10.1101/856401),
 [actor](https://github.com/mccabes292/actor) R package
-
-**Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karel
-L. Mohlke, **Michael I. Love**.
-Assessing exposure effects on gene expression.
-*bioRxiv*, October 2019.
-[doi: 10.1101/806554](https://doi.org/10.1101/806554)
 
 Chelsea K. Raulerson, Arthur Ko, John C. Kidd, Kevin W. Currin, Sarah
 M. Brotman, Maren E. Cannon, Ying Wu, Cassandra N. Spracklen, Anne

@@ -24,11 +24,7 @@ michaelisaiahlove at gmail dot com *
 
 ### Upcoming talks, seminars, courses
 
-* **BIRS 20w5197**: June 14 - June 19.
-  Mathematical Frameworks for Integrative Analysis of Emerging
-  Biological Data Types
-* **Statistical Methods for Functional Genomics**: CSHL: June 26 - July 9.
-* **BioC2020**: July 29 - 31. [Quantification of droplet scRNA-seq and import into Bioconductor with alevin and tximeta](https://github.com/mikelove/bioc-proposal)
+* **BioC2020**: Thursday, July 30, 5-6pm. *Importing alevin scRNA-seq counts into R/Bioconductor*
 
 ### News
 

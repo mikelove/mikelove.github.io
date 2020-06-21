@@ -3,6 +3,9 @@ layout: page
 title: "Talks"
 ---
 
+* June, 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
+  of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197). <br>
+  [Assessing Consistency of Single Cell Unsupervised Multi-Modal Methods](https://www.birs.ca/events/2020/5-day-workshops/20w5197/videos/watch/202006180730-Love.html)
 * March, 2020 - ENAR - Recent advanced and opportunities in large
   scale and multi-omic single cell data analysis, invited. <br>
   *Assessing consistency of unsupervised single-cell multi-omic methods*

@@ -28,6 +28,8 @@ td{
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
 | Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | <img width="100" src="../assets/alexlockhart.jpg"> |
+| Ji-Eun Park | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
+| Kwame Forbes | Integration of single cell expression data for exploration of bulk DE analysis | <img width="100" src="../assets/kwameforbes.jpg"> |
 
 ## Alumni
 
@@ -43,4 +45,4 @@ td{
 | Name | Research topic | School (lab) | |
 | :--- | :---- | :---- | :---- |
 | [Avi Srivastava](https://k3yavi.github.io/) [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quantification | Stony Brook University (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
-| [Hirak Sarkar](https://hiraksarkar.github.io/) [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, scRNA-seq simulation | University of Maryland (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
+| [Hirak Sarkar](https://hiraksarkar.github.io/) [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, scRNA-seq simulation, transcript grouping | University of Maryland (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |

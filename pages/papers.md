@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
+Patro, **Michael I. Love**.
+Compression of quantification uncertainty for scRNA-seq counts.
+*bioRxiv*, July, 2020.
+[doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
+
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
 L. Mohlke, **Michael I. Love**. 
 Assessing exposure effects on gene expression.

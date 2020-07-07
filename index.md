@@ -28,6 +28,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* Scott Van Buren's paper is preprinted:<br>
+  "Compression of quantification uncertainty for scRNA-seq counts" <br>
+  [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 * Sarah Reifeis's first paper is published in *Genetic Epidemiology*:
   "Assessing exposure effects on gene expression"
   [doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)

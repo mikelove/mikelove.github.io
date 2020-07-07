@@ -11,6 +11,12 @@ Compression of quantification uncertainty for scRNA-seq counts.
 *bioRxiv*, July, 2020.
 [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 
+**Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
+Multi-omic strategies for transcriptome-wide prediction and association studies.
+*bioRxiv*, June 2020.
+[doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225),
+[MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS) R package
+
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
 L. Mohlke, **Michael I. Love**. 
 Assessing exposure effects on gene expression.
@@ -24,12 +30,6 @@ of design matrices and linear models in R.
 *F1000Research*, June 2020.
 [doi: 10.12688/f1000research.24187.1](https://doi.org/10.12688/f1000research.24187.1),
 [ExploreModelMatrix](https://www.bioconductor.org/packages/ExploreModelMatrix) R/Bioconductor package
-
-**Arjun Bhattacharya**, **Michael I. Love**.
-Multi-omic strategies for transcriptome-wide prediction and association studies.
-*bioRxiv*, April 2020.
-[doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225),
-[MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS) R package
 
 **Arjun Bhattacharya** (1), Alina M. Hamilton (1), Helena Furberg, Eugene Pietzak,
 Mark P. Purdue, Melissa A. Troester, Katherine A. Hoadley (N), 

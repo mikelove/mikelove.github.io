@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Nana Matoba, **Michael I. Love**, Jason L. Stein.
+Evaluating brain structure traits as endophenotypes using polygenicity and discoverability
+*bioRxiv*, July, 2020.
+[doi: 10.1101/2020.07.17.208843](https://doi.org/10.1101/2020.07.17.208843)
+
 **Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
 Patro, **Michael I. Love**.
 Compression of quantification uncertainty for scRNA-seq counts.

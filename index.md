@@ -22,10 +22,6 @@ michaelisaiahlove at gmail dot com *
 
 \* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
-### Upcoming talks, seminars, courses
-
-* **BioC2020**: Thursday, July 30, 5-6pm. *Importing alevin scRNA-seq counts into R/Bioconductor*
-
 ### News
 
 * Scott Van Buren's paper is preprinted:<br>

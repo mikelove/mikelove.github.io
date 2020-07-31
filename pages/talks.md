@@ -3,6 +3,8 @@ layout: page
 title: "Talks"
 ---
 
+* July, 2020 - BioC2020 contributed workshop <br> 
+  [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc)
 * June, 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
   of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197). <br>
   [Assessing Consistency of Single Cell Unsupervised Multi-Modal Methods](https://www.birs.ca/events/2020/5-day-workshops/20w5197/videos/watch/202006180730-Love.html)

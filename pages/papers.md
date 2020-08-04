@@ -16,6 +16,12 @@ Compression of quantification uncertainty for scRNA-seq counts.
 *bioRxiv*, July, 2020.
 [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 
+Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
+**Michael I. Love**, Rob Patro.
+Terminus enables the discovery of data-driven, robust transcript groups from RNA-seq data. 
+*Bioinformatics*, July 2020.
+[doi: 10.1093/bioinformatics/btaa448](https://doi.org/10.1093/bioinformatics/btaa448)
+
 **Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
 Multi-omic strategies for transcriptome-wide prediction and association studies.
 *bioRxiv*, June 2020.
@@ -43,13 +49,6 @@ An approach for normalization and quality control for NanoString RNA
 expression data.
 *bioRxiv*, April 2020.
 [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
-
-Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
-**Michael I. Love**, Rob Patro.
-Terminus enables the discovery of data-driven, robust transcript
-groups from RNA-seq data. 
-*bioRxiv*, April 2020.
-[doi: 10.1101/2020.04.07.029967](https://doi.org/10.1101/2020.04.07.029967)
 
 **Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
 K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.

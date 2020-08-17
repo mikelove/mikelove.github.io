@@ -24,17 +24,28 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* Scott Van Buren's paper is preprinted:<br>
-  "Compression of quantification uncertainty for scRNA-seq counts" <br>
+* Two new preprints from the lab:
+    - Arjun's last chapter, "DeCompress: tissue compartment
+      deconvolution of targeted mRNA expression panels using
+      compressed sensing" 
+	  [doi: 10.1101/2020.08.14.250902](https://doi.org/10.1101/2020.08.14.250902)
+	- Anqi's last chapter, "MRLocus: identifying causal genes
+      mediating a trait through Bayesian estimation of allelic
+      heterogeneity" 
+	  [doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
+* Arjun's co-authored paper on NanoString normalization with Alina
+  Hamilton is published in *Briefings in Bioinformatics*, 
+  [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
+* Scott Van Buren's paper is preprinted:
+  "Compression of quantification uncertainty for scRNA-seq counts"
   [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 * Sarah Reifeis's first paper is published in *Genetic Epidemiology*:
   "Assessing exposure effects on gene expression"
   [doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)
-* Arjun Bhattacharya's second and third papers are preprinted:<br>
-  "An approach for normalization and quality control for NanoString RNA expression data"<br>
-  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490),
-  and <br>
-  "Multi-omic strategies for transcriptome-wide prediction and association studies"<br>
+* Arjun Bhattacharya's second and third papers are preprinted:
+    - "An approach for normalization and quality control for NanoString RNA expression data"
+  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
+    - "Multi-omic strategies for transcriptome-wide prediction and association studies"
   [doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225)
 * Tximeta is published in *PLOS Computational Biology*
   [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)

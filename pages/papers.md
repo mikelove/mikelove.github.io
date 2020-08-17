@@ -5,6 +5,27 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Arjun Bhattacharya**, Alina M. Hamilton, Melissa A. Troester, **Michael I. Love**.
+DeCompress: tissue compartment deconvolution of targeted mRNA
+expression panels using compressed sensing.
+*bioRxiv*, August 2020.
+[doi: 10.1101/2020.08.14.250902](https://doi.org/10.1101/2020.08.14.250902)
+
+**Anqi Zhu**, Nana Matoba, Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
+Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
+MRLocus: identifying causal genes mediating a trait through Bayesian
+estimation of allelic heterogeneity.
+*bioRxiv*, August 2020.
+[doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
+
+**Arjun Bhattacharya** (1), Alina M. Hamilton (1), Helena Furberg, Eugene Pietzak,
+Mark P. Purdue, Melissa A. Troester, Katherine A. Hoadley (N), 
+**Michael I. Love** (N).
+An approach for normalization and quality control for NanoString RNA
+expression data.
+*Briefings in Bioinformatics*, August 2020.
+[doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
+
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
 Evaluating brain structure traits as endophenotypes using polygenicity and discoverability
 *bioRxiv*, July, 2020.
@@ -41,14 +62,6 @@ of design matrices and linear models in R.
 *F1000Research*, June 2020.
 [doi: 10.12688/f1000research.24187.1](https://doi.org/10.12688/f1000research.24187.1),
 [ExploreModelMatrix](https://www.bioconductor.org/packages/ExploreModelMatrix) R/Bioconductor package
-
-**Arjun Bhattacharya** (1), Alina M. Hamilton (1), Helena Furberg, Eugene Pietzak,
-Mark P. Purdue, Melissa A. Troester, Katherine A. Hoadley (N), 
-**Michael I. Love** (N).
-An approach for normalization and quality control for NanoString RNA
-expression data.
-*bioRxiv*, April 2020.
-[doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
 
 **Michael I. Love**, Charlotte Soneson, Peter F. Hickey, Lisa
 K. Johnson, N. Tessa Pierce, Lori Shepherd, Martin Morgan, Rob Patro.

@@ -25,6 +25,7 @@ An approach for normalization and quality control for NanoString RNA
 expression data.
 *Briefings in Bioinformatics*, August 2020.
 [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
+[bioRxiv](https://doi.org/10.1101/2020.04.08.032490)
 
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
 Evaluating brain structure traits as endophenotypes using polygenicity and discoverability

@@ -11,7 +11,7 @@ expression panels using compressed sensing.
 *bioRxiv*, August 2020.
 [doi: 10.1101/2020.08.14.250902](https://doi.org/10.1101/2020.08.14.250902)
 
-**Anqi Zhu**, Nana Matoba, Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
+**Anqi Zhu** [1], Nana Matoba [1], Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
 Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
 MRLocus: identifying causal genes mediating a trait through Bayesian
 estimation of allelic heterogeneity.

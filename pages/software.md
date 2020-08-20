@@ -69,7 +69,28 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
-href="https://github.com/bhattacharya-a-bt/MOSTWAS"
+href="https://mikelove.github.io/mrlocus"
+role="button">MRLocus</a>
+<img width="100" src="../assets/gh.png">
+
+* Bayesian estimation of the gene-to-trait effect from eQTL and GWAS
+  summary data for loci displaying allelic heterogeneity, that is,
+  containing multiple LD-independent eQTLs.
+  Developed in collaboration with Anqi Zhu, Nana Matoba, and Jason
+  Stein (UNC-CH).
+
+<a class="btn btn-primary"
+href="https://github.com/bhattacharya-a-bt/DeCompress"
+role="button">DeCompress</a>
+<img width="100" src="../assets/gh.png">
+
+* A semi-reference free method that uses compressed sensing to
+  deconvolve tissue compartments from bulk mRNA expression from
+  targeted panels, like NanoString nCounter.
+  Developed by Arjun Bhattacharya (UNC-CH).
+
+<a class="btn btn-primary"
+href="https://bhattacharya-a-bt.github.io/MOSTWAS/"
 role="button">MOSTWAS</a>
 <img width="100" src="../assets/gh.png">
 

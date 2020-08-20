@@ -35,7 +35,7 @@ td{
 
 | Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
 | :--- | :---- | :---- | :---- |
-| Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | | <img width="100" src="../assets/scottvanburen.jpg"> |
+| Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | FAS Informatics Group, Harvard University | <img width="100" src="../assets/scottvanburen.jpg"> |
 | [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in CBCS; <br> [MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS); <br> Deconvolution for NanoString | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); <br> LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
 | Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |

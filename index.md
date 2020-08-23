@@ -39,21 +39,6 @@ michaelisaiahlove at gmail dot com *
 * Scott Van Buren's paper is preprinted:
   "Compression of quantification uncertainty for scRNA-seq counts"
   [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
-* Sarah Reifeis's first paper is published in *Genetic Epidemiology*:
-  "Assessing exposure effects on gene expression"
-  [doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)
-* Arjun Bhattacharya's second and third papers are preprinted:
-    - "An approach for normalization and quality control for NanoString RNA expression data"
-  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
-    - "Multi-omic strategies for transcriptome-wide prediction and association studies"
-  [doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225)
-* Tximeta is published in *PLOS Computational Biology*
-  [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)
-* Arjun Bhattacharya's breast cancer TWAS is published in *Genome Biology*
-  [doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
-* New paper on *F1000Research*: From first author Stuart Lee (Monash U.),
-  "Fluent genomics with plyranges and tximeta"
-  [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
 
 ### Research
 
@@ -101,17 +86,37 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
-* November 2019 - Sean McCabe's second paper is preprinted:
+2020
+
+* Sarah Reifeis's first paper is published in *Genetic Epidemiology*:
+  "Assessing exposure effects on gene expression"
+  [doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)
+* Arjun Bhattacharya's second and third papers are preprinted:
+    - "An approach for normalization and quality control for NanoString RNA expression data"
+  [doi: 10.1101/2020.04.08.032490](https://doi.org/10.1101/2020.04.08.032490)
+    - "Multi-omic strategies for transcriptome-wide prediction and association studies"
+  [doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225)
+* Tximeta is published in *PLOS Computational Biology*
+  [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664)
+* Arjun Bhattacharya's breast cancer TWAS is published in *Genome Biology*
+  [doi: 10.1186/s13059-020-1942-6](https://doi.org/10.1186/s13059-020-1942-6)
+* New paper on *F1000Research*: From first author Stuart Lee (Monash U.),
+  "Fluent genomics with plyranges and tximeta"
+  [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
+
+2019
+
+* Sean McCabe's second paper is preprinted:
   "ACTOR: a latent Dirichlet model to compare expressed 
   isoform proportions to a reference panel"
   [doi: 10.1101/856401](https://doi.org/10.1101/856401)
-* November 2019 - Joshua Zitovsky's first paper is up on F1000Research:
+* Joshua Zitovsky's first paper is up on F1000Research:
   "Fast effect size shrinkage software for beta-binomial 
   models of allelic imbalance"
   [doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
-* August 2019 - Anqi Zhu's second paper published in *Nucleic Acids Research*:
+* Anqi Zhu's second paper published in *Nucleic Acids Research*:
   [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
   which describes the Swish method in the [fishpond](https://bioconductor.org/packages/fishpond) package.
-* July 2019 - Sean McCabe's first paper published in *Briefings in Bioinformatics*:
+* Sean McCabe's first paper published in *Briefings in Bioinformatics*:
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
-  [2019 Author Manuscript](../assets/mccabe_2019.pdf)
+  [Author Manuscript](../assets/mccabe_2019.pdf)

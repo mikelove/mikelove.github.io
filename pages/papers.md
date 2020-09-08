@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+Avi Srivastava, Laraib Malik, Hirak Sarkar, Mohsen Zakeri, Fatemeh Almodaresi,
+Charlotte Soneson, **Michael I. Love**, Carl Kingsford, Rob Patro.
+Alignment and mapping methodology influence transcript abundance estimation.
+*Genome Biology*, September 2020.
+[doi: 10.1186/s13059-020-02151-8](https://doi.org/10.1186/s13059-020-02151-8)
+
 **Arjun Bhattacharya**, Alina M. Hamilton, Melissa A. Troester, **Michael I. Love**.
 DeCompress: tissue compartment deconvolution of targeted mRNA
 expression panels using compressed sensing.
@@ -71,8 +77,8 @@ Tximeta: Reference sequence checksums for provenance identification in RNA-seq.
 [doi: 10.1371/journal.pcbi.1007664](https://doi.org/10.1371/journal.pcbi.1007664),
 [tximeta](https://bioconductor.org/packages/tximeta) R/Bioconductor package
 
-**Arjun Bhattacharya**,  Montserrat Garcia-Closas,  Andrew F. Olshan,
-Charles M. Perou,  Melissa A. Troester, **Michael I. Love**.
+**Arjun Bhattacharya**, Montserrat Garcia-Closas, Andrew F. Olshan,
+Charles M. Perou, Melissa A. Troester, **Michael I. Love**.
 A framework for transcriptome-wide association studies in breast
 cancer in diverse study populations.
 *Genome Biology*, February 2020.
@@ -131,12 +137,6 @@ Nonparametric expression analysis using inferential replicate counts.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
 `swish` function in the 
 [fishpond](https://github.com/mikelove/fishpond) R/Bioconductor package
-
-Avi Srivastava, Laraib Malik, Mohsen Zakeri, Hirak Sarkar,
-Charlotte Soneson, **Michael I Love**, Carl Kingsford, Rob Patro.
-Alignment and mapping methodology influence transcript abundance estimation.
-*bioRxiv*, June 2019.
-[doi: 10.1101/657874](https://doi.org/10.1101/657874)
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data.

@@ -181,6 +181,7 @@ maintained by Rob Patro (UMD). The Love lab collaborates with
 Dr. Patro on bias correction methods, on estimation of uncertainty
 through Gibbs and bootstrap sampling, and on propagation 
 of metadata from abundance estimation to downstream analysis packages.
+* [My Snakemake file for running Salmon](https://gist.github.com/mikelove/5a8134e57f652f970f1a176efc900cbe)
 
 <a class="btn btn-primary"
 href="http://bioconductor.org/packages/GenomicFiles"

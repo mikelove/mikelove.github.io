@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Miheer Dewaskar, John Palowitch, Mark He, **Michael I. Love**, Andrew Nobel.
+Finding Stable Groups of Cross-Correlated Features in Multi-View data.
+*arXiv*, September 2020.
+[arXiv: 2009.05079](https://arxiv.org/abs/2009.05079)
+
 Avi Srivastava, Laraib Malik, Hirak Sarkar, Mohsen Zakeri, Fatemeh Almodaresi,
 Charlotte Soneson, **Michael I. Love**, Carl Kingsford, Rob Patro.
 Alignment and mapping methodology influence transcript abundance estimation.

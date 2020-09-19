@@ -3,17 +3,17 @@ layout: page
 title: "Talks"
 ---
 
-* September, 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
+* September 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
   [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
-* July, 2020 - BioC2020 contributed workshop <br> 
+* July 2020 - BioC2020 contributed workshop <br> 
   [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc)
-* June, 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
+* June 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
   of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197). <br>
   [Assessing Consistency of Single Cell Unsupervised Multi-Modal Methods](https://www.birs.ca/events/2020/5-day-workshops/20w5197/videos/watch/202006180730-Love.html)
-* March, 2020 - ENAR - Recent advanced and opportunities in large
+* March 2020 - ENAR - Recent advanced and opportunities in large
   scale and multi-omic single cell data analysis, invited. <br>
   *Assessing consistency of unsupervised single-cell multi-omic methods*
-* March, 2020 - Human Genetics Seminar Series, University of Utah <br>
+* March 2020 - Human Genetics Seminar Series, University of Utah <br>
   [Reliable and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
 * December 2019 - Statistical Genetics Seminar, Biostatistics
   Department, Johns Hopkins University <br>

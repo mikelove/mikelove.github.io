@@ -3,6 +3,8 @@ layout: page
 title: "Talks"
 ---
 
+* September, 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
+  [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
 * July, 2020 - BioC2020 contributed workshop <br> 
   [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc)
 * June, 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis

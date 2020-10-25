@@ -5,6 +5,11 @@ title: "Papers"
 
 ### Publications and preprints
 
+Nana Matoba, **Michael I. Love**, Jason L. Stein.
+Evaluating brain structure traits as endophenotypes using polygenicity and discoverability
+*Human Brain Mapping*, October, 2020.
+[doi: 10.1002/hbm.25257](https://doi.org/10.1002/hbm.25257)
+
 Nil Aygün, Angela L. Elwell, Dan Liang, Michael J. Lafferty, Kerry
 E. Cheek, Kenan P. Courtney, Jessica Mory, Ellie Hadden-Ford, Oleh
 Krupa, Luis de la Torre-Ubieta, Daniel H. Geschwind, **Michael I. Love**,
@@ -46,11 +51,6 @@ expression data.
 *Briefings in Bioinformatics*, August 2020.
 [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
 [bioRxiv](https://doi.org/10.1101/2020.04.08.032490)
-
-Nana Matoba, **Michael I. Love**, Jason L. Stein.
-Evaluating brain structure traits as endophenotypes using polygenicity and discoverability
-*bioRxiv*, July, 2020.
-[doi: 10.1101/2020.07.17.208843](https://doi.org/10.1101/2020.07.17.208843)
 
 **Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
 Patro, **Michael I. Love**.

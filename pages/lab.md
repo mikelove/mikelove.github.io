@@ -20,9 +20,8 @@ td{
 }
 </style>
 
-| Name | Research topics | |
+| Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
-| Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects on gene expression in observational studies; <br> Co-supervised with Michael Hudgens | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
 | Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
 | Ji-Eun Park | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
@@ -33,12 +32,13 @@ td{
 
 ### Love lab graduates
 
-| Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
+| Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | FAS Informatics Group, Harvard University | <img width="100" src="../assets/scottvanburen.jpg"> |
-| [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in CBCS; <br> [MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS); <br> Deconvolution for NanoString | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
-| [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); <br> LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
-| Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; <br> Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
+| Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
+| Scott Van Buren | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
+| [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS for breast cancer outcomes; Multi-omic strategies in TWAS: [MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS); Compressed sensing for deconvolution: [DeCompress](https://github.com/bhattacharya-a-bt/DeCompress) | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
+| [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
+| Anqi Zhu [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
 
 ### Collaborators
 

@@ -3,6 +3,9 @@ layout: page
 title: "Talks"
 ---
 
+* December 2020 - Department of Statistics, Penn State University <br> 
+  [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)
+* December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Reliable and reproducible genomic data analysis
 * September 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
   [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
 * July 2020 - BioC2020 contributed workshop <br> 

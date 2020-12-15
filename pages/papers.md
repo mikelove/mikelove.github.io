@@ -6,7 +6,8 @@ title: "Papers"
 ### Publications and preprints
 
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
-Evaluating brain structure traits as endophenotypes using polygenicity and discoverability
+Evaluating brain structure traits as endophenotypes using polygenicity
+and discoverability.
 *Human Brain Mapping*, October, 2020.
 [doi: 10.1002/hbm.25257](https://doi.org/10.1002/hbm.25257)
 

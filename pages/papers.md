@@ -16,7 +16,7 @@ E. Cheek, Kenan P. Courtney, Jessica Mory, Ellie Hadden-Ford, Oleh
 Krupa, Luis de la Torre-Ubieta, Daniel H. Geschwind, **Michael I. Love**,
 Jason L. Stein.
 Genetic influences on cell type specific gene expression and splicing
-during neurogenesis elucidate regulatory mechanisms of brain traits 
+during neurogenesis elucidate regulatory mechanisms of brain traits.
 *bioRxiv*, October 2020.
 [doi: 10.1101/2020.10.21.349019 ](https://doi.org/10.1101/2020.10.21.349019)
 
@@ -56,7 +56,7 @@ expression data.
 **Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
 Patro, **Michael I. Love**.
 Compression of quantification uncertainty for scRNA-seq counts.
-*bioRxiv*, July, 2020.
+*bioRxiv*, July 2020.
 [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 
 Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 

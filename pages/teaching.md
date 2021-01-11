@@ -12,7 +12,6 @@ title: "Teaching"
   [Dr. Naim Rashid](https://naimurashid.github.io/))
 * [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
   Spring 2021, 9:30-10:45 TR
-  Fall 2017, 9:05-10:20 MW
 
 ### Books
 

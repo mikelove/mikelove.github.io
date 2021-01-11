@@ -7,8 +7,8 @@ layout: page
 
 <img style="float: right;" src="assets/michaellove.jpg">
 
-PI: Michael I. Love <br>
-<font color="grey">(he/him/his)</font> <br>
+<p style="margin-bottom: 0px"> PI: Michael I. Love </p>
+<p style="color:grey; margin-bottom: 5px"> (he/him/his) </p>
 Assistant Professor <br>
 [Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
 [Department of Genetics](http://www.med.unc.edu/genetics/) <br>

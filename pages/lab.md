@@ -38,7 +38,7 @@ td{
 | Scott Van Buren | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
 | [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS for breast cancer outcomes; Multi-omic strategies in TWAS: [MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS); Compressed sensing for deconvolution: [DeCompress](https://github.com/bhattacharya-a-bt/DeCompress) | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
-| [Anqi Zhu](https://azhu513.github.io) [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
+| [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
 
 ### Collaborators
 

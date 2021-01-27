@@ -5,6 +5,17 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Arjun Bhattacharya**, Alina M. Hamilton, Melissa A. Troester, **Michael I. Love**.
+DeCompress: tissue compartment deconvolution of targeted mRNA
+expression panels using compressed sensing.
+*Nucleic Acids Research*, January 2021.
+
+**Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
+Patro, **Michael I. Love**.
+Compression of quantification uncertainty for scRNA-seq counts.
+*Bioinformatics*, January 2021.
+[doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
+
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
 Evaluating brain structure traits as endophenotypes using polygenicity
 and discoverability.
@@ -31,12 +42,6 @@ Alignment and mapping methodology influence transcript abundance estimation.
 *Genome Biology*, September 2020.
 [doi: 10.1186/s13059-020-02151-8](https://doi.org/10.1186/s13059-020-02151-8)
 
-**Arjun Bhattacharya**, Alina M. Hamilton, Melissa A. Troester, **Michael I. Love**.
-DeCompress: tissue compartment deconvolution of targeted mRNA
-expression panels using compressed sensing.
-*bioRxiv*, August 2020.
-[doi: 10.1101/2020.08.14.250902](https://doi.org/10.1101/2020.08.14.250902)
-
 **Anqi Zhu** [1], Nana Matoba [1], Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
 Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
 MRLocus: identifying causal genes mediating a trait through Bayesian
@@ -52,12 +57,6 @@ expression data.
 *Briefings in Bioinformatics*, August 2020.
 [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
 [bioRxiv](https://doi.org/10.1101/2020.04.08.032490)
-
-**Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
-Patro, **Michael I. Love**.
-Compression of quantification uncertainty for scRNA-seq counts.
-*bioRxiv*, July 2020.
-[doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
 
 Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
 **Michael I. Love**, Rob Patro.

@@ -9,6 +9,7 @@ title: "Papers"
 DeCompress: tissue compartment deconvolution of targeted mRNA
 expression panels using compressed sensing.
 *Nucleic Acids Research*, January 2021.
+[doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
 
 **Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
 Patro, **Michael I. Love**.

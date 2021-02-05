@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lab members and RAs"
+title: "Lab members"
 ---
 
 <style>
@@ -22,15 +22,16 @@ td{
 
 | Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
-| Euphy Wu | Allele-specific expression estimation in RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
-| Wancen Mu | Allele-specific expression in scRNA-seq | <img width="100" src="../assets/wancenmu.jpg"> |
+| Euphy Wu | Detecting allelic imbalance of transcripts in bulk RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
+| Wancen Mu | Allelic imbalance across groups of cells in scRNA-seq; <br> Multi-omic analysis of single cell data; Overlap enrichment analysis | <img width="100" src="../assets/wancenmu.jpg"> |
 | Ji-Eun Park | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
-| Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | <img width="100" src="../assets/alexlockhart.jpg"> |
 | [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | <img width="100" src="../assets/kwameforbes.jpg"> |
 
 ## Alumni
 
 ### Love lab graduates
+
+Doctoral students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
@@ -40,7 +41,13 @@ td{
 | [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
 | [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
 
-### Collaborators
+Masters students
+
+| Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
+| :--- | :---- | :---- | :---- |
+| Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
+
+## Collaborators
 
 | Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
 | :--- | :---- | :---- | :---- |

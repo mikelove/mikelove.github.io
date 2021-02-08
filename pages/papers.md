@@ -69,7 +69,7 @@ Terminus enables the discovery of data-driven, robust transcript groups from RNA
 Multi-omic strategies for transcriptome-wide prediction and association studies.
 *bioRxiv*, June 2020.
 [doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225),
-[MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS) R package
+[MOSTWAS](https://bhattacharya-a-bt.github.io/MOSTWAS) R package
 
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
 L. Mohlke, **Michael I. Love**. 
@@ -151,7 +151,7 @@ Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
 `swish` function in the 
-[fishpond](https://github.com/mikelove/fishpond) R/Bioconductor package
+[fishpond](https://bioconductor.org/packages/fishpond) R/Bioconductor package
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data.

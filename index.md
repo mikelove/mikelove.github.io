@@ -25,21 +25,11 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* Two new preprints from the lab:
-    - Arjun's last chapter, "DeCompress: tissue compartment
-      deconvolution of targeted mRNA expression panels using
-      compressed sensing" 
-	  [doi: 10.1101/2020.08.14.250902](https://doi.org/10.1101/2020.08.14.250902)
-	- Anqi's last chapter, "MRLocus: identifying causal genes
-      mediating a trait through Bayesian estimation of allelic
-      heterogeneity" 
-	  [doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
-* Arjun's co-authored paper on NanoString normalization with Alina
-  Hamilton is published in *Briefings in Bioinformatics*, 
-  [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
-* Scott Van Buren's paper is preprinted:
-  "Compression of quantification uncertainty for scRNA-seq counts"
-  [doi: 10.1101/2020.07.06.189639](https://doi.org/10.1101/2020.07.06.189639)
+* Arjun's DeCompress paper is published in *Nucleic Acids Research*:
+  [doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
+* Scott's inferential summaries for scRNA-seq paper is published in
+  *Bioinformatics*:
+  [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
 
 ### Research
 
@@ -89,6 +79,12 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 2020
 
+* Anqi's last chapter is preprinted: "MRLocus: identifying causal genes
+  mediating a trait through Bayesian estimation of allelic heterogeneity"
+  [doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
+* Arjun's co-authored paper on NanoString normalization with Alina
+  Hamilton is published in *Briefings in Bioinformatics*,
+  [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
 * Sarah Reifeis's first paper is published in *Genetic Epidemiology*:
   "Assessing exposure effects on gene expression"
   [doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)

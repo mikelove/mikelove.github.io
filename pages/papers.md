@@ -50,7 +50,7 @@ Alignment and mapping methodology influence transcript abundance estimation.
 *Genome Biology*, September 2020.
 [doi: 10.1186/s13059-020-02151-8](https://doi.org/10.1186/s13059-020-02151-8)
 
-**Anqi Zhu** [1], Nana Matoba [1], Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
+**Anqi Zhu** (1), Nana Matoba (1), Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
 Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
 MRLocus: identifying causal genes mediating a trait through Bayesian
 estimation of allelic heterogeneity.

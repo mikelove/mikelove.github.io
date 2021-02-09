@@ -5,6 +5,13 @@ title: "Papers"
 
 ### Publications and preprints
 
+Hyo Young Choi, Heejoon Jo, Xiaobei Zhao, Katherine A. Hoadley, Scott
+Newman, Jeremiah Holt, Michele C. Hayward, **Michael I. Love**,
+J. S. Marron, D. Neil Hayes.
+SCISSOR: a framework for identifying structural changes in RNA transcripts.
+*Nature Communications*, January 2021.
+[doi: 10.1038/s41467-020-20593-3](https://doi.org/10.1038/s41467-020-20593-3)
+
 **Arjun Bhattacharya**, Alina M. Hamilton, Melissa A. Troester, **Michael I. Love**.
 DeCompress: tissue compartment deconvolution of targeted mRNA
 expression panels using compressed sensing.

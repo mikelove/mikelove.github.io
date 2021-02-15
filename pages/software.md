@@ -80,7 +80,7 @@ role="button">MRLocus</a>
   Stein (UNC-CH).
 
 <a class="btn btn-primary"
-href="https://github.com/bhattacharya-a-bt/DeCompress"
+href="https://bhattacharya-a-bt.github.io/DeCompress"
 role="button">DeCompress</a>
 <img width="100" src="../assets/gh.png">
 
@@ -90,7 +90,7 @@ role="button">DeCompress</a>
   Developed by Arjun Bhattacharya (UNC-CH).
 
 <a class="btn btn-primary"
-href="https://bhattacharya-a-bt.github.io/MOSTWAS/"
+href="https://bhattacharya-a-bt.github.io/MOSTWAS"
 role="button">MOSTWAS</a>
 <img width="100" src="../assets/gh.png">
 

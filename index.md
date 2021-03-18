@@ -25,9 +25,11 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* Arjun's DeCompress paper is published in *Nucleic Acids Research*:
+* March 2021 - Arjun's MOSTWAS paper is published in *PLOS Genetics*:
+  [doi: 10.1371/journal.pgen.1009398](https://doi.org/10.1371/journal.pgen.1009398)
+* January 2021 - Arjun's DeCompress paper is published in *Nucleic Acids Research*:
   [doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
-* Scott's inferential summaries for scRNA-seq paper is published in
+* January 2021 - Scott's inferential summaries for scRNA-seq paper is published in
   *Bioinformatics*:
   [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
 

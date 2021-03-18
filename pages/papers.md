@@ -5,6 +5,12 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
+Multi-omic strategies for transcriptome-wide prediction and association studies.
+*PLOS Genetics*, March 2021.
+[doi: 10.1371/journal.pgen.1009398](https://doi.org/10.1371/journal.pgen.1009398),
+[MOSTWAS](https://bhattacharya-a-bt.github.io/MOSTWAS) R package
+
 Hyo Young Choi, Heejoon Jo, Xiaobei Zhao, Katherine A. Hoadley, Scott
 Newman, Jeremiah Holt, Michele C. Hayward, **Michael I. Love**,
 J. S. Marron, D. Neil Hayes.
@@ -23,6 +29,12 @@ Patro, **Michael I. Love**.
 Compression of quantification uncertainty for scRNA-seq counts.
 *Bioinformatics*, January 2021.
 [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
+
+**Joshua P. Zitovsky**, **Michael I. Love**.
+Fast effect size shrinkage software for beta-binomial models of
+allelic imbalance. 
+*F1000Research*, December 2020.
+[doi: 10.12688/f1000research.20916.2](https://doi.org/10.12688/f1000research.20916.2)
 
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
 Evaluating brain structure traits as endophenotypes using polygenicity
@@ -72,12 +84,6 @@ Terminus enables the discovery of data-driven, robust transcript groups from RNA
 *Bioinformatics*, July 2020.
 [doi: 10.1093/bioinformatics/btaa448](https://doi.org/10.1093/bioinformatics/btaa448)
 
-**Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
-Multi-omic strategies for transcriptome-wide prediction and association studies.
-*bioRxiv*, June 2020.
-[doi: 10.1101/2020.04.17.047225](https://doi.org/10.1101/2020.04.17.047225),
-[MOSTWAS](https://bhattacharya-a-bt.github.io/MOSTWAS) R package
-
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
 L. Mohlke, **Michael I. Love**. 
 Assessing exposure effects on gene expression.
@@ -126,12 +132,6 @@ Generation of a Transcriptional Radiation Exposure Signature in Human
 Blood Using Long-Read Nanopore Sequencing.
 *Radiation Research*, December 2019.
 [doi: 10.1667/RR15476.1](https://doi.org/10.1667/RR15476.1)
-
-**Joshua P. Zitovsky**, **Michael I. Love**.
-Fast effect size shrinkage software for beta-binomial models of
-allelic imbalance. 
-*F1000Research*, November 2019.
-[doi: 10.12688/f1000research.20916.1](https://doi.org/10.12688/f1000research.20916.1)
 
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
 ACTOR: a latent Dirichlet model to compare expressed isoform

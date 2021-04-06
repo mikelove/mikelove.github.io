@@ -51,6 +51,16 @@ during neurogenesis elucidate regulatory mechanisms of brain traits.
 *bioRxiv*, October 2020.
 [doi: 10.1101/2020.10.21.349019 ](https://doi.org/10.1101/2020.10.21.349019)
 
+Halei C. Benefield, Katherine E. Reeder-Hayes, Hazel B. Nichols,
+Benjamin C. Calhoun, **Michael I. Love**, Erin L. Kirk,
+Joseph Geradts, Katherine A. Hoadley, Stephen R. Cole,
+H. Shelton Earp, Andrew F. Olshan, Lisa A. Carey, Charles M.
+Perou, Melissa A. Troester.
+Outcomes of Hormone-Receptor Positive, HER2-Negative Breast Cancers by
+Race and Tumor Biological Features.
+*JNCI Cancer Spectrum*, September 2020.
+[doi: 10.1093/jncics/pkaa072](https://doi.org/10.1093/jncics/pkaa072)
+
 Miheer Dewaskar, John Palowitch, Mark He, **Michael I. Love**, Andrew Nobel.
 Finding Stable Groups of Cross-Correlated Features in Multi-View data.
 *arXiv*, September 2020.

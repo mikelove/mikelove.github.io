@@ -5,6 +5,19 @@ title: "Papers"
 
 ### Publications and preprints
 
+Achal Patel, Montserrat García-Closas, Andrew F. Olshan, Charles
+M. Perou, Melissa A. Troester, **Michael I. Love**, Arjun Bhattacharya.
+Transcriptome-wide association study of risk of recurrence in Black
+and White breast cancer patients.
+*medRxiv*, March 2021.
+[doi: 10.1101/2021.03.19.21253983](https://doi.org/10.1101/2021.03.19.21253983)
+
+Anushka Rajesh, Yutong Chang, Malak S. Abedalthagafi, Annie
+Wong-Beringer, **Michael I Love**, Serghei Mangul.
+Improving the completeness of public metadata accompanying omics studies.
+*OSF Preprints*, March 2021.
+[doi: 10.31219/osf.io/na5j8](https://10.31219/osf.io/na5j8)
+
 **Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
 Multi-omic strategies for transcriptome-wide prediction and association studies.
 *PLOS Genetics*, March 2021.

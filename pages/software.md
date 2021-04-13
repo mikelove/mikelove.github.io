@@ -69,6 +69,18 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
+href="https://bioconductor.org/packages/airpart"
+role="button">airpart</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/airpart.svg">
+
+* Identification of differential cell-type-specific allelic imbalance
+  across cell types or states, utilizing single-cell allelic counts.
+  Provides partitioning of cell types by allelic signal using
+  generalized fused lasso, plus many EDA and QC plotting functions.
+  Developed by Wancen Mu, in collaboration with the Patro group
+  (UMD) and KB Choi (JAX).
+
+<a class="btn btn-primary"
 href="https://mikelove.github.io/mrlocus"
 role="button">MRLocus</a>
 <img width="100" src="../assets/gh.png">

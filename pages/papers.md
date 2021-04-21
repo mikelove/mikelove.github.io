@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Anqi Zhu** (1), Nana Matoba (1), Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
+Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
+MRLocus: identifying causal genes mediating a trait through Bayesian
+estimation of allelic heterogeneity.
+*PLOS Genetics*, April 2021.
+[doi: 10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455),
+[MRLocus](https://mikelove.github.io/mrlocus) R package
+
 Anushka Rajesh, Yutong Chang, Malak S. Abedalthagafi, Annie
 Wong-Beringer, **Michael I Love**, Serghei Mangul.
 Improving the completeness of public metadata accompanying omics studies.
@@ -35,19 +43,22 @@ SCISSOR: a framework for identifying structural changes in RNA transcripts.
 DeCompress: tissue compartment deconvolution of targeted mRNA
 expression panels using compressed sensing.
 *Nucleic Acids Research*, January 2021.
-[doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
+[doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031),
+[DeCompress](https://bhattacharya-a-bt.github.io/DeCompress) R package
 
 **Scott Van Buren**, Hirak Sarkar, Avi Srivastava, Naim U. Rashid, Rob
 Patro, **Michael I. Love**.
 Compression of quantification uncertainty for scRNA-seq counts.
 *Bioinformatics*, January 2021.
-[doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
+[doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001),
+`makeInfReps` in [fishpond](http://bioconductor.org/packages/fishpond) R/Bioconductor package
 
 **Joshua P. Zitovsky**, **Michael I. Love**.
 Fast effect size shrinkage software for beta-binomial models of
 allelic imbalance. 
 *F1000Research*, December 2020.
-[doi: 10.12688/f1000research.20916.2](https://doi.org/10.12688/f1000research.20916.2)
+[doi: 10.12688/f1000research.20916.2](https://doi.org/10.12688/f1000research.20916.2),
+`method="betabinCR"` in [apeglm](http://bioconductor.org/packages/apeglm) R/Bioconductor package
 
 Nana Matoba, **Michael I. Love**, Jason L. Stein.
 Evaluating brain structure traits as endophenotypes using polygenicity
@@ -85,27 +96,21 @@ Alignment and mapping methodology influence transcript abundance estimation.
 *Genome Biology*, September 2020.
 [doi: 10.1186/s13059-020-02151-8](https://doi.org/10.1186/s13059-020-02151-8)
 
-**Anqi Zhu** (1), Nana Matoba (1), Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
-Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
-MRLocus: identifying causal genes mediating a trait through Bayesian
-estimation of allelic heterogeneity.
-*bioRxiv*, August 2020.
-[doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
-
 **Arjun Bhattacharya** (1), Alina M. Hamilton (1), Helena Furberg, Eugene Pietzak,
 Mark P. Purdue, Melissa A. Troester, Katherine A. Hoadley (N), 
 **Michael I. Love** (N).
 An approach for normalization and quality control for NanoString RNA
 expression data.
 *Briefings in Bioinformatics*, August 2020.
-[doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163)
+[doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163),
 [bioRxiv](https://doi.org/10.1101/2020.04.08.032490)
 
 Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
 **Michael I. Love**, Rob Patro.
 Terminus enables the discovery of data-driven, robust transcript groups from RNA-seq data. 
 *Bioinformatics*, July 2020.
-[doi: 10.1093/bioinformatics/btaa448](https://doi.org/10.1093/bioinformatics/btaa448)
+[doi: 10.1093/bioinformatics/btaa448](https://doi.org/10.1093/bioinformatics/btaa448),
+[Terminus](https://github.com/COMBINE-lab/terminus) software
 
 **Sarah A. Reifeis**, Michael G. Hudgens, Mete Civelek, Karen
 L. Mohlke, **Michael I. Love**. 
@@ -138,7 +143,8 @@ cancer in diverse study populations.
 Stuart Lee, Michael Lawrence, **Michael I. Love**.
 Fluent genomics with plyranges and tximeta.
 *F1000Research*, February 2020.
-[doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1)
+[doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1),
+[fluentGenomics workflow](https://bioconductor.org/packages/fluentGenomics)
 
 Dan Liang, Angela L. Elwell, Nil Aygün, Michael J. Lafferty, Oleh
 Krupa, Kerry E. Cheek, Kenan P. Courtney, Marianna Yusupova, Melanie
@@ -180,8 +186,7 @@ Candidate Genes for Cardiometabolic Traits.
 Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
-`swish` function in the 
-[fishpond](https://bioconductor.org/packages/fishpond) R/Bioconductor package
+`swish` function in the [fishpond](https://bioconductor.org/packages/fishpond) R/Bioconductor package
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data.
@@ -255,7 +260,7 @@ Observation weights unlock bulk RNA-seq tools for zero inflation and
 single-cell applications.
 *Genome Biology*, February 2018.
 [doi: 10.1186/s13059-018-1406-4](https://doi.org/10.1186/s13059-018-1406-4),
-[ZINB-WaVE software vignette for DE analysis](http://bioconductor.org/packages/zinbwave)
+[ZINB-WaVE vignette](http://bioconductor.org/packages/zinbwave)
 
 Lindsay A. Williams, Hazel B. Nichols, Katherine A. Hoadley, Chiu Kit
 Tse, Joseph Geradts, Mary Elizabeth Bell, Charles M. Perou, 
@@ -332,7 +337,7 @@ expression.
 *F1000Research*, October 2015.
 [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/),
 [doi: 10.12688/f1000research.7035.1](https://doi.org/10.12688/f1000research.7035.2),
-[live workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
+[rnaseqGene workflow](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 Raman Kumar, *et al*.
 Increased STAG2 dosage defines a novel cohesinopathy with intellectual
@@ -416,5 +421,5 @@ Martin Vingron, Stefan A. Haas.
 Modeling read counts for CNV detection in exome sequencing data. 
 *Statistical Applications in Genetics and Molecular Biology*, January 2011.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/),
-[doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732),
-[exomeCopy](http://bioconductor.org/packages/exomeCopy) R/Bioconductor package
+[doi: 10.2202/1544-6115.1732](https://doi.org/10.2202/1544-6115.1732)
+

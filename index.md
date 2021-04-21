@@ -25,6 +25,8 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* April 2021 - Anqi and Nana's MRLocus paper is published in *PLOS Genetics*:
+  [doi: 10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
 * March 2021 - Arjun's MOSTWAS paper is published in *PLOS Genetics*:
   [doi: 10.1371/journal.pgen.1009398](https://doi.org/10.1371/journal.pgen.1009398)
 * January 2021 - Arjun's DeCompress paper is published in *Nucleic Acids Research*:

@@ -25,6 +25,9 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* April 2021 - Wancen's single cell allelic analysis package accepted
+  into Bioconductor:
+  [airpart](https://bioconductor.org/packages/airpart)
 * April 2021 - Anqi and Nana's MRLocus paper is published in *PLOS Genetics*:
   [doi: 10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
 * March 2021 - Arjun's MOSTWAS paper is published in *PLOS Genetics*:

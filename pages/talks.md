@@ -3,6 +3,9 @@ layout: page
 title: "Talks"
 ---
 
+* April 2021 - MAQC2021 <br>
+  Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/kiweCcogM4Q) - [slides](https://bit.ly/fragbias) <br>
+  **3rd place MAQC Scientist Research Award**
 * December 2020 - Department of Statistics, Penn State University <br> 
   [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)
 * December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Reliable and reproducible genomic data analysis
@@ -59,7 +62,7 @@ title: "Talks"
 * February 2018 - 
   Center for Public Health Genomics,
   UVa <br>
-  [Fragment-level bias modeling for RNA-seq Data Analysis](http://goo.gl/ftK55e)
+  [Fragment-level bias modeling for RNA-seq Data Analysis](http://bit.ly/fragbias)
 * December 2016 - 
   Computational Biology, Bioinformatics & Genomics,
   University of Maryland, College Park

@@ -37,6 +37,9 @@ michaelisaiahlove at gmail dot com *
 * January 2021 - Scott's inferential summaries for scRNA-seq paper is published in
   *Bioinformatics*:
   [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
+* November 2020 - Kwame won a poster award at ABRCMS 2020, and a JTech
+  CSHL Biological Data Science 2020 Scholarship. His poster and
+  abstract were for his R package: [vizWithSCE](https://kwameforbes.github.io/vizWithSCE/).
 
 ### Research
 

@@ -69,6 +69,19 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 **newly developed**
 
 <a class="btn btn-primary"
+href="https://nullranges.github.io/nullranges"
+role="button">nullranges</a>
+<img width="100" src="../assets/gh.png">
+
+* Modular package for generation of sets of ranges representing the
+  null hypothesis. These can take the form of bootstrap samples of
+  ranges or sets of control ranges that are matched across one or more
+  covariates. 
+  Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
+  Contributions from other Bioconductor developers as well.
+  Funding provided by CZI EOSS award.
+
+<a class="btn btn-primary"
 href="https://bioconductor.org/packages/airpart"
 role="button">airpart</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/airpart.svg">

@@ -5,6 +5,22 @@ title: "Papers"
 
 ### Publications and preprints
 
+Ying Chen, Nadia M. Davidson, Yuk Kei Wan, Harshil Patel, Fei Yao,
+Hwee Meng Low, Christopher Hendra, Laura Watten, Andre Sim, Chelsea
+Sawyer, Viktoriia Iakovleva, Puay Leng Lee, Lixia Xin, Hui En Vanessa
+Ng, Jia Min Loo, Xuewen Ong, Hui Qi Amanda Ng, Jiaxu Wang, Wei Qian
+Casslynn Koh, Suk Yeah Polly Poon, Dominik Stanojevic, Hoang-Dai Tran,
+Kok Hao Edwin Lim, Shen Yon Toh, Philip Andrew Ewels, Huck-Hui Ng,
+N.Gopalakrishna Iyer, Alexandre Thiery, Wee Joo Chng, Leilei Chen,
+Ramanuj DasGupta, Mile Sikic, Yun-Shen Chan, Boon Ooi Patrick Tan, Yue
+Wan, Wai Leong Tam, Qiang Yu, Chiea Chuan Khor, Torsten Wüstefeld,
+Ploy N. Pratanwanich, **Michael I. Love**, Wee Siong Sho Goh, Sarah B. Ng,
+Alicia Oshlack, Jonathan Göke, SG-NEx consortium.
+A systematic benchmark of Nanopore long read RNA sequencing for
+transcript level analysis in human cell lines.
+*bioRxiv*, April 2021.
+[doi: 10.1101/2021.04.21.440736](https://doi.org/10.1101/2021.04.21.440736)
+
 **Anqi Zhu** (1), Nana Matoba (1), Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
 Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
 MRLocus: identifying causal genes mediating a trait through Bayesian

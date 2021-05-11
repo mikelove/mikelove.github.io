@@ -10,6 +10,8 @@ title: "Software"
 <img width="100" src="../assets/tximeta.png">
 <img width="100" src="../assets/apeglm.png">
 <img width="100" src="../assets/fishpond.png">
+<img width="100" src="../assets/airpart.png">
+<img width="100" src="../assets/nullranges.png">
 
 <br>
 

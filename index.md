@@ -25,6 +25,10 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
+* May 2021 - Congratulations to Sean McCabe for winning the 2021 Larry
+  Kupper Award for Best Dissertation Publication! Congratulations to
+  Sarah Reifeis for being inducted into Delta Omega, and on receiving
+  a Distinguished Student Paper Awards for ENAR 2021!
 * April 2021 - Wancen's single cell allelic analysis package accepted
   into Bioconductor:
   [airpart](https://bioconductor.org/packages/airpart)

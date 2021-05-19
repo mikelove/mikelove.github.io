@@ -202,6 +202,7 @@ Candidate Genes for Cardiometabolic Traits.
 Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
+[swish supplement PDF](../assets/swish_supplement.pdf)
 `swish` function in the [fishpond](https://bioconductor.org/packages/fishpond) R/Bioconductor package
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.

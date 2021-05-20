@@ -5,6 +5,16 @@ title: "Papers"
 
 ### Publications and preprints
 
+Dan Liang, Angela L. Elwell, Nil Aygün, Oleh Krupa, Justin M. Wolter,
+Felix A. Kyere, Michael J. Lafferty, Kerry E. Cheek, Kenan
+P. Courtney, Marianna Yusupova, Melanie E. Garrett, Allison
+Ashley-Koch, Gregory E. Crawford, **Michael I. Love**, Luis de la
+Torre-Ubieta, Daniel H. Geschwind, Jason L. Stein.
+Cell-type specific effects of genetic variation on chromatin
+accessibility during human neuronal differentiation.
+*Nature Neuroscience*, May 2021.
+[doi: 10.1038/s41593-021-00858-w](https://doi.org/10.1038/s41593-021-00858-w)
+
 Ying Chen, Nadia M. Davidson, Yuk Kei Wan, Harshil Patel, Fei Yao,
 Hwee Meng Low, Christopher Hendra, Laura Watten, Andre Sim, Chelsea
 Sawyer, Viktoriia Iakovleva, Puay Leng Lee, Lixia Xin, Hui En Vanessa
@@ -161,15 +171,6 @@ Fluent genomics with plyranges and tximeta.
 *F1000Research*, February 2020.
 [doi: 10.12688/f1000research.22259.1](https://doi.org/10.12688/f1000research.22259.1),
 [fluentGenomics workflow](https://bioconductor.org/packages/fluentGenomics)
-
-Dan Liang, Angela L. Elwell, Nil Aygün, Michael J. Lafferty, Oleh
-Krupa, Kerry E. Cheek, Kenan P. Courtney, Marianna Yusupova, Melanie
-E. Garrett, Allison Ashley-Koch, Gregory E. Crawford, **Michael I. Love**,
-Luis de la Torre-Ubieta, Daniel H. Geschwind, Jason L. Stein.
-Cell-type specific effects of genetic variation on chromatin
-accessibility during human neuronal differentiation.
-*bioRxiv*, January 2020.
-[doi: 10.1101/2020.01.13.904862](https://doi.org/10.1101/2020.01.13.904862)
 
 Lourdes Cruz-Garcia, Grainne O'Brien, Botond Sipos, Simon Mayes,
 **Michael I. Love**, Daniel J. Turner, Christophe Badie.

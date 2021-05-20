@@ -8,7 +8,7 @@ title: "Talks"
   **3rd place MAQC Scientist Research Award**
 * December 2020 - Department of Statistics, Penn State University <br> 
   [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)
-* December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Reliable and reproducible genomic data analysis
+* December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Robust and reproducible genomic data analysis
 * September 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
   [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
 * July 2020 - BioC2020 contributed workshop <br> 
@@ -20,7 +20,7 @@ title: "Talks"
   scale and multi-omic single cell data analysis, invited. <br>
   *Assessing consistency of unsupervised single-cell multi-omic methods*
 * March 2020 - Human Genetics Seminar Series, University of Utah <br>
-  [Reliable and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
+  [Robust and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
 * December 2019 - Statistical Genetics Seminar, Biostatistics
   Department, Johns Hopkins University <br>
   Genetically regulated tumor gene expression in the Carolina Breast Cancer Study

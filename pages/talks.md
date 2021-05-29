@@ -4,7 +4,7 @@ title: "Talks"
 ---
 
 * April 2021 - MAQC2021 <br>
-  Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/8ZiLD29QCLQ) - [slides](https://bit.ly/fragbias) [slides](https://bit.ly/tximeta) <br>
+  Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/8ZiLD29QCLQ) - [slides pt1](https://bit.ly/fragbias) [slides pt2](https://bit.ly/tximeta) <br>
   **3rd place MAQC Scientist Research Award**
 * December 2020 - Department of Statistics, Penn State University <br> 
   [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)

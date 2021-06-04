@@ -59,6 +59,9 @@ title: "Talks"
 * May 2018 - 
   Bioinformatics Research Center Seminar Series,
   North Carolina State University
+* March 2018 - 
+  ENAR - Teaching Data Science at All Levels, invited <br>
+  "Teaching Data Science for Life Sciences"
 * February 2018 - 
   Center for Public Health Genomics,
   UVa <br>

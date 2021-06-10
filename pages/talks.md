@@ -3,6 +3,7 @@ layout: page
 title: "Talks"
 ---
 
+* June 2021 - Genetics, Genomics and Informatics Virtual Seminar, The University of Tennessee Health Science Center
 * April 2021 - MAQC2021 <br>
   Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/8ZiLD29QCLQ) - [slides pt1](https://bit.ly/fragbias) [slides pt2](https://bit.ly/tximeta) <br>
   **3rd place MAQC Scientist Research Award**

@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
+ACTOR: a latent Dirichlet model to compare expressed isoform
+proportions to a reference panel. 
+*Biostatistics*, May 2021.
+[doi: 10.1093/biostatistics/kxab013](https://doi.org/10.1093/biostatistics/kxab013),
+[actor](https://github.com/mccabes292/actor) R package
+
+
 Dan Liang, Angela L. Elwell, Nil Aygün, Oleh Krupa, Justin M. Wolter,
 Felix A. Kyere, Michael J. Lafferty, Kerry E. Cheek, Kenan
 P. Courtney, Marianna Yusupova, Melanie E. Garrett, Allison
@@ -178,13 +186,6 @@ Generation of a Transcriptional Radiation Exposure Signature in Human
 Blood Using Long-Read Nanopore Sequencing.
 *Radiation Research*, December 2019.
 [doi: 10.1667/RR15476.1](https://doi.org/10.1667/RR15476.1)
-
-**Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
-ACTOR: a latent Dirichlet model to compare expressed isoform
-proportions to a reference panel. 
-*bioRxiv*, November 2019.
-[doi: 10.1101/856401](https://doi.org/10.1101/856401),
-[actor](https://github.com/mccabes292/actor) R package
 
 Chelsea K. Raulerson, Arthur Ko, John C. Kidd, Kevin W. Currin, Sarah
 M. Brotman, Maren E. Cannon, Ying Wu, Cassandra N. Spracklen, Anne

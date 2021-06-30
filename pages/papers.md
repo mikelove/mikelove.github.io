@@ -52,6 +52,7 @@ Wong-Beringer, **Michael I Love**, Serghei Mangul.
 Improving the completeness of public metadata accompanying omics studies.
 *Genome Biology*, April 2021.
 [doi: 10.1186/s13059-021-02332-z](https://doi.org/10.1186/s13059-021-02332-z)
+(Commentary)
 
 Achal Patel, Montserrat García-Closas, Andrew F. Olshan, Charles
 M. Perou, Melissa A. Troester, **Michael I. Love**, Arjun Bhattacharya.
@@ -238,8 +239,10 @@ Multisensory Logic of Infant-Directed Aggression by Males.
 (Review) Koen Van Den Berge, Katharina Hembach, Charlotte Soneson, Simone
 Tiberi, Lieven Clement, **Michael I. Love**, Rob Patro, Mark Robinson.
 RNA sequencing data: hitchhiker's guide to expression analysis.
-*PeerJ*, November 2018.
+*Annual Review of Biomedical Data Science*, April 2019.
+[doi: 10.1146/annurev-biodatasci-072018-021255](https://doi.org/10.1146/annurev-biodatasci-072018-021255),
 <https://peerj.com/manuscripts/33040/>
+(Review)
 
 **Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
 Heavy-tailed prior distributions for sequence count data: removing the

@@ -21,7 +21,7 @@ title: "Talks"
   scale and multi-omic single cell data analysis, invited. <br>
   *Assessing consistency of unsupervised single-cell multi-omic methods*
 * March 2020 - Human Genetics Seminar Series, University of Utah <br>
-  [Robust and reproducible genomic data analysis](https://bit.ly/RRGenomicDA)
+  [Robust and reproducible genomic data analysis](https://bit.ly/love-rna-methods)
 * December 2019 - Statistical Genetics Seminar, Biostatistics
   Department, Johns Hopkins University <br>
   Genetically regulated tumor gene expression in the Carolina Breast Cancer Study

@@ -5,6 +5,18 @@ title: "Papers"
 
 ### Publications and preprints
 
+(Open Letter) Kim-Anh Lê Cao, Al J. Abadi, Emily F. Davis-Marcisak,
+Lauren Hsu, Arshi Arora, Alexis Coullomb, Atul Deshpande, Yuzhou Feng,
+Pratheepa Jeganathan, Melanie Loth, Chen Meng, **Wancen Mu**, Vera
+Pancaldi, Kris Sankaran, Amrit Singh, Joshua S. Sodicoff, Genevieve
+L. Stein-O’Brien, Ayshwarya Subramanian, Joshua D. Welch, Yue You,
+Ricard Argelaguet, Vincent J. Carey, Ruben Dries, Casey S. Greene,
+Susan Holmes, **Michael I. Love**, Matthew E. Ritchie, Guo-Cheng Yuan, 
+Aedin C. Culhane, Elana Fertig.
+Community-wide hackathons to identify central themes in single-cell multi-omics.
+*Genome Biology*, August 2021.
+[doi: 10.1186/s13059-021-02433-9](https://doi.org/10.1186/s13059-021-02433-9)
+
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
 ACTOR: a latent Dirichlet model to compare expressed isoform
 proportions to a reference panel. 

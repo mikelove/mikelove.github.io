@@ -3,6 +3,7 @@ layout: page
 title: "Talks"
 ---
 
+* September 2021 - Department of Biostatistics, VCU
 * August 2021 - JSM - Genomic in Neuroscience, invited.
 * June 2021 - Genetics, Genomics and Informatics Virtual Seminar, The University of Tennessee Health Science Center
 * April 2021 - MAQC2021 <br>

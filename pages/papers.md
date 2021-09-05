@@ -5,6 +5,24 @@ title: "Papers"
 
 ### Publications and preprints
 
+Nil Aygün, Angela L. Elwell, Dan Liang, Michael J. Lafferty, Kerry
+E. Cheek, Kenan P. Courtney, Jessica Mory, Ellie Hadden-Ford, Oleh
+Krupa, Luis de la Torre-Ubieta, Daniel H. Geschwind, **Michael I. Love**,
+Jason L. Stein.
+Brain-trait-associated variants impact cell-type-specific gene
+regulation during neurogenesis.
+*American Journal of Human Genetics*, September 2021.
+[doi: 10.1016/j.ajhg.2021.07.011](https://doi.org/10.1016/j.ajhg.2021.07.011)
+
+Gieira S. Jones, Katherine A. Hoadley, Linnea T. Olsson, Alina M.
+Hamilton, **Arjun Bhattacharya**, Erin L. Kirk, Heather J. Tipaldos, Jodie M.
+Fleming, **Michael I. Love**, Hazel B. Nichols, Andrew F. Olshan, Melissa A.
+Troester
+Hepatocyte growth factor pathway expression in breast cancer by race
+and subtype.
+*Breast Cancer Research*, August 2021.
+[doi: 10.1186/s13058-021-01460-5](https://doi.org/10.1186/s13058-021-01460-5)
+
 (Open Letter) Kim-Anh Lê Cao, Al J. Abadi, Emily F. Davis-Marcisak,
 Lauren Hsu, Arshi Arora, Alexis Coullomb, Atul Deshpande, Yuzhou Feng,
 Pratheepa Jeganathan, Melanie Loth, Chen Meng, **Wancen Mu**, Vera
@@ -113,15 +131,6 @@ and discoverability.
 *Human Brain Mapping*, October, 2020.
 [doi: 10.1002/hbm.25257](https://doi.org/10.1002/hbm.25257)
 
-Nil Aygün, Angela L. Elwell, Dan Liang, Michael J. Lafferty, Kerry
-E. Cheek, Kenan P. Courtney, Jessica Mory, Ellie Hadden-Ford, Oleh
-Krupa, Luis de la Torre-Ubieta, Daniel H. Geschwind, **Michael I. Love**,
-Jason L. Stein.
-Genetic influences on cell type specific gene expression and splicing
-during neurogenesis elucidate regulatory mechanisms of brain traits.
-*bioRxiv*, October 2020.
-[doi: 10.1101/2020.10.21.349019 ](https://doi.org/10.1101/2020.10.21.349019)
-
 Halei C. Benefield, Katherine E. Reeder-Hayes, Hazel B. Nichols,
 Benjamin C. Calhoun, **Michael I. Love**, Erin L. Kirk,
 Joseph Geradts, Katherine A. Hoadley, Stephen R. Cole,
@@ -150,7 +159,7 @@ An approach for normalization and quality control for NanoString RNA
 expression data.
 *Briefings in Bioinformatics*, August 2020.
 [doi: 10.1093/bib/bbaa163](https://doi.org/10.1093/bib/bbaa163),
-[bioRxiv](https://doi.org/10.1101/2020.04.08.032490)
+[PMC8138885](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138885)
 
 Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, 
 **Michael I. Love**, Rob Patro.
@@ -163,7 +172,8 @@ Terminus enables the discovery of data-driven, robust transcript groups from RNA
 L. Mohlke, **Michael I. Love**. 
 Assessing exposure effects on gene expression.
 *Genetic Epidemiology*, June, 2020.
-[doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324)
+[doi: 10.1002/gepi.22324](https://doi.org/10.1002/gepi.22324),
+[PMC7429346](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7429346)
 
 Charlotte Soneson, Federico Marini, Florian Geier, **Michael
 I. Love**, Michael B. Stadler.
@@ -217,14 +227,14 @@ Candidate Genes for Cardiometabolic Traits.
 Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
-[swish supplement PDF](../assets/swish_supplement.pdf)
+[swish supplement PDF](../assets/swish_supplement.pdf),
 `swish` function in the [fishpond](https://bioconductor.org/packages/fishpond) R/Bioconductor package
 
 **Sean D. McCabe**, Dan-Yu Lin, **Michael I. Love**.
 Consistency and overfitting of multi-omics methods on experimental data.
 *Briefings in Bioinformatics*, July 2019.
 [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
-[2019 Author Manuscript](../assets/mccabe_2019.pdf),
+[PMC7373174](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373174),
 [movie](https://github.com/mccabes292/movie) R package
 
 Charlotte Soneson,  **Michael I. Love**, Rob Patro, Shobbir Hussain,

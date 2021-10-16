@@ -23,9 +23,8 @@ td{
 | Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
 | Euphy Wu | Detecting allelic imbalance of transcripts in bulk RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
-| Wancen Mu | Allelic imbalance across groups of cells in scRNA-seq; <br> Multi-omic analysis of single cell data; Overlap enrichment analysis | <img width="100" src="../assets/wancenmu.jpg"> |
+| [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance across groups of cells in scRNA-seq; <br> Multi-omic analysis of single cell data; Overlap enrichment analysis | <img width="100" src="../assets/wancenmu.jpg"> |
 | Ji-Eun Park | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
-| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | <img width="100" src="../assets/kwameforbes.jpg"> |
 
 ## Alumni
 
@@ -35,16 +34,17 @@ Doctoral students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
-| Scott Van Buren | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
+| [Sarah Reifeis](https://scholar.google.com/citations?user=f4mwC_0AAAAJ&hl=en) [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
+| [Scott Van Buren](https://scholar.google.com/citations?user=tq0VCBcAAAAJ&hl=en) | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
 | [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS for breast cancer outcomes; Multi-omic strategies in TWAS: [MOSTWAS](https://github.com/bhattacharya-a-bt/MOSTWAS); Compressed sensing for deconvolution: [DeCompress](https://github.com/bhattacharya-a-bt/DeCompress) | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
-| [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | 23andme | <img width="100" src="../assets/anqizhu.png"> |
+| [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | Genentech | <img width="100" src="../assets/anqizhu.png"> |
 
-Masters students
+Masters and bachelors students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
+| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BBSP | <img width="100" src="../assets/kwameforbes.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
 
 ## Collaborators

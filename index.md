@@ -5,28 +5,19 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-<p style="margin-bottom: 0px"> PI: Michael I. Love </p>
-<p style="color:grey; margin-bottom: 5px"> (he/him/his) </p>
-Assistant Professor <br>
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
-[Department of Genetics](http://www.med.unc.edu/genetics/) <br>
-Member of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) <br>
+[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) -
+[Department of Genetics](http://www.med.unc.edu/genetics/) -
 University of North Carolina-Chapel Hill
-
-[@mikelove](http://twitter.com/mikelove) ---
-[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
-[Biostatistics Dept profile](http://sph.unc.edu/adv_profile/michael-love-phd/)
-
-michaelisaiahlove at gmail dot com *
-
-\* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
 ### News
 
+* October 2021 - [nullranges](https://nullranges.github.io/nullranges)
+  is released on Bioconductor! Joint work from Wancen and Eric Davis
+  from Doug Phanstiel lab.
 * October 2021 -
   Wancen's [airpart](https://bioconductor.org/packages/airpart)
   method now has a preprint on *bioRxiv*:
-  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546)
+  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546).
 * October 2021 - 
   I will be presenting a poster on
   applying [MRLocus](https://mikelove.github.io/mrlocus) to brain
@@ -42,6 +33,12 @@ At UNC-Chapel Hill, we often collaborate with groups in the
 studying how genetic variants relevant to diseases are associated with changes
 in molecular and cellular phenotypes.
 
+* We collaborate with the 
+  [Won lab](https://www.wonlab.org/) and the 
+  [Mohlke lab](https://mohlke.web.unc.edu/) as part of
+  the IGVF consortium, studying the effect of disease-associated GWAS
+  variants via *in vivo* massively parallel reporter assays (MPRA) to
+  assess tissue-, sex-, and treatment-specific allelic effects.
 * We collaborate with the [Patro lab](http://www.robpatro.com/) in the
   development of computational and statistical methods for
   quantification of RNA transcript abundance, including the software
@@ -52,6 +49,9 @@ in molecular and cellular phenotypes.
   data from molecular assays of chromatin accessibility and the
   transcriptome in neural progenitor cell lines to macroscale
   phenotypes such as gross human brain structure measured with MRI.
+  In collaboration with Stein lab researchers, we have developed the 
+  [MRLocus](https://mikelove.github.io/mrlocus) method for identifying
+  causal genes from QTL studies and GWAS.
 * We collaborate with the
   [Troester lab](https://sph.unc.edu/adv_profile/melissa-troester-phd/) 
   and the Carolina Breast Cancer Study, investigating the intersection
@@ -63,18 +63,6 @@ in molecular and cellular phenotypes.
   for statistical analysis of RNA-seq and other sequencing experiments,
   and associated packages and workflows for analyzing genomics
   data. See the [Software](pages/software.html) tab for more details.
-
-### PI - Background
-
-From 2013-2016, I was a Postdoctoral Fellow in the group of
-Rafael Irizarry in the Biostatistics and Computational Biology
-Department at the Dana-Farber Cancer Institute and the Harvard
-TH Chan School of Public Health.
-I completed a PhD in Computational Biology and Scientific Computing
-(2013) in the Vingron Department at the Max Planck Institute for
-Molecular Genetics in Berlin and the Mathematics and Informatics
-Department of the Freie Universität, Berlin.  I completed a Statistics
-M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 

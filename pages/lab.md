@@ -20,6 +20,23 @@ td{
 }
 </style>
 
+<img style="float: right;" src="../assets/michaellove.jpg">
+
+<p style="margin-bottom: 0px"> PI: Michael I. Love </p>
+<p style="color:grey; margin-bottom: 5px"> (he/him/his) </p>
+Assistant Professor, 
+[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
+[Department of Genetics](http://www.med.unc.edu/genetics/), 
+Member of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) <br>
+University of North Carolina-Chapel Hill
+
+[@mikelove](http://twitter.com/mikelove) ---
+[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
+[UNC Biostat](http://sph.unc.edu/adv_profile/michael-love-phd/) --- [CV](../assets/michael_love_cv.pdf)
+
+Email: michaelisaiahlove at gmail --- for software questions,
+do not email, instead post to the [support site](https://support.bioconductor.org).
+
 | Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
 | Euphy Wu | Detecting allelic imbalance of transcripts in bulk RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |

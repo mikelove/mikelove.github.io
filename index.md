@@ -23,25 +23,14 @@ michaelisaiahlove at gmail dot com *
 
 ### News
 
-* May 2021 - Congratulations to Sean McCabe for winning the 2021 Larry
-  Kupper Award for Best Dissertation Publication! Congratulations to
-  Sarah Reifeis for being inducted into Delta Omega, and on receiving
-  a Distinguished Student Paper Awards for ENAR 2021!
-* April 2021 - Wancen's single cell allelic analysis package accepted
-  into Bioconductor:
-  [airpart](https://bioconductor.org/packages/airpart)
-* April 2021 - Anqi and Nana's MRLocus paper is published in *PLOS Genetics*:
-  [doi: 10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
-* March 2021 - Arjun's MOSTWAS paper is published in *PLOS Genetics*:
-  [doi: 10.1371/journal.pgen.1009398](https://doi.org/10.1371/journal.pgen.1009398)
-* January 2021 - Arjun's DeCompress paper is published in *Nucleic Acids Research*:
-  [doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
-* January 2021 - Scott's inferential summaries for scRNA-seq paper is published in
-  *Bioinformatics*:
-  [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
-* November 2020 - Kwame won a poster award at ABRCMS 2020, and a JTech
-  CSHL Biological Data Science 2020 Scholarship. His poster and
-  abstract were for his R package: [vizWithSCE](https://kwameforbes.github.io/vizWithSCE/).
+* October 2021 -
+  Wancen's [airpart](https://bioconductor.org/packages/airpart)
+  method now has a preprint on *bioRxiv*:
+  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546)
+* October 2021 - 
+  I will be presenting a poster on
+  applying [MRLocus](https://mikelove.github.io/mrlocus) to brain
+  traits as ASHG 2021.
 
 ### Research
 
@@ -89,8 +78,31 @@ M.S. (2010) and Mathematics B.S. (2005) at Stanford University.
 
 ### Past news items
 
+2021
+
+* Congratulations to Sean McCabe for winning the 2021 Larry
+  Kupper Award for Best Dissertation Publication! Congratulations to
+  Sarah Reifeis for being inducted into Delta Omega, and on receiving
+  a Distinguished Student Paper Awards for ENAR 2021!
+* Wancen's single cell allelic analysis package accepted
+  into Bioconductor:
+  [airpart](https://bioconductor.org/packages/airpart)
+* Anqi and Nana's MRLocus paper is published in *PLOS Genetics*:
+  [doi: 10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
+* Arjun's MOSTWAS paper is published in *PLOS Genetics*:
+  [doi: 10.1371/journal.pgen.1009398](https://doi.org/10.1371/journal.pgen.1009398)
+* Arjun's DeCompress paper is published in *Nucleic Acids Research*:
+  [doi: 10.1093/nar/gkab031](https://doi.org/10.1093/nar/gkab031)
+* Scott's inferential summaries for scRNA-seq paper is published in
+  *Bioinformatics*:
+  [doi: 10.1093/bioinformatics/btab001](https://doi.org/10.1093/bioinformatics/btab001)
+
+
 2020
 
+* Kwame won a poster award at ABRCMS 2020, and a JTech
+  CSHL Biological Data Science 2020 Scholarship. His poster and
+  abstract were for his R package: [vizWithSCE](https://kwameforbes.github.io/vizWithSCE/).
 * Anqi's last chapter is preprinted: "MRLocus: identifying causal genes
   mediating a trait through Bayesian estimation of allelic heterogeneity"
   [doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)

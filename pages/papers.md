@@ -5,6 +5,34 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
+**Michael I. Love**.
+Airpart: Interpretable statistical models for analyzing allelic
+imbalance in single-cell datasets.
+*bioRxiv*, October 2021.
+[doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546),
+[airpart](https://bioconductor.org/packages/airpart) R/Bioconductor package
+
+Dan Liang, Nil Aygün, Nana Matoba, Folami Y. Ideraabdullah, 
+**Michael I. Love**, Jason L. Stein.
+Inference of cell-type specific imprinted regulatory elements and
+genes during human neuronal differentiation.
+*bioRxiv*, October 2021.
+[doi: 10.1101/2021.10.04.463060](https://doi.org/10.1101/2021.10.04.463060)
+
+Nicole E. Kramer, Eric S. Davis, Craig D. Wenger, Erika M. Deoudes, Sarah
+M. Parker, **Michael I. Love**, Douglas H. Phanstiel.
+Plotgardener: Cultivating precise multi-panel figures in R.
+*bioRxiv*, September 2021.
+[doi: 10.1101/2021.09.08.459338](https://doi.org/10.1101/2021.09.08.459338)
+
+Hunyong Cho, Chuwen Liu, Boyang Tang, Bridget M. Lin, Jeffrey Roach,
+Apoena de Aguiar Ribeiro, **Michael I. Love**, Kimon Divaris, Di Wu.
+Distribution-based comprehensive evaluation of methods for
+differential expression analysis in metatranscriptomics.
+*bioRxiv*, July 2021.
+[doi: 10.1101/2021.07.14.452374](https://doi.org/10.1101/2021.07.14.452374)
+
 Nil Aygün, Angela L. Elwell, Dan Liang, Michael J. Lafferty, Kerry
 E. Cheek, Kenan P. Courtney, Jessica Mory, Ellie Hadden-Ford, Oleh
 Krupa, Luis de la Torre-Ubieta, Daniel H. Geschwind, **Michael I. Love**,

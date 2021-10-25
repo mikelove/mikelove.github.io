@@ -5,8 +5,6 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-<img style="float: right;" src="assets/michaellove.jpg">
-
 <p style="margin-bottom: 0px"> PI: Michael I. Love </p>
 <p style="color:grey; margin-bottom: 5px"> (he/him/his) </p>
 Assistant Professor <br>

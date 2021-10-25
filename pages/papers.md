@@ -42,7 +42,6 @@ proportions to a reference panel.
 [doi: 10.1093/biostatistics/kxab013](https://doi.org/10.1093/biostatistics/kxab013),
 [actor](https://github.com/mccabes292/actor) R package
 
-
 Dan Liang, Angela L. Elwell, Nil Aygün, Oleh Krupa, Justin M. Wolter,
 Felix A. Kyere, Michael J. Lafferty, Kerry E. Cheek, Kenan
 P. Courtney, Marianna Yusupova, Melanie E. Garrett, Allison

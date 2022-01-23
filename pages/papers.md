@@ -9,7 +9,7 @@ Gieira S. Jones, Katherine A. Hoadley, Halei Benefield, Linnea
 T. Olsson, Alina M. Hamilton, **Arjun Bhattacharya**, Erin L. Kirk,
 Heather J. Tipaldos, Jodie M. Fleming, Kevin P. Williams, 
 **Michael I. Love**, Hazel B. Nichols, Andrew F. Olshan, 
-Melissa A. Troester
+Melissa A. Troester.
 Racial differences in breast cancer outcomes by hepatocyte growth
 factor pathway expression. 
 *Breast Cancer Research and Treatment*, January 2022.
@@ -17,10 +17,10 @@ factor pathway expression.
 
 Hannah J. Perrin, Kevin W. Currin, Swarooparani Vadlamudi, Gautam
 K. Pandey, Kenneth K. Ng, Martin Wabitsch, Markku Laakso, 
-**Michael I. Love**, Karen L. Mohlke
+**Michael I. Love**, Karen L. Mohlke.
 Chromatin accessibility and gene expression during adipocyte
 differentiation identify context-dependent effects at cardiometabolic
-GWAS loci
+GWAS loci.
 *PLOS Genetics*, October 2021.
 [doi: 10.1371/journal.pgen.1009865](https://doi.org/10.1371/journal.pgen.1009865)
 

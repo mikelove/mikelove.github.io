@@ -5,6 +5,16 @@ title: "Papers"
 
 ### Publications and preprints
 
+Gieira S. Jones, Katherine A. Hoadley, Halei Benefield, Linnea
+T. Olsson, Alina M. Hamilton, **Arjun Bhattacharya**, Erin L. Kirk,
+Heather J. Tipaldos, Jodie M. Fleming, Kevin P. Williams, 
+**Michael I. Love**, Hazel B. Nichols, Andrew F. Olshan, 
+Melissa A. Troester
+Racial differences in breast cancer outcomes by hepatocyte growth
+factor pathway expression. 
+*Breast Cancer Research and Treatment*, January 2022.
+[doi: 10.1007/s10549-021-06497-w](https://doi.org/10.1007/s10549-021-06497-w)
+
 **Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
 **Michael I. Love**.
 Airpart: Interpretable statistical models for analyzing allelic

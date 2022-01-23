@@ -394,6 +394,10 @@ Flexible expressed region analysis for RNA-seq with derfinder.
 [doi: 10.1093/nar/gkw852](https://doi.org/10.1093/nar/gkw852),
 [derfinder](http://bioconductor.org/packages/derfinder) R package
 
+---
+
+Pre-<img src="../assets/unc.png"/> publications:
+
 **Michael I. Love**, John B. Hogenesch, Rafael A. Irizarry. 
 Modeling of RNA-seq fragment sequence bias reduces systematic errors
 in transcript abundance estimation. 

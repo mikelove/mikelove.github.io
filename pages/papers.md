@@ -15,6 +15,15 @@ factor pathway expression.
 *Breast Cancer Research and Treatment*, January 2022.
 [doi: 10.1007/s10549-021-06497-w](https://doi.org/10.1007/s10549-021-06497-w)
 
+Hannah J. Perrin, Kevin W. Currin, Swarooparani Vadlamudi, Gautam
+K. Pandey, Kenneth K. Ng, Martin Wabitsch, Markku Laakso, 
+**Michael I. Love**, Karen L. Mohlke
+Chromatin accessibility and gene expression during adipocyte
+differentiation identify context-dependent effects at cardiometabolic
+GWAS loci
+*PLOS Genetics*, October 2021.
+[doi: 10.1371/journal.pgen.1009865](https://doi.org/10.1371/journal.pgen.1009865)
+
 **Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
 **Michael I. Love**.
 Airpart: Interpretable statistical models for analyzing allelic

@@ -107,6 +107,18 @@ role="button">MRLocus</a>
   Stein (UNC-CH).
 
 <a class="btn btn-primary"
+href="https://mikelove.github.io/fishpond"
+role="button">fishpond</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
+
+* `swish` is a nonparametric differential transcript and gene analysis
+  method making use of inferential replicate counts. Collaboration
+  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
+  Rob Patro (UMD). `swish` lives in the Bioconductor package
+  *fishpond*, which also contains utilities for working with Salmon,
+  alevin, and alevin-fry quantification data.
+
+<a class="btn btn-primary"
 href="https://bhattacharya-a-bt.github.io/DeCompress"
 role="button">DeCompress</a>
 <img width="100" src="../assets/gh.png">
@@ -135,17 +147,6 @@ role="button">actor</a>
   compare expressed isoform proportions in a dataset to an independent
   reference panel. Developed by Sean McCabe (UNC-CH),
   collaboration with Andrew Nobel (STOR, UNC-CH).
-
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/fishpond"
-role="button">fishpond</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
-
-* `swish` is a nonparametric differential transcript and gene analysis
-  method making use of inferential replicate counts. Collaboration
-  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (UMD). `swish` lives in the Bioconductor package
-  *fishpond*.
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"

@@ -40,7 +40,7 @@ do not email, instead post to the [support site](https://support.bioconductor.or
 | Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
 | Jon Rosen | Functional interrogation of GWAS variants | |
-| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) | Detecting allelic imbalance at isoform-level in bulk RNA-seq <br> co-advised by Naim Rashid | <img width="100" src="../assets/euphywu.jpg"> |
+| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) | Detecting allelic imbalance at isoform-level in bulk RNA-seq <br> Co-supervised by Naim Rashid | <img width="100" src="../assets/euphywu.jpg"> |
 | [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance across groups of cells in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
 

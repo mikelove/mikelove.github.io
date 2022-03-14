@@ -37,12 +37,16 @@ University of North Carolina-Chapel Hill
 Email: michaelisaiahlove at gmail --- for software questions,
 do not email, instead post to the [support site](https://support.bioconductor.org).
 
-| Name | Research topics | <font color="#EEEEEE">~~~~~~~~~~</font> |
+---
+
+## Current lab members
+
+| Name | Research topics | Position | |
 | :--- | :---- | :---- |
-| Jon Rosen | Functional interrogation of GWAS variants | |
-| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) | Detecting allelic imbalance at isoform-level in bulk RNA-seq <br> Co-supervised by Naim Rashid | <img width="100" src="../assets/euphywu.jpg"> |
-| [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance across groups of cells in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | <img width="100" src="../assets/wancenmu.jpg"> |
-| [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | <img width="100" src="../assets/ji-eunpark.jpg"> |
+| Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Genetic Epidemiology of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
+| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance in bulk RNA-seq; <br> Co-supervised by Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
+| [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance across groups of cells in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
+| [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
 
 ## Alumni
 
@@ -62,7 +66,7 @@ Masters and bachelors students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BBSP | <img width="100" src="../assets/kwameforbes.jpg"> |
+| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BCB | <img width="100" src="../assets/kwameforbes.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
 
 ## Collaborators
@@ -75,8 +79,12 @@ Masters and bachelors students
 
 ## Friends of the lab
 
+(Current or former students from other labs that have contributed to Love Lab research)
+
 | Name | Research topic | School (lab) | |
 | :--- | :---- | :---- | :---- |
+| [Noor P. Singh](https://npsdc.github.io/) <br> [@pratapnoor](https://twitter.com/pratapnoor) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |
+| [Dongze He](https://combine-lab.github.io/members/dongze-he.html) <br> [@dongzehe](https://twitter.com/dongzehe) | Single-cell RNA-seq | UMD (Patro) | <img width="100" src="../assets/dongzehe.jpg"> |
 | [Avi Srivastava](https://k3yavi.github.io/) <br> [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quantification | Stony Brook University (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
-| [Hirak Sarkar](https://hiraksarkar.github.io/) <br> [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | University of Maryland (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
+| [Hirak Sarkar](https://hiraksarkar.github.io/) <br> [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | UMD (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
 | [Stuart Lee](https://stuartlee.org/) <br> [@_stuartlee](https://twitter.com/_stuartlee) | Human centred approaches to data science, <br> tidy range operations | Monash University | <img width="100" src="../assets/stuartlee.jpg"> |

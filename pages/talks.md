@@ -3,12 +3,16 @@ layout: page
 title: "Talks"
 ---
 
+* March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br>
+  *Quantification Uncertainty in Single-Cell Expression Data*
+* March 2022 - MRC Integrative Epidemiology Unit, University of Bristol
+* December 2021 - Institute for Genome Sciences, UMD Baltimore
 * September 2021 - Department of Biostatistics, VCU
 * August 2021 - JSM - Genomic in Neuroscience, invited.
 * June 2021 - Genetics, Genomics and Informatics Virtual Seminar, The University of Tennessee Health Science Center
 * April 2021 - MAQC2021 <br>
   Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/8ZiLD29QCLQ) - [slides pt1](https://bit.ly/fragbias) [slides pt2](https://bit.ly/tximeta) <br>
-  **3rd place MAQC Scientist Research Award**
+  3rd place MAQC Scientist Research Award
 * December 2020 - Department of Statistics, Penn State University <br> 
   [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)
 * December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Robust and reproducible genomic data analysis

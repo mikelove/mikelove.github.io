@@ -83,7 +83,7 @@ Masters and bachelors students
 
 | Name | Research topic | School (lab) | |
 | :--- | :---- | :---- | :---- |
-| [Noor P. Singh](https://npsdc.github.io/) <br> [@pratapnoor](https://twitter.com/pratapnoor) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |
+| [Noor P. Singh](https://noorpratap.netlify.app/) <br> [@pratapnoor](https://twitter.com/pratapnoor) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |
 | [Dongze He](https://combine-lab.github.io/members/dongze-he.html) <br> [@dongzehe](https://twitter.com/dongzehe) | Single-cell RNA-seq | UMD (Patro) | <img width="100" src="../assets/dongzehe.jpg"> |
 | [Avi Srivastava](https://k3yavi.github.io/) <br> [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quantification | Stony Brook University (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
 | [Hirak Sarkar](https://hiraksarkar.github.io/) <br> [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | UMD (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |

@@ -73,6 +73,7 @@ Masters and bachelors students
 
 | Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
 | :--- | :---- | :---- | :---- |
+| Achal Patel | Breast cancer TWAS | Troester lab member | <img width="100" src="achalpatel.jpg"> |
 | Amanda Tapia | Colocalization of QTL and GWAS | Li lab member | <img width="100" src="../assets/amandatapia.jpg"> |
 | Joshua Zitovsky | Fast implementation of *apeglm* for allelic expression ratios | Kosorok lab member | <img width="100" src="../assets/joshuazitovsky.jpg"> | 
 

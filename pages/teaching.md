@@ -11,7 +11,7 @@ title: "Teaching"
   Spring 2019, 1:25-3:10 MW (co-taught in 2019 with 
   [Dr. Naim Rashid](https://naimurashid.github.io/))
 * [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
-  Spring 2021, 9:30-10:45 TR
+  Fall 2022, 1:25-2:40 MW (Gillings SPH Room 2304)
 
 ### Books
 

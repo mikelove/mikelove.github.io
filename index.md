@@ -11,17 +11,11 @@ University of North Carolina-Chapel Hill
 
 ### News
 
-* October 2021 - [nullranges](https://nullranges.github.io/nullranges)
-  is released on Bioconductor! Joint work from Wancen and Eric Davis
-  from Doug Phanstiel lab.
-* October 2021 -
-  Wancen's [airpart](https://bioconductor.org/packages/airpart)
-  method now has a preprint on *bioRxiv*:
-  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546).
-* October 2021 - 
-  I will be presenting a poster on
-  applying [MRLocus](https://mikelove.github.io/mrlocus) to brain
-  traits as ASHG 2021.
+* April 2022 - Wancen's first paper, on detecting allelic imbalance in
+  cell types using scRNA-seq is published in *Bioinformatics*:
+  [doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212)
+* May 2022 - The lab welcomes two visitors from Berlin: Anna A Monaco 
+  (Zinzen lab) and Pia Rautenstrauch (Ohler lab)
 
 ### Research
 
@@ -68,6 +62,12 @@ in molecular and cellular phenotypes.
 
 2021
 
+* [nullranges](https://nullranges.github.io/nullranges)
+  is released on Bioconductor! Joint work from Wancen and Eric Davis
+  from Doug Phanstiel lab.
+* Wancen's [airpart](https://bioconductor.org/packages/airpart)
+  method now has a preprint on *bioRxiv*:
+  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.46454
 * Congratulations to Sean McCabe for winning the 2021 Larry
   Kupper Award for Best Dissertation Publication! Congratulations to
   Sarah Reifeis for being inducted into Delta Omega, and on receiving

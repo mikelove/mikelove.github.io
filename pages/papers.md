@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
+**Michael I. Love**.
+Airpart: Interpretable statistical models for analyzing allelic
+imbalance in single-cell datasets.
+*Bioinformatics*, April 2022.
+[doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212),
+[airpart](https://bioconductor.org/packages/airpart) R/Bioconductor package
+
 Gieira S. Jones, Katherine A. Hoadley, Halei Benefield, Linnea
 T. Olsson, Alina M. Hamilton, **Arjun Bhattacharya**, Erin L. Kirk,
 Heather J. Tipaldos, Jodie M. Fleming, Kevin P. Williams, 
@@ -23,14 +31,6 @@ differentiation identify context-dependent effects at cardiometabolic
 GWAS loci.
 *PLOS Genetics*, October 2021.
 [doi: 10.1371/journal.pgen.1009865](https://doi.org/10.1371/journal.pgen.1009865)
-
-**Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
-**Michael I. Love**.
-Airpart: Interpretable statistical models for analyzing allelic
-imbalance in single-cell datasets.
-*bioRxiv*, October 2021.
-[doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.464546),
-[airpart](https://bioconductor.org/packages/airpart) R/Bioconductor package
 
 Dan Liang, Nil Aygün, Nana Matoba, Folami Y. Ideraabdullah, 
 **Michael I. Love**, Jason L. Stein.

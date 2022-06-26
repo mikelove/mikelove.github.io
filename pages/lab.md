@@ -20,33 +20,30 @@ td{
 }
 </style>
 
-<img style="float: right;" src="../assets/michaellove.jpg">
 
-<p style="margin-bottom: 0px"> PI: Michael I. Love </p>
-<p style="color:grey; margin-bottom: 5px"> (he/him/his) </p>
-Assistant Professor, 
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
-[Department of Genetics](http://www.med.unc.edu/genetics/), 
-Member of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) <br>
-University of North Carolina-Chapel Hill
-
-[@mikelove](http://twitter.com/mikelove) ---
-[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
-[UNC Biostat](http://sph.unc.edu/adv_profile/michael-love-phd/) --- [CV](../assets/michael_love_cv.pdf)
-
-Email: michaelisaiahlove at gmail --- for software questions,
-do not email, instead post to the [support site](https://support.bioconductor.org).
+* PI: Michael I. Love (he/him/his), Associate Professor, 
+[Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
+[Genetics](http://www.med.unc.edu/genetics/), 
+UNC-Chapel Hill
+* [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
+[CV](../assets/michael_love_cv.pdf)
+--- michaelisaiahlove [at] gmail [dot] com
+* For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 
 ---
 
-## Current lab members
+## Love lab members
 
 | Name | Research topics | Position | |
 | :--- | :---- | :---- |
-| Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Genetic Epidemiology of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
+| Michael Love <br> [@mikelove](http://twitter.com/mikelove) | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci; <br> Uncertainty propagation in differential analysis  | PI | <img width="100" src="../assets/michaellove.jpg"> |
+| Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance in bulk RNA-seq; <br> Co-supervised by Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
-| [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance across groups of cells in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
-| [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in breast cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
+| [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
+| [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
+| Rachel Sharp | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
+| Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate | <img width="100" src="../assets/yurikoharigaya.jpg"> |
+
 
 ## Alumni
 

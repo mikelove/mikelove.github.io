@@ -5,10 +5,6 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) -
-[Department of Genetics](http://www.med.unc.edu/genetics/) -
-University of North Carolina-Chapel Hill
-
 ### News
 
 * April 2022 - Wancen's first paper, on detecting allelic imbalance in

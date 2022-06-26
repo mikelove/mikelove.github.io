@@ -27,18 +27,16 @@ td{
 UNC-Chapel Hill
 * [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
 [CV](../assets/michael_love_cv.pdf)
---- michaelisaiahlove [at] gmail [dot] com
+--- michaelisaiahlove [at] gmail
 * For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 
 ---
 
-## Love lab members
-
-| Name | Research topics | Position | |
+| Name | Research topics | Position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
 | Michael Love <br> [@mikelove](http://twitter.com/mikelove) | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci; <br> Uncertainty propagation in differential analysis  | PI | <img width="100" src="../assets/michaellove.jpg"> |
 | Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
-| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance in bulk RNA-seq; <br> Co-supervised by Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
+| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance in bulk RNA-seq; <br> Co-supervised with Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
 | [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | Rachel Sharp | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
@@ -47,9 +45,7 @@ UNC-Chapel Hill
 
 ## Alumni
 
-### Love lab graduates
-
-Doctoral students
+### Doctoral students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
@@ -59,7 +55,7 @@ Doctoral students
 | [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
 | [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | Genentech | <img width="100" src="../assets/anqizhu.png"> |
 
-Masters and bachelors students
+### Masters and bachelors students
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
@@ -68,7 +64,7 @@ Masters and bachelors students
 
 ## Collaborators
 
-| Name | Research topic | Current position &nbsp; &nbsp; &nbsp; | |
+| Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
 | Achal Patel | Breast cancer TWAS | Troester lab member | <img width="100" src="../assets/achalpatel.jpg"> |
 | Amanda Tapia | Colocalization of QTL and GWAS | Li lab member | <img width="100" src="../assets/amandatapia.jpg"> |
@@ -79,7 +75,7 @@ Masters and bachelors students
 
 (Current or former students from other labs that have contributed to Love Lab research)
 
-| Name | Research topic | School (lab) | |
+| Name | Research topic | School (lab) | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
 | [Anna A. Monaco](https://de.linkedin.com/in/anna-alessandra-monaco-a01623141) <br> [@AnnaAMonaco](https://twitter.com/AnnaAMonaco) | Molecular Biology/Genetics/Evo-Devo | Robert Zinzen (Berlin) | <img width="100" src="../assets/annaamonaco.jpg"> |
 | [Noor P. Singh](https://noorpratap.netlify.app/) <br> [@pratapnoor](https://twitter.com/pratapnoor) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |

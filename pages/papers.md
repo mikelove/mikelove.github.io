@@ -13,6 +13,13 @@ imbalance in single-cell datasets.
 [doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212),
 [airpart](https://bioconductor.org/packages/airpart) R/Bioconductor package
 
+Achal Patel, Montserrat García-Closas, Andrew F. Olshan, Charles
+M. Perou, Melissa A. Troester, **Michael I. Love**, Arjun Bhattacharya.
+Gene-Level Germline Contributions to Clinical Risk of Recurrence
+Scores in Black and White Patients with Breast Cancer.
+*Cancer Research*, January 2022.
+[doi: 10.1158/0008-5472.CAN-21-1207](https://doi.org/10.1158/0008-5472.CAN-21-1207)
+
 Gieira S. Jones, Katherine A. Hoadley, Halei Benefield, Linnea
 T. Olsson, Alina M. Hamilton, **Arjun Bhattacharya**, Erin L. Kirk,
 Heather J. Tipaldos, Jodie M. Fleming, Kevin P. Williams, 
@@ -129,13 +136,6 @@ Improving the completeness of public metadata accompanying omics studies.
 *Genome Biology*, April 2021.
 [doi: 10.1186/s13059-021-02332-z](https://doi.org/10.1186/s13059-021-02332-z)
 (Commentary)
-
-Achal Patel, Montserrat García-Closas, Andrew F. Olshan, Charles
-M. Perou, Melissa A. Troester, **Michael I. Love**, Arjun Bhattacharya.
-Transcriptome-wide association study of risk of recurrence in Black
-and White breast cancer patients.
-*medRxiv*, March 2021.
-[doi: 10.1101/2021.03.19.21253983](https://doi.org/10.1101/2021.03.19.21253983)
 
 **Arjun Bhattacharya**, Yun Li, **Michael I. Love**.
 Multi-omic strategies for transcriptome-wide prediction and association studies.

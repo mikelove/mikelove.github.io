@@ -73,7 +73,7 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 <a class="btn btn-primary"
 href="https://nullranges.github.io/nullranges"
 role="button">nullranges</a>
-<img width="100" src="../assets/gh.png">
+<img src="https://bioconductor.org/shields/years-in-bioc/nullranges.svg">
 
 * Modular package for generation of sets of ranges representing the
   null hypothesis. These can take the form of bootstrap samples of
@@ -82,6 +82,23 @@ role="button">nullranges</a>
   Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
   Contributions from other Bioconductor developers as well.
   Funding provided by CZI EOSS award.
+
+<a class="btn btn-primary"
+href="https://mikelove.github.io/fishpond"
+role="button">fishpond</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
+
+* `swish` is a nonparametric differential transcript and gene analysis
+  method making use of inferential replicate counts. Collaboration
+  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
+  Rob Patro (UMD). 
+  New allelic expression analysis methodology led by Euphy Wu (UNC-CH)
+  in collaboration with Gary Churchill (JAX), KB Choi, Cheryl
+  Ackert-Bicknell (UColorado) and others.
+  `swish` lives in the Bioconductor package
+  *fishpond*, which also contains utilities for working with Salmon,
+  and alevin-fry quantification data. 
+
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/airpart"
@@ -105,18 +122,6 @@ role="button">MRLocus</a>
   containing multiple LD-independent eQTLs.
   Developed in collaboration with Anqi Zhu, Nana Matoba, and Jason
   Stein (UNC-CH).
-
-<a class="btn btn-primary"
-href="https://mikelove.github.io/fishpond"
-role="button">fishpond</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
-
-* `swish` is a nonparametric differential transcript and gene analysis
-  method making use of inferential replicate counts. Collaboration
-  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (UMD). `swish` lives in the Bioconductor package
-  *fishpond*, which also contains utilities for working with Salmon,
-  alevin, and alevin-fry quantification data.
 
 <a class="btn btn-primary"
 href="https://bhattacharya-a-bt.github.io/DeCompress"

@@ -76,9 +76,9 @@ role="button">nullranges</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/nullranges.svg">
 
 * Modular package for generation of sets of ranges representing the
-  null hypothesis. These can take the form of bootstrap samples of
-  ranges or sets of control ranges that are matched across one or more
-  covariates. 
+  null hypothesis. These can take the form of `bootRanges`, block
+  bootstrap samples of ranges, or `matchRanges`, sets of control
+  ranges that are matched across one or more covariates. 
   Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
   Contributions from other Bioconductor developers as well.
   Funding provided by CZI EOSS award.
@@ -92,13 +92,9 @@ role="button">fishpond</a>
   method making use of inferential replicate counts. Collaboration
   with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
   Rob Patro (UMD). 
-  New allelic expression analysis methodology led by Euphy Wu (UNC-CH)
-  in collaboration with Gary Churchill (JAX), KB Choi, Cheryl
-  Ackert-Bicknell (UColorado) and others.
-  `swish` lives in the Bioconductor package
-  *fishpond*, which also contains utilities for working with Salmon,
-  and alevin-fry quantification data. 
-
+*  `SEESAW` is a suite of methods for allelic expression analysis led
+  by Euphy Wu (UNC-CH)  in collaboration with Gary Churchill (JAX), KB
+  Choi, Cheryl Ackert-Bicknell (UColorado), Rob Patro (UMD) and others.
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/airpart"

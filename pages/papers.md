@@ -5,6 +5,40 @@ title: "Papers"
 
 ### Publications and preprints
 
+**Euphy Wu**, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew
+Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro,
+**Michael I. Love**.
+Detecting isoform-level allelic imbalance accounting for inferential
+uncertainty.
+*bioRxiv*, August 2022.
+[doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785),
+`SEESAW` in [fishpond](https://mikelove.github.io/fishpond)
+R/Bioconductor package
+
+Eric S. Davis, **Wancen Mu**, Stuart Lee, Mikhail G. Dozmorov, 
+**Michael I. Love**, Douglas H. Phanstiel.
+matchRanges: Generating null hypothesis genomic ranges via
+covariate-matched sampling.
+*bioRxiv*, August 2022.
+[doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985),
+`matchRanges` in [nullranges](https://nullranges.github.io/nullranges)
+R/Bioconductor package
+
+Kathleen S. M. Reed, Eric S. Davis, Marielle L. Bond, Alan Cabrera,
+Eliza Thulson, I. Yoseli Quiroga, Shannon Cassel, Kamisha T. Woolery,
+Isaac Hilton, Hyejung Won, **Michael I. Love**, Douglas H. Phanstiel.
+Temporal analysis suggests a reciprocal relationship between 3D
+chromatin structure and transcription. 
+*bioRxiv*, May 2022.
+[doi: 10.1101/2022.05.05.490836](https://doi.org/10.1101/2022.05.05.490836)
+
+Nil Aygün, Dan Liang, Wesley L. Crouse, Gregory R. Keele, 
+**Michael I. Love**, Jason L. Stein. 
+Inferring cell-type-specific causal gene regulatory networks during
+human neurogenesis. 
+*bioRxiv*, April 2022.
+[doi: 10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
+
 **Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
 **Michael I. Love**.
 Airpart: Interpretable statistical models for analyzing allelic

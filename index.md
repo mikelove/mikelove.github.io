@@ -7,11 +7,15 @@ layout: page
 
 ### News
 
+* August 2022 - Euphy's first preprint, on detecting isoform-level
+  allelic imbalance, posted to *bioRxiv*:
+  [doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785)
+* August 2022 - Eric Davis (member of Phanstiel lab) posts
+  *matchRanges* preprint to *bioRxiv*:
+  [doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985)
 * April 2022 - Wancen's first paper, on detecting allelic imbalance in
   cell types using scRNA-seq is published in *Bioinformatics*:
   [doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212)
-* May 2022 - The lab welcomes two visitors from Berlin: Anna A Monaco 
-  (Zinzen lab) and Pia Rautenstrauch (Ohler lab)
 
 ### Research
 

@@ -24,6 +24,13 @@ covariate-matched sampling.
 `matchRanges` in [nullranges](https://nullranges.github.io/nullranges)
 R/Bioconductor package
 
+**Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester,
+**Michael I. Love**.
+Assessing Etiologic Heterogeneity for Multinomial Outcome with
+Two-Phase Outcome-Dependent Sampling Design. 
+*medRxiv* July 2022.
+[doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
+
 Kathleen S. M. Reed, Eric S. Davis, Marielle L. Bond, Alan Cabrera,
 Eliza Thulson, I. Yoseli Quiroga, Shannon Cassel, Kamisha T. Woolery,
 Isaac Hilton, Hyejung Won, **Michael I. Love**, Douglas H. Phanstiel.

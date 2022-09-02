@@ -5,6 +5,14 @@ title: "Papers"
 
 ### Publications and preprints
 
+Markia A. Smith, Sarah C. Van Alsten, Andrea Walens, Jeffrey
+S. Damrauer, Ugwuji N. Maduekwe, Russell R. Broaddus, **Michael I. Love**,
+Melissa A. Troester, and Katherine A. Hoadley.
+DNA Damage Repair Classifier Defines Distinct Groups in Hepatocellular
+Carcinoma. 
+*Cancers*, September 2022. 
+[doi: 10.3390/cancers14174282](https://doi.org/10.3390/cancers14174282)
+
 **Euphy Wu**, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew
 Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro,
 **Michael I. Love**.

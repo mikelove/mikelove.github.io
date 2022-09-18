@@ -5,6 +5,24 @@ title: "Papers"
 
 ### Publications and preprints
 
+Jessica C. McAfee, Sool Lee, Jiseok Lee, Jessica L. Bell, Oleh
+Krupa, Jessica Davis, Kimberly Insigne, Marielle L. Bond, Douglas
+H. Phanstiel, **Michael I. Love**, Jason L. Stein, Sriram Kosuri,
+Hyejung Won.
+Systematic investigation of allelic regulatory activity of
+schizophrenia-associated common variants.
+*medRxiv*, September 2022.
+[doi: 10.1101/2022.09.15.22279954](https://doi.org/10.1101/2022.09.15.22279954)
+
+**Wancen Mu**, Eric Davis, Stuart Lee, Mikhail Dozmorov, Douglas
+H. Phanstiel, **Michael I. Love**.
+bootRanges: Flexible generation of null sets of genomic ranges for
+hypothesis testing.
+*bioRxiv*, September 2022.
+[doi: 10.1101/2022.09.02.506382](https://doi.org/10.1101/2022.09.02.506382)
+`bootRanges` in [nullranges](https://nullranges.github.io/nullranges)
+R/Bioconductor package
+
 Markia A. Smith, Sarah C. Van Alsten, Andrea Walens, Jeffrey
 S. Damrauer, Ugwuji N. Maduekwe, Russell R. Broaddus, **Michael I. Love**,
 Melissa A. Troester, and Katherine A. Hoadley.

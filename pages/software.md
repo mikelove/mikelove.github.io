@@ -5,17 +5,17 @@ title: "Software"
 
 ### Maintained by the Love Lab
 
-<img width="100" src="../assets/DESeq2.png">
-<img width="100" src="../assets/tximport.png">
-<img width="100" src="../assets/tximeta.png">
-<img width="100" src="../assets/apeglm.png">
-<img width="100" src="../assets/fishpond.png">
-<img width="100" src="../assets/airpart.png">
-<img width="100" src="../assets/nullranges.png">
+<img width="140" src="../assets/DESeq2.png">
+<img width="140" src="../assets/tximport.png">
+<img width="140" src="../assets/tximeta.png">
+<img width="140" src="../assets/apeglm.png">
+<img width="140" src="../assets/fishpond.png">
+<img width="140" src="../assets/airpart.png">
+<img width="140" src="../assets/nullranges.png">
 
 <br>
 
-**highly used**
+**Highly used**
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/DESeq2"
@@ -68,7 +68,7 @@ in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 ---
 
-**newly developed**
+**Newly developed**
 
 <a class="btn btn-primary"
 href="https://nullranges.github.io/nullranges"
@@ -107,6 +107,10 @@ role="button">airpart</a>
   generalized fused lasso, plus many EDA and QC plotting functions.
   Developed by Wancen Mu, in collaboration with the Patro group
   (UMD) and KB Choi (JAX).
+
+---
+
+**Research packages**
 
 <a class="btn btn-primary"
 href="https://mikelove.github.io/mrlocus"
@@ -278,6 +282,13 @@ software (Salmon, Kallisto, RSEM, Cufflinks) for demonstration of
 import using `tximport`. The files are a subset of 6 samples from the
 GEUVADIS project. The citation for the GEUVADIS project is:
 [Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)
+
+[nullrangesData](https://bioconductor.org/packages/nullrangesData)
+Provides datasets for the nullranges package vignette, in particular
+example datasets for DNase hypersensitivity sites (DHS), CTCF binding
+sites, and CTCF genomic interactions. These are used to demonstrate
+generation of null hypothesis feature sets, either through block
+bootstrapping or matching, in the nullranges vignette.
 
 [alpineData](https://bioconductor.org/packages/alpineData)
 This packages provides a subset of alignments for demonstration of

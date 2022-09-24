@@ -3,6 +3,8 @@ layout: page
 title: "Talks"
 ---
 
+* July 2022 - BioC2022 contributed workshop <br> 
+  [SEESAW: Statistical Estimation Of Allelic Expression Using Salmon And Swish](https://mikelove.github.io/Bioc2022AllelicExpression)
 * March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br>
   *Quantification Uncertainty in Single-Cell Expression Data*
 * March 2022 - MRC Integrative Epidemiology Unit, University of Bristol

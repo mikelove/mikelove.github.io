@@ -10,6 +10,9 @@ layout: page
 * August 2022 - Euphy's first preprint, on detecting isoform-level
   allelic imbalance, posted to *bioRxiv*:
   [doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785)
+* August 2022 - Wancen Mu posts
+  *bootRanges* preprint to *bioRxiv*:
+  [doi: 10.1101/2022.09.02.506382](ttps://doi.org/10.1101/2022.09.02.506382)
 * August 2022 - Eric Davis (member of Phanstiel lab) posts
   *matchRanges* preprint to *bioRxiv*:
   [doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985)

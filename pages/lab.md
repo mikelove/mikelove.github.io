@@ -39,7 +39,7 @@ UNC-Chapel Hill
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html); <br> Co-supervised with Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
 | [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Ji-Eun Park](https://www.linkedin.com/in/ji-eun-park) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
-| Rachel Sharp | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
+| Rachel Sharp <br> [@rrsharp122](https://twitter.com/rrsharp122) | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
 | Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 
 

@@ -3,24 +3,34 @@ layout: page
 title: "Talks"
 ---
 
-* July 2022 - BioC2022 contributed workshop <br> 
+* October 2022 - Statistics Department, Texas A&M University
+* October 2022 - Biostatistics Department, University of Washington
+* July 2022 - BioC2022 contributed workshop with Euphy Wu <br/> 
+  [YouTube ▶](https://www.youtube.com/watch?v=LGMvCRNwxb8) ~
   [SEESAW: Statistical Estimation Of Allelic Expression Using Salmon And Swish](https://mikelove.github.io/Bioc2022AllelicExpression)
 * March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br>
   *Quantification Uncertainty in Single-Cell Expression Data*
 * March 2022 - MRC Integrative Epidemiology Unit, University of Bristol
-* December 2021 - Institute for Genome Sciences, UMD Baltimore
+* December 2021 - Institute for Genome Sciences, UMD Baltimore <br/>
+  [YouTube ▶](https://www.youtube.com/watch?v=83na2F_9E7c) ~ 
+  Isoform and Allelic Analysis for RNA-seq Data Accounting for Quantification Uncertainty
 * September 2021 - Department of Biostatistics, VCU
 * August 2021 - JSM - Genomic in Neuroscience, invited.
 * June 2021 - Genetics, Genomics and Informatics Virtual Seminar, The University of Tennessee Health Science Center
+* May 2021 - Bioinformatics Chat with Roman Cheplyaka <br/>
+  [Podcast 🎙 ](https://bioinformatics.chat/deseq2) ~ Differential gene expression and DESeq2
 * April 2021 - MAQC2021 <br>
-  Bias correction and reference hashing for accurate RNA-seq quantification - [YouTube](https://youtu.be/8ZiLD29QCLQ) - [slides pt1](https://bit.ly/fragbias) [slides pt2](https://bit.ly/tximeta) <br>
+  Bias correction and reference hashing for accurate RNA-seq quantification <br/> 
+  [YouTube ▶](https://youtu.be/8ZiLD29QCLQ) ~
+  [slides pt1](https://bit.ly/fragbias) [slides pt2](https://bit.ly/tximeta) <br/>
   3rd place MAQC Scientist Research Award
 * December 2020 - Department of Statistics, Penn State University <br> 
   [Assessing Consistency of Bulk and Single Cell Unsupervised Multi-Modal Methods](https://bit.ly/scMultiModalAssess)
 * December 2020 - Institute for Personalized Medicine Seminar Series, Icahn School of Medicine, Mount Sinai Hospital, Robust and reproducible genomic data analysis
-* September 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br>
-  [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
-* July 2020 - BioC2020 contributed workshop <br> 
+* September 2020 - [R-Ladies Tunis](https://rladies.org/tunisia-rladies/) <br/>
+  [YouTube ▶](https://www.youtube.com/watch?v=VDW1iLSduDw) ~ [Introduction to RNA-seq pipelines](https://bit.ly/rnaseqPipe)
+* July 2020 - BioC2020 contributed workshop with Avi Srivastava <br/> 
+  [YouTube ▶](https://www.youtube.com/watch?v=FL5GFXeBuvc) ~
   [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc)
 * June 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
   of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197). <br>
@@ -73,7 +83,8 @@ title: "Talks"
   "Teaching Data Science for Life Sciences"
 * February 2018 - 
   Center for Public Health Genomics,
-  UVa <br>
+  UVa <br/>
+  [YouTube ▶](https://www.youtube.com/watch?v=9xskajkNJwg) ~
   [Fragment-level bias modeling for RNA-seq Data Analysis](http://bit.ly/fragbias)
 * December 2016 - 
   Computational Biology, Bioinformatics & Genomics,

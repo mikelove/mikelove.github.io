@@ -8,20 +8,20 @@ layout: page
 ### News
 
 * September 2022 - Wancen Mu posts
-  *bootRanges* preprint to *bioRxiv*:
+  *bootRanges* preprint to *bioRxiv*: <br/>
   [doi: 10.1101/2022.09.02.506382](https://doi.org/10.1101/2022.09.02.506382)
 * August 2022 - Euphy's first preprint, on detecting isoform-level
-  allelic imbalance, posted to *bioRxiv*:
+  allelic imbalance, posted to *bioRxiv*: <br/>
   [doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785)
 * August 2022 - Eric Davis (member of Phanstiel lab) posts
-  *matchRanges* preprint to *bioRxiv*:
+  *matchRanges* preprint to *bioRxiv*: <br/>
   [doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985)
 * July 2022 - Sarah Reifeis's preprint, on assessing etiologic
   heterogeneity in two phase studies with outcome dependent samples,
-  posted to *bioRxiv*:
+  posted to *bioRxiv*: <br/>
   [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 * April 2022 - Wancen's first paper, on detecting allelic imbalance in
-  cell types using scRNA-seq is published in *Bioinformatics*:
+  cell types using scRNA-seq is published in *Bioinformatics*: <br/>
   [doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212)
 
 ### Research

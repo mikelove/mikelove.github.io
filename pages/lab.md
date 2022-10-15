@@ -21,14 +21,16 @@ td{
 </style>
 
 
-* PI: Michael I. Love (he/him/his), Associate Professor, 
-[Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
+**Michael I. Love** (he/him/his) <br/> 
+Associate Professor - [Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
 [Genetics](http://www.med.unc.edu/genetics/), 
 UNC-Chapel Hill
-* [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
-[CV](../assets/michael_love_cv.pdf)
---- michaelisaiahlove [at] gmail
-* For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
+
+[➤ Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ~
+[➤ Curriculum Vitae](../assets/michael_love_cv.pdf) ~
+michaelisaiahlove [at] gmail
+
+For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 
 ---
 

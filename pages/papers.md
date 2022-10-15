@@ -8,7 +8,7 @@ title: "Papers"
 <div class="alert">
 <strong>Note:</strong> For a full list of publications, see 
 <a href="https://scholar.google.com/citations?hl=en&user=vzXv764AAAAJ&view_op=list_works&sortby=pubdate">
-this Google Scholar page</a>.
+this Google Scholar page</a>, or the PI's CV under <b>Lab members</b>.
 The following partial list includes papers and preprints either led by members
 of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.

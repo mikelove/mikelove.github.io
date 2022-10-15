@@ -1,7 +1,9 @@
 ---
-title: Love Lab
+title: Love Lab @ UNC-Chapel Hill
 layout: page
 ---
+
+<img src="assets/well.png" ALT="picture of the well on UNC campus, from unc.edu"/>
 
 <!-- {% include JB/setup %} -->
 
@@ -10,18 +12,18 @@ layout: page
 * September 2022 - Wancen Mu posts
   *bootRanges* preprint to *bioRxiv*: <br/>
   [doi: 10.1101/2022.09.02.506382](https://doi.org/10.1101/2022.09.02.506382)
-* August 2022 - Euphy's first preprint, on detecting isoform-level
-  allelic imbalance, posted to *bioRxiv*: <br/>
+* August 2022 - Euphy Wu posts her first preprint, on isoform-level
+  allelic imbalance, to *bioRxiv*: <br/>
   [doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785)
 * August 2022 - Eric Davis (member of Phanstiel lab) posts
   *matchRanges* preprint to *bioRxiv*: <br/>
   [doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985)
 * July 2022 - Sarah Reifeis's preprint, on assessing etiologic
   heterogeneity in two phase studies with outcome dependent samples,
-  posted to *bioRxiv*: <br/>
+  posted to *medRxiv*: <br/>
   [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
-* April 2022 - Wancen's first paper, on detecting allelic imbalance in
-  cell types using scRNA-seq is published in *Bioinformatics*: <br/>
+* April 2022 - Wancen's first paper, on allelic imbalance in
+  scRNA-seq published in *Bioinformatics*: <br/>
   [doi: 10.1093/bioinformatics/btac212](https://doi.org/10.1093/bioinformatics/btac212)
 
 ### Research
@@ -74,7 +76,7 @@ in molecular and cellular phenotypes.
   from Doug Phanstiel lab.
 * Wancen's [airpart](https://bioconductor.org/packages/airpart)
   method now has a preprint on *bioRxiv*:
-  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.46454
+  [doi: 10.1101/2021.10.15.464546](https://doi.org/10.1101/2021.10.15.46454)
 * Congratulations to Sean McCabe for winning the 2021 Larry
   Kupper Award for Best Dissertation Publication! Congratulations to
   Sarah Reifeis for being inducted into Delta Omega, and on receiving

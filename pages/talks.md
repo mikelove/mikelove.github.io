@@ -3,14 +3,14 @@ layout: page
 title: "Talks"
 ---
 
-* November 2022 - Statistics Department, Texas A&M University
+* November 2022 - Statistics Department, Texas A&M University <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=W1S3-im_1lk) ~
   Statistical challenges in analysis of tumor subtypes
 * October 2022 - Biostatistics Department, University of Washington
 * July 2022 - BioC2022 contributed workshop with Euphy Wu <br/> 
   [YouTube ▶](https://www.youtube.com/watch?v=LGMvCRNwxb8) ~
   [SEESAW: Statistical Estimation Of Allelic Expression Using Salmon And Swish](https://mikelove.github.io/Bioc2022AllelicExpression)
-* March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br>
+* March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br/>
   *Quantification Uncertainty in Single-Cell Expression Data*
 * March 2022 - MRC Integrative Epidemiology Unit, University of Bristol
 * December 2021 - Institute for Genome Sciences, UMD Baltimore <br/>

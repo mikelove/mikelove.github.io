@@ -138,3 +138,5 @@ in molecular and cellular phenotypes.
 * Sean McCabe's first paper published in *Briefings in Bioinformatics*:
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
   [Author Manuscript](../assets/mccabe_2019.pdf)
+
+<a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a>

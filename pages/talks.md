@@ -4,6 +4,8 @@ title: "Talks"
 ---
 
 * November 2022 - Statistics Department, Texas A&M University
+  [YouTube ▶](https://www.youtube.com/watch?v=W1S3-im_1lk) ~
+  Statistical challenges in analysis of tumor subtypes
 * October 2022 - Biostatistics Department, University of Washington
 * July 2022 - BioC2022 contributed workshop with Euphy Wu <br/> 
   [YouTube ▶](https://www.youtube.com/watch?v=LGMvCRNwxb8) ~

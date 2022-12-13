@@ -3,6 +3,12 @@ layout: page
 title: "Talks"
 ---
 
+* December 2022 - Tidy Genomics Analysis Workshop <br/>
+  With [Stefano Mangiola](https://github.com/stemangiola) <br/>
+  [YouTube ▶](https://www.youtube.com/watch?v=nXxTGoBJYHM) <br/>
+  [Tidy Enrichment](https://github.com/mikelove/tidy-genomics-talk) <br/>
+  [Tidy Transcriptomics](https://github.com/tidytranscriptomics-workshops/LoveMangiola2022_tidytranscriptomics
+)
 * November 2022 - Statistics Department, Texas A&M University <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=W1S3-im_1lk) ~
   Statistical challenges in analysis of tumor subtypes

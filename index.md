@@ -7,6 +7,11 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
+Genetics Department ~
+Biostatistics Department ~
+UNC-Chapel Hill ~ 
+see [lab members](pages/lab.html) for contact details.
+
 ### News
 
 * September 2022 - Wancen Mu posts

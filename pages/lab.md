@@ -22,15 +22,17 @@ td{
 
 
 **Michael I. Love** (he/him/his) <br/> 
-Associate Professor - [Biostatistics](http://sph.unc.edu/bios/biostatistics/) &
-[Genetics](http://www.med.unc.edu/genetics/), 
-UNC-Chapel Hill
+Associate Professor - 
+[Genetics](http://www.med.unc.edu/genetics/) and
+[Biostatistics](http://sph.unc.edu/bios/biostatistics/)
+at UNC-Chapel Hill
 
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ~
 [Curriculum Vitae](../assets/michael_love_cv.pdf) ~
 <a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a> ~
-[@mikelove@twitter.com](https://twitter.com/mikelove) ~
-michaelisaiahlove [at] gmail
+[@mikelove@twitter.com](https://twitter.com/mikelove)
+
+Email: michaelisaiahlove [at] gmail
 
 For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 

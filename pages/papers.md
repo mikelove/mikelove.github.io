@@ -14,6 +14,14 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Ji-Eun Park**, Markia A. Smith, Sarah C. Van Alsten, Andrea Walens,
+Di Wu, Katherine A. Hoadley, Melissa A. Troester, **Michael I. Love**.
+Diffsig: Associating Risk Factors With Mutational Signatures.
+*bioRxiv*, February 2023.
+[doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
+
+* [diffsig](https://github.com/jennprk/diffsig) R package
+
 **Wancen Mu**, Eric Davis, Stuart Lee, Mikhail Dozmorov, Douglas
 H. Phanstiel, **Michael I. Love**.
 bootRanges: Flexible generation of null sets of genomic ranges for

@@ -66,9 +66,36 @@ Developed by Anqi Zhu (UNC-CH), collaboration with Joseph Ibrahim
 `apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
+<a class="btn btn-primary"
+href="https://mikelove.github.io/fishpond"
+role="button">fishpond</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/stats/bioc/fishpond/"
+role="button">usage stats</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
+
+* `swish` is a nonparametric differential transcript and gene analysis
+  method making use of inferential replicate counts. Collaboration
+  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
+  Rob Patro (UMD). 
+*  `SEESAW` is a suite of methods for allelic expression analysis led
+  by Euphy Wu (UNC-CH)  in collaboration with Gary Churchill (JAX), KB
+  Choi, Cheryl Ackert-Bicknell (UColorado), Rob Patro (UMD) and others.
+
 ---
 
 **Newly developed**
+
+<a class="btn btn-primary"
+href="https://github.com/jennprk/diffsig"
+role="button">diffsig</a>
+<img width="100" src="../assets/gh.png">
+
+* R package for estimating the association of risk factors with
+  mutational signatures, making use of a Bayesian
+  Dirichlet-multinomial hierarchical model for counts.
+  Developed by Ji-Eun Park, in collaboration with labs of Melissa
+  Troester and Katie Hoadley.
 
 <a class="btn btn-primary"
 href="https://nullranges.github.io/nullranges"
@@ -82,19 +109,6 @@ role="button">nullranges</a>
   Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
   Contributions from other Bioconductor developers as well.
   Funding provided by CZI EOSS award.
-
-<a class="btn btn-primary"
-href="https://mikelove.github.io/fishpond"
-role="button">fishpond</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
-
-* `swish` is a nonparametric differential transcript and gene analysis
-  method making use of inferential replicate counts. Collaboration
-  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (UMD). 
-*  `SEESAW` is a suite of methods for allelic expression analysis led
-  by Euphy Wu (UNC-CH)  in collaboration with Gary Churchill (JAX), KB
-  Choi, Cheryl Ackert-Bicknell (UColorado), Rob Patro (UMD) and others.
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/airpart"

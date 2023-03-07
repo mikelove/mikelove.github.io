@@ -14,6 +14,9 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* February 2023 - Ji-Eun posts her first preprint, *Diffsig*, a
+  method for associating risk factors with mutational signatures: <br/>
+  [doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
 * September 2022 - Wancen Mu posts
   *bootRanges* preprint to *bioRxiv*: <br/>
   [doi: 10.1101/2022.09.02.506382](https://doi.org/10.1101/2022.09.02.506382)

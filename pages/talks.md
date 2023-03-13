@@ -3,6 +3,10 @@ layout: page
 title: "Talks"
 ---
 
+* March 2023 - ENAR - Advances in Statistical Methods for
+  Cell-Type-Specific Analyses, invited
+* March 2023 - Allelic Imbalance at Isoform Level, Computational
+  Health Department, Helmholtz Zentrum Munchen
 * December 2022 - Tidy Genomics Analysis Workshop with [Stefano Mangiola](https://github.com/stemangiola) <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=nXxTGoBJYHM) ~ Tidy
   Enrichment Analysis and Tidy Transcriptomics <br/>
@@ -22,7 +26,7 @@ title: "Talks"
   [YouTube ▶](https://www.youtube.com/watch?v=83na2F_9E7c) ~ 
   Isoform and Allelic Analysis for RNA-seq Data Accounting for Quantification Uncertainty
 * September 2021 - Department of Biostatistics, VCU
-* August 2021 - JSM - Genomic in Neuroscience, invited.
+* August 2021 - JSM - Genomic in Neuroscience, invited
 * June 2021 - Genetics, Genomics and Informatics Virtual Seminar, The University of Tennessee Health Science Center
 * May 2021 - Bioinformatics Chat with Roman Cheplyaka <br/>
   [Podcast 🎙 ](https://bioinformatics.chat/deseq2) ~ Differential gene expression and DESeq2
@@ -44,7 +48,7 @@ title: "Talks"
   [BIRS ▶](https://www.birs.ca/events/2020/5-day-workshops/20w5197/videos/watch/202006180730-Love.html) ~
   Assessing Consistency of Single Cell Unsupervised Multi-Modal Methods
 * March 2020 - ENAR - Recent advanced and opportunities in large
-  scale and multi-omic single cell data analysis, invited. <br>
+  scale and multi-omic single cell data analysis, invited <br>
   *Assessing consistency of unsupervised single-cell multi-omic methods*
 * March 2020 - Human Genetics Seminar Series, University of Utah <br>
   [Robust and reproducible genomic data analysis](https://bit.ly/love-rna-methods)

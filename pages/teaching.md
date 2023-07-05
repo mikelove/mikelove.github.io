@@ -8,12 +8,11 @@ title: "Teaching"
 * [BCB 724 - Data Communication](https://biodatascience.github.io/datacomm),
   Fall 2023, 11:00-12:15 TuTh, Nov 2,7,9,14,16,21,28,30 and Dec 5
 * BIOS 663 - Intermediate Linear Models,
-  Spring 2022, 1:25-3:10 MW, opt. lab 3:35-4:35 M
+  Spring 2022
 * [BIOS 735 - Introduction to Statistical Computing](http://biodatascience.github.io/statcomp),
-  Spring 2019, 1:25-3:10 MW (co-taught in 2019 with 
-  [Dr. Naim Rashid](https://naimurashid.github.io/))
+  Spring 2019 (co-taught with [Dr. Naim Rashid](https://naimurashid.github.io/))
 * [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
-  Fall 2022, 1:25-2:40 MW (Gillings SPH Room 2304)
+  Fall 2022
 
 ### Online books
 

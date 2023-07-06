@@ -10,7 +10,7 @@ title: "Talks"
 * December 2022 - Tidy Genomics Analysis Workshop with [Stefano Mangiola](https://github.com/stemangiola) <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=nXxTGoBJYHM) ~ Tidy
   Enrichment Analysis and Tidy Transcriptomics <br/>
-  Slides and R code: [Tidy Enrichment](https://github.com/mikelove/tidy-genomics-talk#readme), [Tidy Transcriptomics](https://github.com/tidytranscriptomics-workshops/LoveMangiola2022_tidytranscriptomics
+  Slides and R code: [Tidy Enrichment](https://github.com/tidybiology/tidy-genomics-talk#readme), [Tidy Transcriptomics](https://github.com/tidytranscriptomics-workshops/LoveMangiola2022_tidytranscriptomics
 )
 * November 2022 - Statistics Department, Texas A&M University <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=W1S3-im_1lk) ~

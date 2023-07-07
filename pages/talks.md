@@ -3,6 +3,8 @@ layout: page
 title: "Talks"
 ---
 
+* August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
+* June 2023 - CSAMA - Transcriptomics lecture series, introduction to bootstrapping
 * March 2023 - ENAR - Advances in Statistical Methods for
   Cell-Type-Specific Analyses, invited
 * March 2023 - Allelic Imbalance at Isoform Level, Computational

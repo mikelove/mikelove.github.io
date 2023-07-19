@@ -57,8 +57,9 @@ For software support, please post to [Bioconductor support site](https://support
 | :--- | :---- | :---- | :---- |
 | [Sarah Reifeis](https://scholar.google.com/citations?user=f4mwC_0AAAAJ&hl=en) [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | [Scott Van Buren](https://scholar.google.com/citations?user=tq0VCBcAAAAJ&hl=en) | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
-| [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS for breast cancer outcomes; Multi-omic strategies in TWAS: [MOSTWAS](https://bhattacharya-a-bt.github.io/MOSTWAS/); Compressed sensing for deconvolution: [DeCompress](https://bhattacharya-a-bt.github.io/DeCompress/) | Postdoc in Pasaniuc lab | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
-| [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | Postdoc in Lin lab | <img width="100" src="../assets/seanmccabe.png"> |
+| [Achal Patel](https://www.linkedin.com/in/achal-patel-166733202?original_referer=https%3A%2F%2Fwww.google.com%2F) <br> [@pateap07](https://twitter.com/pateap07) | Breast cancer TWAS | Genentech | <img width="100" src="../assets/achalpatel.jpg"> |
+| [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS for breast cancer outcomes; Multi-omic strategies in TWAS: [MOSTWAS](https://bhattacharya-a-bt.github.io/MOSTWAS/); Compressed sensing for deconvolution: [DeCompress](https://bhattacharya-a-bt.github.io/DeCompress/) | [Assist. Prof., MD Anderson](https://bhattacharya-lab.com/) | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
+| [Sean McCabe](https://mccabes292.github.io/) [@SeanMcCabeBIOS](https://twitter.com/SeanMcCabeBIOS) | Multi-omics visualization: [movie](https://github.com/mccabes292/movie); LDA of isoforms: [actor](https://github.com/mccabes292/actor) | [Assist. Prof., Indiana Univ.](https://medicine.iu.edu/faculty/62984/mccabe-sean) | <img width="100" src="../assets/seanmccabe.png"> |
 | [Anqi Zhu](https://azhu513.github.io) <br> [@anqiz91](https://twitter.com/anqiz91) | Differential analysis in RNA-seq; Developed [apeglm](http://bioconductor.org/packages/apeglm), [swish](http://bioconductor.org/packages/fishpond), [mrlocus](https://mikelove.github.io/mrlocus) | Genentech | <img width="100" src="../assets/anqizhu.png"> |
 
 ### Masters and bachelors students
@@ -70,11 +71,10 @@ For software support, please post to [Bioconductor support site](https://support
 
 ## Collaborators
 
-| Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
+| Name | Research topic | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| Achal Patel | Breast cancer TWAS | Troester lab member | <img width="100" src="../assets/achalpatel.jpg"> |
-| Amanda Tapia | Colocalization of QTL and GWAS | Li lab member | <img width="100" src="../assets/amandatapia.jpg"> |
-| Joshua Zitovsky | Fast implementation of *apeglm* for allelic expression ratios | Kosorok lab member | <img width="100" src="../assets/joshuazitovsky.jpg"> | 
+| Amanda Tapia | Colocalization of QTL and GWAS | <img width="100" src="../assets/amandatapia.jpg"> |
+| Joshua Zitovsky | Fast implementation of *apeglm* for allelic expression ratios | <img width="100" src="../assets/joshuazitovsky.jpg"> | 
 
 
 ## Friends of the lab

@@ -3,10 +3,22 @@ layout: page
 title: "Talks"
 ---
 
+### Upcoming talks
+
+* April 2024 - Department of Genetics, Washington University School of Medicine
+* March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
+* February 2024 - Biometric Colloquium, German Region of the International Biometric Society
+* November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
+* October 2023 - Center for Public Health Genomics, University of Virginia
+* September 2023 - Biostatistics Department, University of Michigan
 * August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
-* June 2023 - CSAMA - Transcriptomics lecture series, introduction to bootstrapping
+
+### Past talks
+
+* June 2023 - CSAMA - Transcriptomics lecture series, [Introduction to bootstrapping](https://github.com/mikelove/boot-basics/blob/main/bootstrapping.pdf)
 * March 2023 - ENAR - Advances in Statistical Methods for
-  Cell-Type-Specific Analyses, invited
+  Cell-Type-Specific Analyses, invited <br/>
+  [Cell-Type-Specific Gene Regulation in Human Neural Progenitors and Neuronal Progeny](https://docs.google.com/presentation/d/12GcyOu2PMRrqz1Pn6IwRP6FeNxiAZ4nHlWKivGc-9DQ/edit?usp=sharing)
 * March 2023 - Allelic Imbalance at Isoform Level, Computational
   Health Department, Helmholtz Zentrum Munchen
 * December 2022 - Tidy Genomics Analysis Workshop with [Stefano Mangiola](https://github.com/stemangiola) <br/>

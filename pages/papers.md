@@ -14,6 +14,37 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Euphy Wu**, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew
+Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro,
+**Michael I. Love**.
+SEESAW: detecting isoform-level allelic imbalance accounting for inferential uncertainty.
+*Genome Biology*, July 2023.
+[doi: 10.1186/s13059-023-03003-x](https://doi.org/10.1186/s13059-023-03003-x)
+
+* `SEESAW` in [fishpond](https://mikelove.github.io/fishpond)
+R/Bioconductor package
+
+**Wancen Mu**, Eric Davis, Stuart Lee, Mikhail Dozmorov, Douglas
+H. Phanstiel, **Michael I. Love**.
+bootRanges: Flexible generation of null sets of genomic ranges for
+hypothesis testing.
+*Bioinformatics*, April 2023.
+[doi: 10.1093/bioinformatics/btad190](https://doi.org/10.1093/bioinformatics/btad190) <br/>
+
+* `bootRanges` in [nullranges](https://nullranges.github.io/nullranges)
+R/Bioconductor package
+
+Eric S. Davis, **Wancen Mu**, Stuart Lee, Mikhail G. Dozmorov, 
+**Michael I. Love**, Douglas H. Phanstiel.
+matchRanges: Generating null hypothesis genomic ranges via
+covariate-matched sampling.
+*Bioinformatics*, April 2023.
+[doi: 10.1093/bioinformatics/btad197](https://doi.org/10.1093/bioinformatics/btad197)
+
+* `matchRanges` in [nullranges](https://nullranges.github.io/nullranges)
+R/Bioconductor package
+
+
 **Ji-Eun Park**, Markia A. Smith, Sarah C. Van Alsten, Andrea Walens,
 Di Wu, Katherine A. Hoadley, Melissa A. Troester, **Michael I. Love**.
 Diffsig: Associating Risk Factors With Mutational Signatures.
@@ -21,37 +52,6 @@ Diffsig: Associating Risk Factors With Mutational Signatures.
 [doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
 
 * [diffsig](https://github.com/jennprk/diffsig) R package
-
-**Wancen Mu**, Eric Davis, Stuart Lee, Mikhail Dozmorov, Douglas
-H. Phanstiel, **Michael I. Love**.
-bootRanges: Flexible generation of null sets of genomic ranges for
-hypothesis testing.
-*bioRxiv*, September 2022.
-[doi: 10.1101/2022.09.02.506382](https://doi.org/10.1101/2022.09.02.506382)
-
-* `bootRanges` in [nullranges](https://nullranges.github.io/nullranges)
-R/Bioconductor package
-
-**Euphy Wu**, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew
-Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro,
-**Michael I. Love**.
-Detecting isoform-level allelic imbalance accounting for inferential
-uncertainty.
-*bioRxiv*, August 2022.
-[doi: 10.1101/2022.08.12.503785](https://doi.org/10.1101/2022.08.12.503785),
-
-* `SEESAW` in [fishpond](https://mikelove.github.io/fishpond)
-R/Bioconductor package
-
-Eric S. Davis, **Wancen Mu**, Stuart Lee, Mikhail G. Dozmorov, 
-**Michael I. Love**, Douglas H. Phanstiel.
-matchRanges: Generating null hypothesis genomic ranges via
-covariate-matched sampling.
-*bioRxiv*, August 2022.
-[doi: 10.1101/2022.08.05.502985](https://doi.org/10.1101/2022.08.05.502985),
-
-* `matchRanges` in [nullranges](https://nullranges.github.io/nullranges)
-R/Bioconductor package
 
 **Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester,
 **Michael I. Love**.

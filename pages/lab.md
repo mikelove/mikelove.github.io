@@ -25,14 +25,15 @@ td{
 Associate Professor - 
 [Genetics](http://www.med.unc.edu/genetics/) and
 [Biostatistics](http://sph.unc.edu/bios/biostatistics/)
-at UNC-Chapel Hill
+at UNC-Chapel Hill <br/>
+Associate Director - [Bioinformatics and Computational Biology (BCB) PhD program](https://bcb.unc.edu/)
 
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ~
 [Curriculum Vitae](../assets/michael_love_cv.pdf) ~
 <a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a> ~
 [@mikelove@twitter.com](https://twitter.com/mikelove)
 
-Email: michaelisaiahlove [at] gmail
+Email: michaelisaiahlove [at] gmail / love [at] unc.edu
 
 For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 

@@ -16,7 +16,7 @@ title: "Teaching"
 
 ### Online books
 
-* [Tidy ranges tutorial](https://tidybiology.github.io/tidy-ranges-tutorial)
+* [Tidy ranges tutorial](https://tidyomics.github.io/tidy-ranges-tutorial)
 * Chapter in *RNA Bioinformatics* - [Statistical Modeling of High Dimensional Counts](../counts-model)
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/) by Rafael A. Irizarry and Michael I. Love
     - PDF from [Leanpub](https://leanpub.com/dataanalysisforthelifesciences/)

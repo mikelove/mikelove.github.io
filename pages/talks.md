@@ -11,7 +11,7 @@ title: "Talks"
 * November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
 * October 2023 - Center for Public Health Genomics, University of Virginia
 * September 2023 - Biostatistics Department, University of Michigan
-* August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidybiology.github.io/tidyomicsWorkshopBioc2023)
+* August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
 
 ### Past talks
 

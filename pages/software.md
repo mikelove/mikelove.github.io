@@ -5,15 +5,23 @@ title: "Software"
 
 ### Maintained by the Love Lab
 
-<img width="140" src="../assets/DESeq2.png">
-<img width="140" src="../assets/tximport.png">
-<img width="140" src="../assets/tximeta.png">
-<img width="140" src="../assets/apeglm.png">
-<img width="140" src="../assets/fishpond.png">
-<img width="140" src="../assets/airpart.png">
-<img width="140" src="../assets/nullranges.png">
+<img width="90" src="../assets/DESeq2.png">
+<img width="90" src="../assets/tximport.png">
+<img width="90" src="../assets/tximeta.png">
+<img width="90" src="../assets/apeglm.png">
+<img width="90" src="../assets/fishpond.png">
+<img width="90" src="../assets/airpart.png">
+<img width="90" src="../assets/nullranges.png">
 
 <br>
+
+**GitHub page**
+
+Most software from the Love Lab is part of the [Bioconductor
+Project](https://bioconductor.org). However we also provide mirrors of
+the software on GitHub:
+
+* <https://github.com/thelovelab>
 
 **Highly used**
 
@@ -67,7 +75,7 @@ Developed by Anqi Zhu (UNC-CH), collaboration with Joseph Ibrahim
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
 
 <a class="btn btn-primary"
-href="https://mikelove.github.io/fishpond"
+href="https://thelovelab.github.io/fishpond"
 role="button">fishpond</a>
 <a class="btn btn-secondary"
 href="https://bioconductor.org/packages/stats/bioc/fishpond/"
@@ -127,7 +135,7 @@ role="button">airpart</a>
 **Research packages**
 
 <a class="btn btn-primary"
-href="https://mikelove.github.io/mrlocus"
+href="https://thelovelab.github.io/mrlocus"
 role="button">MRLocus</a>
 <img width="100" src="../assets/gh.png">
 
@@ -310,36 +318,3 @@ This packages provides a subset of alignments for demonstration of
 GEUVADIS project. The citation for the GEUVADIS project is:
 [Lappalainen et al (2013)](http://www.nature.com/nature/journal/v501/n7468/full/nature12531.html?WT.ec_id=NATURE-20130926)
 
----
-
-### Older packages from the lab
-
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/alpine"
-role="button">alpine</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/alpine.svg">
-
-* Modeling and correcting fragment sequence bias for RNA-seq transcript
-abundance estimation. 
-Collaboration with Rafael Irizarry (DFCI Boston).
-
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/exomeCopy"
-role="button">exomeCopy</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/exomeCopy.svg">
-
-* Detection of copy number variants (CNV) from exome sequencing samples,
-including unpaired samples. The package implements a hidden Markov
-model which uses positional covariates, such as background read depth
-and GC-content, to simultaneously normalize and segment the samples
-into regions of constant copy count.
-Collaboration with Alena van Bömmel, Stefan Haas and Martin Vingron
-(MPI Berlin).
-
-<a class="btn btn-primary"
-href="http://github.com/mikelove/SparseData"
-role="button">SparseData</a>
-<img width="100" src="../assets/gh.png">
-
-* Efficiently calculate statistics such as group mean, standard
-deviation and t-statistics on large sparse genomic data sets.

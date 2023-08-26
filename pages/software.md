@@ -49,7 +49,7 @@ lengths.<br>
 Collaboration with Charlotte Soneson (FMI) and Mark Robinson (UZH Zürich).
 
 <a class="btn btn-primary"
-href="https://bioconductor.org/packages/tximeta"
+href="https://thelovelab.github.io/tximeta"
 role="button">tximeta</a>
 <a class="btn btn-secondary"
 href="https://bioconductor.org/packages/stats/bioc/tximeta/"

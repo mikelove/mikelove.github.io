@@ -14,6 +14,7 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* September 2023 - *Tidyomics* preprint is posted: [doi: 10.1101/2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
 * August 2023 - Mike will give a workshop at BioC2023 on "Tidy genomic and transcriptomic single-cell analyses"
 * July 2023 - Mike starts as Associate Director of the Bioinformatics and Computational Biology (BCB) PhD program at UNC-Chapel Hill
 * July 2023 - Euphy's paper on detecting allelic imbalance at the isoform-level is published: <br/>

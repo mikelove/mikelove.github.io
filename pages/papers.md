@@ -14,6 +14,19 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+William J Hutchison, Timothy J Keyes, Helena L Crowell, Charlotte Soneson, **Wancen Mu**, **Ji-Eun Park**, Eric S Davis, Abdullah A Nahid, Ming Tang, Victor Yuan, Pierre-Paul Axisa, Jonathan W Kitt, Chi-Lam Poon, Noriaki Sato, Raphael Gottardo, Martin Morgan, Stuart Lee, Michael Lawrence, Stephanie C Hicks, Garry P Nolan, Kara L Davis, Anthony T Papenfuss, **Michael I Love**, Stefano Mangiola.
+The tidyomics ecosystem: Enhancing omic data analyses.
+*bioRxiv*, September 2023.
+[doi: 10.1101/2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
+
+* [Tidyomics organization page](https://github.com/tidyomics)
+* Related work from the lab including:
+  - [bootRanges](https://nullranges.github.io/nullranges/articles/bootRanges.html)
+  - [matchRanges](https://nullranges.github.io/nullranges/articles/matchRanges.html)
+  - [fluentGenomics](https://f1000research.com/articles/9-109/v1)
+  - [tidy ranges tutorial](https://tidyomics.github.io/tidy-ranges-tutorial/)
+  - [tidyomics workshop](https://tidyomics.github.io/tidyomicsWorkshopBioc2023/)
+
 **Euphy Wu**, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew
 Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro,
 **Michael I. Love**.

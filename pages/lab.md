@@ -29,8 +29,9 @@ at UNC-Chapel Hill <br/>
 Associate Director - [Bioinformatics and Computational Biology (BCB) PhD program](https://bcb.unc.edu/)
 
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ~
-[Curriculum Vitae](../assets/michael_love_cv.pdf) ~
+[Curriculum Vitae](../assets/michael_love_cv.pdf)<br>
 <a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a> ~
+@mikelove.bsky.social ~
 [@mikelove@twitter.com](https://twitter.com/mikelove)
 
 Email: michaelisaiahlove [at] gmail / love [at] unc.edu
@@ -46,9 +47,10 @@ For software support, please post to [Bioconductor support site](https://support
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html); <br> Co-supervised with Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
 | [Wancen Mu](https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges) | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
-| Rachel Sharp <br> [@rrsharp122](https://twitter.com/rrsharp122) | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
+| [Rachel Sharp](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Molecular mechanisms of GWAS variants <br> associated with neuropsychiatric traits; <br> Co-supervised with Hyejung Won | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
 | Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate | <img width="100" src="../assets/yurikoharigaya.jpg"> |
-
+| [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Long-read RNA-seq methods | Rotation student | <img width="100" src="../assets/justinlandis.jpg"> |
+| [Isabella Gamez](https://www.linkedin.com/in/isabella-gamez-3766a01b5) | Bacterial RNA-seq - Rita Tamayo lab | Senior honors student | <img width="100" src="../assets/isabellagamez.jpg"> |
 
 ## Alumni
 

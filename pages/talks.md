@@ -10,11 +10,11 @@ title: "Talks"
 * March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
 * February 2024 - Biometric Colloquium, German Region of the International Biometric Society
 * November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
-* October 2023 - Center for Public Health Genomics, University of Virginia
-* September 2023 - Biostatistics Department, University of Michigan
 
 ### Past talks
 
+* October 2023 - Center for Public Health Genomics, University of Virginia <br/> [Tidy analysis of genomic data](https://github.com/tidyomics/tidy-genomics-talk/blob/main/tidy-genomics-talk.pdf)
+* September 2023 - Biostatistics Department, University of Michigan
 * August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
 * June 2023 - CSAMA - Transcriptomics lecture series, [Introduction to bootstrapping](https://github.com/mikelove/boot-basics/blob/main/bootstrapping.pdf)
 * March 2023 - ENAR - Advances in Statistical Methods for

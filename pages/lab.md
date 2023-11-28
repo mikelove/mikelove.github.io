@@ -41,7 +41,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topics | Position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
-| Michael Love <br> [@mikelove](http://twitter.com/mikelove) | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci; <br> Uncertainty propagation in differential analysis  | PI | <img width="100" src="../assets/michaellove.jpg"> |
+| Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci; <br> Uncertainty propagation in differential analysis  | PI | <img width="100" src="../assets/michaellove.jpg"> |
 | Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html); <br> Co-supervised with Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
 | [Wancen Mu](https://wancen.github.io/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |

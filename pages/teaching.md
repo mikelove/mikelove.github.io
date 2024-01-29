@@ -5,14 +5,12 @@ title: "Teaching"
 
 ### Courses
 
+* [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
+  Fall 2024, 1:25-2:40 MoWe
 * [BCB 724 - Data Communication](https://biodatascience.github.io/datacomm),
   Fall 2023, 11:00-12:15 TuTh, Nov 2,7,9,14,16,21,28,30 and Dec 5
-* BIOS 663 - Intermediate Linear Models,
-  Spring 2022
 * [BIOS 735 - Introduction to Statistical Computing](http://biodatascience.github.io/statcomp),
-  Spring 2019 (co-taught with [Dr. Naim Rashid](https://naimurashid.github.io/))
-* [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
-  Fall 2022
+  Last taught: Spring 2019 (co-taught with [Dr. Naim Rashid](https://naimurashid.github.io/))
 
 ### Online books
 

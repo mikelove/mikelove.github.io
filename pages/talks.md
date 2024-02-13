@@ -10,6 +10,8 @@ title: "Talks"
 * April 2024 - Department of Genetics, Washington University School of Medicine
 * March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
 * February 2024 - Biometric Colloquium, German Region of the International Biometric Society
+* February 2024 - IGVF MPRA Workshop, Luebeck, Germany
+* February 2024 - Department of Statistics, Technische Universität Dortmund
 
 ### Past talks
 

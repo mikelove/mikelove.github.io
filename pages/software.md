@@ -23,6 +23,11 @@ the software on GitHub:
 
 * <https://github.com/thelovelab>
 
+We are also involved in a large collaborative project in Bioconductor
+called `tidyomics`:
+
+* <https://github.com/tidyomics>
+
 **Highly used**
 
 <a class="btn btn-primary"

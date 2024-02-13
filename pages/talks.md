@@ -5,14 +5,15 @@ title: "Talks"
 
 ### Upcoming talks
 
+* August 2024 - Speaking in invited session "Strategies for Cross-Cohort and Bioank Analyses in Precision Medicine", organized by Jean Yang and Katherina Kechris, JSM 2024, Portland, Oregon
 * April 2024 - Genetics, Bioinformatics, and Systems Biology, University of California San Diego
 * April 2024 - Department of Genetics, Washington University School of Medicine
 * March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
 * February 2024 - Biometric Colloquium, German Region of the International Biometric Society
-* November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
 
 ### Past talks
 
+* November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
 * October 2023 - Center for Public Health Genomics, University of Virginia <br/> [Tidy analysis of genomic data](https://github.com/tidyomics/tidy-genomics-talk/blob/main/tidy-genomics-talk.pdf)
 * September 2023 - Biostatistics Department, University of Michigan
 * August 2023 - BioC2023 contributed workshop with Stefano Mangiola <br/> [Tidy genomic and transcriptomic analyses](https://tidyomics.github.io/tidyomicsWorkshopBioc2023)
@@ -34,7 +35,9 @@ title: "Talks"
   [SEESAW: Statistical Estimation Of Allelic Expression Using Salmon And Swish](https://mikelove.github.io/Bioc2022AllelicExpression)
 * March 2022 - ENAR - Statistical Methods for Single-Cell Sequencing Data, invited <br/>
   *Quantification Uncertainty in Single-Cell Expression Data*
-* March 2022 - MRC Integrative Epidemiology Unit, University of Bristol
+* March 2022 - MRC Integrative Epidemiology Unit, University of Bristol <br/>
+  [YouTube ▶](https://www.youtube.com/watch?v=U4IFPc-iQOo) ~ 
+  Gene-to-trait effect estimation with MRLocus
 * December 2021 - Institute for Genome Sciences, UMD Baltimore <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=83na2F_9E7c) ~ 
   Isoform and Allelic Analysis for RNA-seq Data Accounting for Quantification Uncertainty

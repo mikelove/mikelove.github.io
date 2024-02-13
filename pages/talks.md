@@ -62,7 +62,7 @@ title: "Talks"
   [YouTube ▶](https://www.youtube.com/watch?v=FL5GFXeBuvc) ~
   [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc)
 * June 2020 - [BIRS: Mathematical Frameworks for Integrative Analysis
-  of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197). <br>
+  of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197) <br>
   [BIRS ▶](https://www.birs.ca/events/2020/5-day-workshops/20w5197/videos/watch/202006180730-Love.html) ~
   Assessing Consistency of Single Cell Unsupervised Multi-Modal Methods
 * March 2020 - ENAR - Recent advanced and opportunities in large

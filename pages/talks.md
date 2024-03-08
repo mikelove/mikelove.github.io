@@ -8,13 +8,13 @@ title: "Talks"
 * August 2024 - Speaking in invited session "Strategies for Cross-Cohort and Bioank Analyses in Precision Medicine", organized by Jean Yang and Katherina Kechris, JSM 2024, Portland, Oregon
 * April 2024 - Genetics, Bioinformatics, and Systems Biology, University of California San Diego
 * April 2024 - Department of Genetics, Washington University School of Medicine
-* March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
-* February 2024 - Biometric Colloquium, German Region of the International Biometric Society
-* February 2024 - IGVF MPRA Workshop, Luebeck, Germany
-* February 2024 - Department of Statistics, Technische Universität Dortmund
 
 ### Past talks
 
+* March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
+* February 2024 - Biometric Colloquium, German Region of the International Biometric Society
+* February 2024 - IGVF MPRA Workshop, Lübeck, Germany <br/> [Multiple signal eQTL and GWAS loci and MPRA](https://bit.ly/mpra-gwas-lubeck-2024)
+* February 2024 - Department of Statistics, Technische Universität Dortmund
 * November 2023 - [Analysis of RNA sequencing data with R/Bioconductor](https://www.physalia-courses.org/courses-workshops/course19/) (online)
 * October 2023 - Center for Public Health Genomics, University of Virginia <br/> [Tidy analysis of genomic data](https://github.com/tidyomics/tidy-genomics-talk/blob/main/tidy-genomics-talk.pdf)
 * September 2023 - Biostatistics Department, University of Michigan
@@ -23,8 +23,7 @@ title: "Talks"
 * March 2023 - ENAR - Advances in Statistical Methods for
   Cell-Type-Specific Analyses, invited <br/>
   [Cell-Type-Specific Gene Regulation in Human Neural Progenitors and Neuronal Progeny](https://docs.google.com/presentation/d/12GcyOu2PMRrqz1Pn6IwRP6FeNxiAZ4nHlWKivGc-9DQ/edit?usp=sharing)
-* March 2023 - Allelic Imbalance at Isoform Level, Computational
-  Health Department, Helmholtz Zentrum Munchen
+* March 2023 - Computational Health Department, Helmholtz Zentrum Munchen
 * December 2022 - Tidy Genomics Analysis Workshop with [Stefano Mangiola](https://github.com/stemangiola) <br/>
   [YouTube ▶](https://www.youtube.com/watch?v=nXxTGoBJYHM) ~ Tidy Enrichment Analysis and Tidy Transcriptomics <br/>
   Slides and R code: [Tidy Enrichment](https://github.com/tidyomics/tidy-genomics-talk#readme), [Tidy Transcriptomics](https://github.com/tidytranscriptomics-workshops/LoveMangiola2022_tidytranscriptomics)

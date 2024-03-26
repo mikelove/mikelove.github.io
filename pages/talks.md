@@ -11,6 +11,9 @@ title: "Talks"
 
 ### Past talks
 
+* March 2024 - Psychiatric Genomics Consortium (PGC) Worldwide Lab Meeting (WWL) <br/>
+  [Tidyomics - a R/Bioconductor framework for exploratory analysis of genomic data](https://htmlpreview.github.io/?https://github.com/mikelove/cd4-overlaps/blob/main/CATlas/analysis.html) <br/>
+  [YouTube ▶](https://youtu.be/bTnU5FQPIPc?feature=shared&t=1785)
 * March 2024 - Center for Genomic Science Innovation, University of Wisconsin at Madison
 * February 2024 - Biometric Colloquium, German Region of the International Biometric Society
 * February 2024 - IGVF MPRA Workshop, Lübeck, Germany <br/> [Multiple signal eQTL and GWAS loci and MPRA](https://bit.ly/mpra-gwas-lubeck-2024)

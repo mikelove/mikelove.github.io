@@ -14,21 +14,12 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* June 2024 - Mike will be teaching at [CSAMA 2024](https://csama2024.bioconductor.eu/)
+* April 2024 - Isabella successfully defends her senior honors thesis. Congrats Isa!
+* March 2024 - Ji-Eun's statistical model *DiffSig* is published: [doi: 10.1158/1055-9965.EPI-23-0728](https://doi.org/10.1158/1055-9965.EPI-23-0728)
+* January 2024 - Wancen posts *GPlag* preprint: [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
+* January 2024 - Wancen successfully defends her PhD thesis. Congrats Dr. Mu!
 * September 2023 - *Tidyomics* preprint is posted: [doi: 10.1101/2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
-* August 2023 - Mike will give a workshop at BioC2023 on "Tidy genomic and transcriptomic single-cell analyses"
-* July 2023 - Mike starts as Associate Director of the Bioinformatics and Computational Biology (BCB) PhD program at UNC-Chapel Hill
-* July 2023 - Euphy's paper on detecting allelic imbalance at the isoform-level is published: <br/>
-  Euphy Y. Wu, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew Vincent, Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro & Michael I. Love <br/>
-  "SEESAW: detecting isoform-level allelic imbalance accounting for inferential uncertainty" <br/>
-  [doi: 10.1186/s13059-023-03003-x](https://doi.org/10.1186/s13059-023-03003-x)
-* April 2023 - Wancen's *bootRanges* and Eric's *matchRanges* methods published: <br/>
-  Mu *et al.* "bootRanges: flexible generation of null sets of genomic ranges for hypothesis testing" <br/>
-  [doi: 10.1093/bioinformatics/btad190](https://doi.org/10.1093/bioinformatics/btad190) <br/>
-  Davis *et al.* "matchRanges: generating null hypothesis genomic ranges via covariate-matched sampling" <br/>
-  [doi: 10.1093/bioinformatics/btad197](https://doi.org/10.1093/bioinformatics/btad197)
-* February 2023 - Ji-Eun's preprint, *Diffsig*, a
-  method for associating risk factors with mutational signatures: <br/>
-  [doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
 
 ### Research
 
@@ -72,6 +63,25 @@ in molecular and cellular phenotypes.
   data. See the [Software](pages/software.html) tab for more details.
 
 ### Past news items
+
+2023
+
+* Mike starts as Associate Director of the Bioinformatics and Computational Biology 
+  (BCB) PhD program at UNC-Chapel Hill
+* Euphy's paper on detecting allelic imbalance at the isoform-level is published: <br/>
+  Euphy Y. Wu, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew Vincent, 
+  Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro & Michael I. Love <br/>
+  "SEESAW: detecting isoform-level allelic imbalance accounting for inferential uncertainty" <br/>
+  [doi: 10.1186/s13059-023-03003-x](https://doi.org/10.1186/s13059-023-03003-x)
+* Wancen's *bootRanges* and Eric's *matchRanges* methods published: <br/>
+  Mu *et al.* "bootRanges: flexible generation of null sets of genomic ranges for hypothesis testing" <br/>
+  [doi: 10.1093/bioinformatics/btad190](https://doi.org/10.1093/bioinformatics/btad190) <br/>
+  Davis *et al.* "matchRanges: generating null hypothesis genomic ranges via covariate-matched sampling" <br/>
+  [doi: 10.1093/bioinformatics/btad197](https://doi.org/10.1093/bioinformatics/btad197)
+* Ji-Eun's preprint, *Diffsig*, a
+  method for associating risk factors with mutational signatures: <br/>
+  [doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
+
 
 2022
 

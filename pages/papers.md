@@ -14,6 +14,11 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Wancen Mu**, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
+Gaussian Processes for Time Series with Lead-Lag Effects with applications to biology data.
+*arXiv*, January 2024.
+[doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
+
 William J Hutchison, Timothy J Keyes, Helena L Crowell, Charlotte Soneson, **Wancen Mu**, **Ji-Eun Park**, Eric S Davis, Abdullah A Nahid, Ming Tang, Victor Yuan, Pierre-Paul Axisa, Jonathan W Kitt, Chi-Lam Poon, Noriaki Sato, Raphael Gottardo, Martin Morgan, Stuart Lee, Michael Lawrence, Stephanie C Hicks, Garry P Nolan, Kara L Davis, Anthony T Papenfuss, **Michael I Love**, Stefano Mangiola.
 The tidyomics ecosystem: Enhancing omic data analyses.
 *bioRxiv*, September 2023.
@@ -36,6 +41,11 @@ SEESAW: detecting isoform-level allelic imbalance accounting for inferential unc
 
 * `SEESAW` in [fishpond](https://mikelove.github.io/fishpond)
 R/Bioconductor package
+
+Noor Pratap Singh, **Michael I. Love**, and Rob Patro.
+TreeTerminus —creating transcript trees using inferential replicate counts.
+*iScience*, June 2023.
+[doi: 10.1016/j.isci.2023.106961](https://doi.org/10.1016/j.isci.2023.106961)
 
 **Wancen Mu**, Eric Davis, Stuart Lee, Mikhail Dozmorov, Douglas
 H. Phanstiel, **Michael I. Love**.

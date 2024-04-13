@@ -41,15 +41,13 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topics | Position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
-| Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci; <br> Uncertainty propagation in differential analysis  | PI | <img width="100" src="../assets/michaellove.jpg"> |
+| Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci | PI | <img width="100" src="../assets/michaellove.jpg"> |
 | Jon Rosen | Functional interrogation of GWAS variants; <br> Variant selection and MPRA analysis within IGVF; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html); <br> Co-supervised with Naim Rashid | PhD candidate | <img width="100" src="../assets/euphywu.jpg"> |
-| [Wancen Mu](https://wancen.github.io/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | PhD candidate | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | [Rachel Sharp](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Neuropsychiatric GWAS variants, GxE | PhD candidate | <img width="100" src="../assets/rachelsharp.jpg"> |
 | Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 | [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Long-read RNA-seq methods | Rotation student | <img width="100" src="../assets/justinlandis.jpg"> |
-| [Isabella Gamez](https://www.linkedin.com/in/isabella-gamez-3766a01b5) | Bacterial RNA-seq - Rita Tamayo lab | Senior honors student | <img width="100" src="../assets/isabellagamez.jpg"> |
 
 ## Alumni
 
@@ -57,6 +55,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
+| [Wancen Mu](https://wancen.github.io/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Sarah Reifeis](https://scholar.google.com/citations?user=f4mwC_0AAAAJ&hl=en) [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | [Scott Van Buren](https://scholar.google.com/citations?user=tq0VCBcAAAAJ&hl=en) | scRNA-seq quantification uncertainty | Harvard FAS Informatics | <img width="100" src="../assets/scottvanburen.jpg"> |
 | [Achal Patel](https://www.linkedin.com/in/achal-patel-166733202?original_referer=https%3A%2F%2Fwww.google.com%2F) <br> [@pateap07](https://twitter.com/pateap07) | Breast cancer TWAS | Genentech | <img width="100" src="../assets/achalpatel.jpg"> |
@@ -68,6 +67,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
+| [Isabella Gamez](https://www.linkedin.com/in/isabella-gamez-3766a01b5) | Bacterial RNA-seq - Rita Tamayo lab | NIEHS post-bac | <img width="100" src="../assets/isabellagamez.jpg"> |
 | [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BCB | <img width="100" src="../assets/kwameforbes.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
 
@@ -90,4 +90,4 @@ For software support, please post to [Bioconductor support site](https://support
 | [Dongze He](https://combine-lab.github.io/members/dongze-he.html) <br> [@dongzehe](https://twitter.com/dongzehe) | Single-cell RNA-seq | UMD (Patro) | <img width="100" src="../assets/dongzehe.jpg"> |
 | [Avi Srivastava](https://k3yavi.github.io/) <br> [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quant. | SBU (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
 | [Hirak Sarkar](https://hiraksarkar.github.io/) <br> [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | UMD (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
-| [Stuart Lee](https://stuartlee.org/) <br> [@_stuartlee](https://twitter.com/_stuartlee) | Human-centred data science, <br> tidy range operations | Monash University | <img width="100" src="../assets/stuartlee.jpg"> |
+| [Stuart Lee](https://stuartlee.org/) <br> [@_stuartlee](https://twitter.com/_stuartlee) | Human-centred data science, <br> tidy range operations | Melbourne | <img width="100" src="../assets/stuartlee.jpg"> |

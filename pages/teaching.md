@@ -5,10 +5,15 @@ title: "Teaching"
 
 ### Courses
 
+**Current courses:**
+
 * [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
-  Fall 2024, 1:25-2:40 MoWe
+  Fall 2024, 1:25-2:40 MoWe, Aug 19 -- Dec 4
 * [BCB 724 - Data Communication](https://biodatascience.github.io/datacomm),
-  Fall 2023, 11:00-12:15 TuTh, Nov 2,7,9,14,16,21,28,30 and Dec 5
+  Fall 2024, 2:00-3:15 TuTh, Early Nov -- Dec 3
+
+**Previous courses:**
+
 * [BIOS 735 - Introduction to Statistical Computing](http://biodatascience.github.io/statcomp),
   Last taught: Spring 2019 (co-taught with [Dr. Naim Rashid](https://naimurashid.github.io/))
 

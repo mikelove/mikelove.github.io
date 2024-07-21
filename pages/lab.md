@@ -31,7 +31,8 @@ Associate Director - [Bioinformatics and Computational Biology (BCB) PhD program
 [Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ~
 [Curriculum Vitae](../assets/michael_love_cv.pdf)<br>
 <a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a> ~
-@mikelove.bsky.social
+[@mikelove.bsky.social](https://bsky.app/profile/mikelove.bsky.social) ~ 
+[linkedin](https://www.linkedin.com/in/michael-love-b7b0542)
 
 Email: michaelisaiahlove [at] gmail / love [at] unc.edu
 

@@ -14,6 +14,13 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
+Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome-Dependent Sampling Design. 
+*American Journal of Epidemiology* July 2024.
+[10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212),
+*medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
+
+
 **Wancen Mu**, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
 Gaussian Processes for Time Series with Lead-Lag Effects with applications to biology data.
 *arXiv*, January 2024.
@@ -75,13 +82,6 @@ Diffsig: Associating Risk Factors With Mutational Signatures.
 [doi: 10.1101/2023.02.09.527740](https://doi.org/10.1101/2023.02.09.527740)
 
 * [diffsig](https://github.com/jennprk/diffsig) R package
-
-**Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester,
-**Michael I. Love**.
-Assessing Etiologic Heterogeneity for Multinomial Outcome with
-Two-Phase Outcome-Dependent Sampling Design. 
-*medRxiv* July 2022.
-[doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 
 **Wancen Mu**, Hirak Sarkar, Avi Srivastava, Kwangbom Choi, Rob Patro,
 **Michael I. Love**.

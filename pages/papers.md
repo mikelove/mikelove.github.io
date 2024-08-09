@@ -14,12 +14,16 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar
+Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
+*bioRxiv*, August 2024.
+[doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
+
 **Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
 Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome-Dependent Sampling Design. 
 *American Journal of Epidemiology* July 2024.
 [10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212),
 *medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
-
 
 **Wancen Mu**, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
 Gaussian Processes for Time Series with Lead-Lag Effects with applications to biology data.

@@ -14,7 +14,8 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
-* June 2024 - Mike will be teaching at [CSAMA 2024](https://csama2024.bioconductor.eu/)
+* August 2024 - Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
+* May 2024 - Justin Landis joins the Love lab as a BCB PhD candidate
 * April 2024 - Isabella successfully defends her senior honors thesis. Congrats Isa!
 * March 2024 - Ji-Eun's statistical model *DiffSig* is published: [doi: 10.1158/1055-9965.EPI-23-0728](https://doi.org/10.1158/1055-9965.EPI-23-0728)
 * January 2024 - Wancen posts *GPlag* preprint: [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)

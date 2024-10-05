@@ -3,14 +3,9 @@ layout: page
 title: "Talks"
 ---
 
-### Upcoming talks
-
-* August 2024 - Speaking in invited session "Strategies for Cross-Cohort and Bioank Analyses in Precision Medicine", organized by Jean Yang and Katherina Kechris, JSM 2024, Portland, Oregon
+* August 2024 - "Strategies for Cross-Cohort and Bioank Analyses in Precision Medicine", organized by Jean Yang and Katherina Kechris, JSM 2024, Portland, Oregon
 * April 2024 - Genetics, Bioinformatics, and Systems Biology, University of California San Diego
 * April 2024 - Department of Genetics, Washington University School of Medicine
-
-### Past talks
-
 * March 2024 - Psychiatric Genomics Consortium (PGC) Worldwide Lab Meeting (WWL) <br/>
   [Tidyomics - a R/Bioconductor framework for exploratory analysis of genomic data](https://htmlpreview.github.io/?https://github.com/mikelove/cd4-overlaps/blob/main/CATlas/analysis.html) <br/>
   [YouTube ▶](https://youtu.be/bTnU5FQPIPc?feature=shared&t=1785)

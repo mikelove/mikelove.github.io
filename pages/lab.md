@@ -43,9 +43,8 @@ For software support, please post to [Bioconductor support site](https://support
 | Name | Research topics | Position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- |
 | Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci | PI | <img width="100" src="../assets/michaellove.jpg"> |
-| Jon Rosen | Functional interrogation of GWAS variants; <br> MPRA library design and analysis in IGVF and AMP-CMD; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Post-doctoral | <img width="100" src="../assets/jonrosen.jpg"> |
+| Jon Rosen | Functional interrogation of GWAS variants; <br> MPRA library design and analysis in IGVF and AMP-CMD; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Postdoctoral fellow | <img width="100" src="../assets/jonrosen.jpg"> |
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html); <br> Co-supervised with Naim Rashid | PhD candidate (Bios) | <img width="100" src="../assets/euphywu.jpg"> |
-| [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer; <br> Co-supervised with Di Wu | PhD candidate (Bios) | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | [Rachel Sharp](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Neuropsychiatric GWAS variants, GxE | PhD candidate (Neuro/BCB) | <img width="100" src="../assets/rachelsharp.jpg"> |
 | Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate (BCB) | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 | [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Long-read RNA-seq methods | PhD candidate (BCB) | <img width="100" src="../assets/justinlandis.jpg"> |
@@ -56,6 +55,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
+| [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer | Dana Farber Cancer Institute | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | [Wancen Mu](https://wancen.github.io/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | Celonis | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Sarah Reifeis](https://www.linkedin.com/in/sarah-reifeis-phd-5943b1157/) [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | [Scott Van Buren](https://www.linkedin.com/in/scottvanburen/) | scRNA-seq quantification uncertainty | GSK | <img width="100" src="../assets/scottvanburen.jpg"> |

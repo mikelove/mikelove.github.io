@@ -100,6 +100,26 @@ role="button">usage stats</a>
 **Newly developed**
 
 <a class="btn btn-primary"
+href="https://jtlandis.github.io/plyxp/"
+role="button">plyxp</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/plyxp.svg">
+
+* Bioconductor package that provides efficient abstractions to the
+  SummarizedExperiment such that using common dplyr functions feels as natural
+  to operating on a data.frame or tibble. Part of the tidyomics project.
+  Funding provided by Wellcome Trust -- EOSS award.
+
+<a class="btn btn-primary"
+href="https://yharigaya.github.io/classifygxt/index.html"
+role="button">classifygxt</a>
+<img width="100" src="../assets/gh.png">
+
+* R package for classifying gene-by-treatment (GxT) interactions using Bayesian
+  model selection (BMS). The method is primarily designed for molecular count
+  phenotypes, such as gene expression and chromatin accessibility.
+  Developed by Yuriko Harigaya, co-supervised by Will Valdar.
+
+<a class="btn btn-primary"
 href="https://github.com/jennprk/diffsig"
 role="button">diffsig</a>
 <img width="100" src="../assets/gh.png">
@@ -121,7 +141,7 @@ role="button">nullranges</a>
   ranges that are matched across one or more covariates. 
   Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
   Contributions from other Bioconductor developers as well.
-  Funding provided by CZI EOSS award.
+  Funding provided by CZI -- EOSS award.
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/airpart"

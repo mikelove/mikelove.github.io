@@ -12,9 +12,15 @@ Biostatistics Department ~
 UNC-Chapel Hill ~ 
 see [lab members](pages/lab.html) for contact details.
 
+The Love Lab on GitHub:
+
+* <https://github.com/thelovelab/>
+
 ### News
 
-* August 2024 - Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
+* October 2024 - Justin's first R package *plyxp* is released on Bioconductor <https://github.com/jtlandis/plyxp>
+* August 2024 - Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142), with associated software <https://github.com/yharigaya/classifygxt>
+* July 2024 - Ji-Eun successfully defends her PhD thesis. Congrats Dr Park!
 * May 2024 - Justin Landis joins the Love lab as a BCB PhD candidate
 * April 2024 - Isabella successfully defends her senior honors thesis. Congrats Isa!
 * March 2024 - Ji-Eun's statistical model *DiffSig* is published: [doi: 10.1158/1055-9965.EPI-23-0728](https://doi.org/10.1158/1055-9965.EPI-23-0728)

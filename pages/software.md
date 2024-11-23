@@ -5,13 +5,14 @@ title: "Software"
 
 ### Maintained by the Love Lab
 
-<img width="90" src="../assets/DESeq2.png">
-<img width="90" src="../assets/tximport.png">
-<img width="90" src="../assets/tximeta.png">
-<img width="90" src="../assets/apeglm.png">
-<img width="90" src="../assets/fishpond.png">
-<img width="90" src="../assets/airpart.png">
-<img width="90" src="../assets/nullranges.png">
+<img width="140" src="../assets/DESeq2.png">
+<img width="140" src="../assets/tximport.png">
+<img width="140" src="../assets/tximeta.png">
+<img width="140" src="../assets/apeglm.png">
+<img width="140" src="../assets/fishpond.png">
+<img width="140" src="../assets/airpart.png">
+<img width="140" src="../assets/nullranges.png">
+<img width="140" src="../assets/plyxp.png">
 
 <br>
 
@@ -143,18 +144,6 @@ role="button">nullranges</a>
   Contributions from other Bioconductor developers as well.
   Funding provided by CZI -- EOSS award.
 
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/airpart"
-role="button">airpart</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/airpart.svg">
-
-* Identification of differential cell-type-specific allelic imbalance
-  across cell types or states, utilizing single-cell allelic counts.
-  Provides partitioning of cell types by allelic signal using
-  generalized fused lasso, plus many EDA and QC plotting functions.
-  Developed by Wancen Mu, in collaboration with the Patro group
-  (UMD) and KB Choi (JAX).
-
 ---
 
 **Research packages**
@@ -169,6 +158,18 @@ role="button">MRLocus</a>
   containing multiple LD-independent eQTLs.
   Developed in collaboration with Anqi Zhu, Nana Matoba, and Jason
   Stein (UNC-CH).
+
+<a class="btn btn-primary"
+href="https://bioconductor.org/packages/airpart"
+role="button">airpart</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/airpart.svg">
+
+* Identification of differential cell-type-specific allelic imbalance
+  across cell types or states, utilizing single-cell allelic counts.
+  Provides partitioning of cell types by allelic signal using
+  generalized fused lasso, plus many EDA and QC plotting functions.
+  Developed by Wancen Mu, in collaboration with the Patro group
+  (UMD) and KB Choi (JAX).
 
 <a class="btn btn-primary"
 href="https://bhattacharya-a-bt.github.io/DeCompress"
@@ -190,26 +191,19 @@ role="button">MOSTWAS</a>
   summary statistics.
   Developed by Arjun Bhattacharya (UNC-CH).
 
-<a class="btn btn-primary"
-href="https://github.com/mccabes292/actor"
-role="button">actor</a>
-<img width="100" src="../assets/gh.png">
+---
 
-* A latent Dirichlet model with Dirichlet Multinomial observations to
-  compare expressed isoform proportions in a dataset to an independent
-  reference panel. Developed by Sean McCabe (UNC-CH),
-  collaboration with Andrew Nobel (STOR, UNC-CH).
+### Maintainer
 
 <a class="btn btn-primary"
-href="https://github.com/mccabes292/movie"
-role="button">movie</a>
-<img width="100" src="../assets/gh.png">
+href="https://bioconductor.org/packages/plyranges"
+role="button">plyranges</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/plyranges.svg">
 
-* A framework for evaluating variance classification methods using
-  multi-omics data. Using data segmentation, this framework aims to
-  identify the consistency and the extent of overfitting of
-  multi-omics methods. Developed by Sean McCabe (UNC-CH),
-  collaboration with Dan-Yu Lin (UNC-CH).
+* A consistent interface for importing and wrangling genomics data from a
+  variety of sources. The package defines a grammar of genomic data
+  transformation based on dplyr and GenomicRanges. Developed by Stuart Lee, Di
+  Cook, and Michael Lawrence. Maintained by Love Lab from 2024.
 
 ---
 

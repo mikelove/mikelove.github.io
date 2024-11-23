@@ -111,7 +111,7 @@ role="button">plyxp</a>
   Funding provided by Wellcome Trust -- EOSS award.
 
 <a class="btn btn-primary"
-href="https://yharigaya.github.io/classifygxt/index.html"
+href="https://yharigaya.github.io/classifygxt"
 role="button">classifygxt</a>
 <img width="100" src="../assets/gh.png">
 

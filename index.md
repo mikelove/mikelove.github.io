@@ -12,10 +12,6 @@ Biostatistics Department ~
 UNC-Chapel Hill ~ 
 see [lab members](pages/lab.html) for contact details.
 
-The Love Lab on GitHub:
-
-* <https://github.com/thelovelab/>
-
 ### News
 
 * October 2024 - Justin's first R package *plyxp* is released on Bioconductor <https://github.com/jtlandis/plyxp>

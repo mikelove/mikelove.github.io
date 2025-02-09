@@ -16,7 +16,7 @@ contributions from members of the lab.
 
 **Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
-*bioRxiv*, August 2024.
+Accepted at *PLOS Genetics*. January 2025. Preprint:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
 
 **Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
@@ -25,9 +25,9 @@ Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome
 [10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212),
 *medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 
-**Wancen Mu**, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
-Gaussian Processes for Time Series with Lead-Lag Effects with applications to biology data.
-*arXiv*, January 2024.
+**Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
+Gaussian Processes for Time Series with Lead-Lag Effects with Applications to Biology Data
+Accepted at *Biometrics*. December 2024. Preprint:
 [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
 
 William J Hutchison, Timothy J Keyes, Helena L Crowell, Charlotte Soneson, **Wancen Mu**, **Ji-Eun Park**, Eric S Davis, Abdullah A Nahid, Ming Tang, Victor Yuan, Pierre-Paul Axisa, Jonathan W Kitt, Chi-Lam Poon, Noriaki Sato, Raphael Gottardo, Martin Morgan, Stuart Lee, Michael Lawrence, Stephanie C Hicks, Garry P Nolan, Kara L Davis, Anthony T Papenfuss, **Michael I Love**, Stefano Mangiola.

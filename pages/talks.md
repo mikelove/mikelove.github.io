@@ -3,6 +3,7 @@ layout: page
 title: "Talks"
 ---
 
+* April 10, 2025 - University of Chicago, Department of Human Genetics
 * January 27, 2025 - Duke Computational Biology and Bioinformatics <br/>
   [Tidyomics: enabling tidy data analysis workflows for complex biological data](https://tidyomics.github.io/tidy-intro-talk) -- [qmd source](https://github.com/tidyomics/tidy-intro-talk)
 * August 2024 - "Strategies for Cross-Cohort and Bioank Analyses in Precision Medicine", organized by Jean Yang and Katherina Kechris, JSM 2024, Portland, Oregon

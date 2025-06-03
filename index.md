@@ -14,6 +14,8 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* June 2025 - Beatriz Campillo Miñano joins the lab as a BCB PhD candidate
+* April 2025 - Yuriko's first paper from the lab *ClassifyGxT* is published: [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
 * December 2024 - Euphy successfully defends her PhD thesis. Congrats Dr. Wu!
 * October 2024 - Justin's first R package *plyxp* is released on Bioconductor <https://github.com/jtlandis/plyxp>
 * August 2024 - Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142), with associated software <https://github.com/yharigaya/classifygxt>

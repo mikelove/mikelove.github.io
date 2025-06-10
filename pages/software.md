@@ -12,6 +12,7 @@ title: "Software"
 <img width="140" src="../assets/nullranges.png">
 <img width="140" src="../assets/plyxp.png">
 <img width="140" src="../assets/tidyomics.png">
+<img width="140" src="../assets/rigvf.png">
 
 <br>
 
@@ -118,6 +119,13 @@ role="button">classifygxt</a>
   model selection (BMS). The method is primarily designed for molecular count
   phenotypes, such as gene expression and chromatin accessibility.
   Developed by Yuriko Harigaya, co-supervised by Will Valdar.
+
+<a class="btn btn-primary"
+href="https://IGVF.github.io/rigvf"
+role="button">rigvf</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/rigvf.svg">
+
+* Bioconductor package that provides an interface to the IGVF Catalog data.
 
 <a class="btn btn-primary"
 href="https://github.com/jennprk/diffsig"

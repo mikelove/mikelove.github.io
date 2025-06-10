@@ -47,6 +47,7 @@ For software support, please post to [Bioconductor support site](https://support
 | [Rachel Sharp](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Neuropsychiatric GWAS variants, GxE | PhD candidate (Neuro/BCB) | <img width="100" src="../assets/rachelsharp.jpg"> |
 | Yuriko Harigaya | Statistical methods for response QTL <br> Co-supervised with William Valdar | PhD candidate (BCB) | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 | [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Long-read RNA-seq methods | PhD candidate (BCB) | <img width="100" src="../assets/justinlandis.jpg"> |
+| [Beatriz Campillo Miñano](https://www.linkedin.com/in/beatriz-campillo-mi%C3%B1ano-586bb486/) | Long-read RNA-seq methods | PhD candidate (BCB) | <img width="100" src="../assets/beatrizcampillominano.jpg"> |
 
 ## Alumni
 

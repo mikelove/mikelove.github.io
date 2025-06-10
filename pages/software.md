@@ -3,8 +3,6 @@ layout: page
 title: "Software"
 ---
 
-### Maintained by the Love Lab
-
 <img width="140" src="../assets/DESeq2.png">
 <img width="140" src="../assets/tximport.png">
 <img width="140" src="../assets/tximeta.png">
@@ -13,6 +11,7 @@ title: "Software"
 <img width="140" src="../assets/airpart.png">
 <img width="140" src="../assets/nullranges.png">
 <img width="140" src="../assets/plyxp.png">
+<img width="140" src="../assets/tidyomics.png">
 
 <br>
 

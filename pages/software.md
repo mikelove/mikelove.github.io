@@ -3,22 +3,19 @@ layout: page
 title: "Software"
 ---
 
-<img width="140" src="../assets/DESeq2.png">
-<img width="140" src="../assets/tximport.png">
-<img width="140" src="../assets/tximeta.png">
-<img width="140" src="../assets/apeglm.png">
-
-<img width="140" src="../assets/fishpond.png">
-<img width="140" src="../assets/airpart.png">
-<img width="140" src="../assets/ClassifyGxT.png">
-<img width="140" src="../assets/TopLD.png">
-
-<img width="140" src="../assets/tidyomics.png">
-<img width="140" src="../assets/plyxp.png">
-<img width="140" src="../assets/SPLain.png">
-<img width="140" src="../assets/nullranges.png">
-
-<img width="140" src="../assets/rigvf.png">
+<img width="125" src="../assets/DESeq2.png">
+<img width="125" src="../assets/tximport.png">
+<img width="125" src="../assets/tximeta.png">
+<img width="125" src="../assets/apeglm.png">
+<img width="125" src="../assets/fishpond.png">
+<img width="125" src="../assets/airpart.png">
+<img width="125" src="../assets/ClassifyGxT.png">
+<img width="125" src="../assets/TopLD.png">
+<img width="125" src="../assets/tidyomics.png">
+<img width="125" src="../assets/plyxp.png">
+<img width="125" src="../assets/SPLain.png">
+<img width="125" src="../assets/nullranges.png">
+<img width="125" src="../assets/rigvf.png">
 
 <br>
 

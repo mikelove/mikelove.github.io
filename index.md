@@ -14,18 +14,10 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham
+* August 2025 - Jon Rosen's paper on [eQTL power and colocalization](https://www.biorxiv.org/content/10.1101/2025.08.05.668745v1) is preprinted
 * June 2025 - Beatriz Campillo Miñano joins the lab as a BCB PhD candidate
 * April 2025 - Yuriko's first paper from the lab *ClassifyGxT* is published: [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
-* December 2024 - Euphy successfully defends her PhD thesis. Congrats Dr. Wu!
-* October 2024 - Justin's first R package *plyxp* is released on Bioconductor <https://github.com/jtlandis/plyxp>
-* August 2024 - Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142), with associated software <https://github.com/yharigaya/classifygxt>
-* July 2024 - Ji-Eun successfully defends her PhD thesis. Congrats Dr Park!
-* May 2024 - Justin Landis joins the Love lab as a BCB PhD candidate
-* April 2024 - Isabella successfully defends her senior honors thesis. Congrats Isa!
-* March 2024 - Ji-Eun's statistical model *DiffSig* is published: [doi: 10.1158/1055-9965.EPI-23-0728](https://doi.org/10.1158/1055-9965.EPI-23-0728)
-* January 2024 - Wancen posts *GPlag* preprint: [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
-* January 2024 - Wancen successfully defends her PhD thesis. Congrats Dr. Mu!
-* September 2023 - *Tidyomics* preprint is posted: [doi: 10.1101/2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
 
 ### Research
 
@@ -37,17 +29,19 @@ At UNC-Chapel Hill, we often collaborate with groups in the
 studying how genetic variants relevant to diseases are associated with changes
 in molecular and cellular phenotypes.
 
+* We collaborate with the [Patro lab](http://www.robpatro.com/) in the
+  development of computational and statistical methods for
+  quantification of RNA transcript abundance, including the software
+  packages [Salmon](https://github.com/COMBINE-lab/salmon) for short read
+  RNA-seq, [oarfish](https://github.com/COMBINE-lab/oarfish) for long read RNA-seq and
+  [tximeta](https://github.com/thelovelab/tximeta) for import of
+  data into R/Biconductor.
 * We collaborate with the 
   [Won lab](https://www.wonlab.org/) and the 
   [Mohlke lab](https://mohlke.web.unc.edu/) as part of
   the IGVF consortium, studying the effect of disease-associated GWAS
   variants via *in vivo* massively parallel reporter assays (MPRA) to
   assess tissue-, sex-, and treatment-specific allelic effects.
-* We collaborate with the [Patro lab](http://www.robpatro.com/) in the
-  development of computational and statistical methods for
-  quantification of RNA transcript abundance, including the software
-  packages [Salmon](https://combine-lab.github.io/salmon/)
-  and [tximeta](https://bioconductor.org/packages/tximeta).
 * We collaborate with the [Stein lab](https://steinlab.org) in the
   study of genetic risk for neuropsychiatric disorders, leveraging
   data from molecular assays of chromatin accessibility and the
@@ -70,10 +64,23 @@ in molecular and cellular phenotypes.
 
 ### Past news items
 
+2024
+
+* Euphy successfully defends her PhD thesis. Congrats Dr. Wu!
+* Justin's first R package *plyxp* is released on Bioconductor <https://github.com/jtlandis/plyxp>
+* Yuriko's first preprint from the lab: *ClassifyGxT* [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142), with associated software <https://github.com/yharigaya/classifygxt>
+* Ji-Eun successfully defends her PhD thesis. Congrats Dr Park!
+* Justin Landis joins the Love lab as a BCB PhD candidate
+* Isabella successfully defends her senior honors thesis. Congrats Isa!
+* Ji-Eun's statistical model *DiffSig* is published: [doi: 10.1158/1055-9965.EPI-23-0728](https://doi.org/10.1158/1055-9965.EPI-23-0728)
+* Wancen posts *GPlag* preprint: [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
+* Wancen successfully defends her PhD thesis. Congrats Dr. Mu!
+
 2023
 
 * Mike starts as Associate Director of the Bioinformatics and Computational Biology 
   (BCB) PhD program at UNC-Chapel Hill
+* *Tidyomics* preprint is posted: [doi: 10.1101/2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
 * Euphy's paper on detecting allelic imbalance at the isoform-level is published: <br/>
   Euphy Y. Wu, Noor P. Singh, Kwangbom Choi, Mohsen Zakeri, Matthew Vincent, 
   Gary A. Churchill, Cheryl L. Ackert-Bicknell, Rob Patro & Michael I. Love <br/>

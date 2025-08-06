@@ -14,7 +14,12 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
-**Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar
+**Jonathan D Rosen**, K Alaine Broadaway, Sarah M Brotman, Karen L Mohlke, **Michael I Love**.
+Higher eQTL power reveals signals that boost GWAS colocalization.
+*bioRxiv* August 2025.
+[doi: 10.1101/2025.08.05.668745](https://doi.org/10.1101/2025.08.05.668745)
+
+**Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar.
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
 Accepted at *PLOS Genetics*. January 2025. Preprint:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)

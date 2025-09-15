@@ -55,7 +55,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html) | | <img width="100" src="../assets/euphywu.jpg"> |
+| [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html) | Institute for Trauma Recover | <img width="100" src="../assets/euphywu.jpg"> |
 | [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer | Dana Farber Cancer Institute | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | [Wancen Mu](https://www.linkedin.com/in/wancen-mu/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | Meta | <img width="100" src="../assets/wancenmu.jpg"> |
 | [Sarah Reifeis](https://www.linkedin.com/in/sarah-reifeis-phd-5943b1157/) [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects with confounding | Eli Lilly | <img width="100" src="../assets/sarahreifeis.jpg"> |
@@ -69,8 +69,8 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| [Isabella Gamez](https://www.linkedin.com/in/isabella-gamez-3766a01b5) | Bacterial RNA-seq - Rita Tamayo lab | NIEHS post-bac | <img width="100" src="../assets/isabellagamez.jpg"> |
-| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BCB | <img width="100" src="../assets/kwameforbes.jpg"> |
+| [Isabella Gamez](https://www.linkedin.com/in/isabella-gamez-3766a01b5) | Bacterial RNA-seq - Rita Tamayo lab | Microbial Disease Epidemiology, Yale | <img width="100" src="../assets/isabellagamez.jpg"> |
+| [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BCB, Dominguez and Aleman labs | <img width="100" src="../assets/kwameforbes.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
 
 ## Collaborators

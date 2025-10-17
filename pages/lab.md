@@ -73,14 +73,6 @@ For software support, please post to [Bioconductor support site](https://support
 | [Kwame Forbes](https://kwameforbes.github.io/) [@kwame_forbes](https://twitter.com/kwame_forbes) | Integration of single cell expression data for exploration of bulk DE analysis | UNC BCB, Dominguez and Aleman labs | <img width="100" src="../assets/kwameforbes.jpg"> |
 | Alexandre Lockhart | Identification of mutational signatures via targeted sequencing | Rho Inc. | <img width="100" src="../assets/alexlockhart.jpg"> |
 
-## Collaborators
-
-| Name | Research topic | <font color="#EEEEEE">~~~~~~~~~~</font> |
-| :--- | :---- | :---- | :---- |
-| Amanda Tapia | Colocalization of QTL and GWAS | <img width="100" src="../assets/amandatapia.jpg"> |
-| Joshua Zitovsky | Fast implementation of *apeglm* for allelic expression ratios | <img width="100" src="../assets/joshuazitovsky.jpg"> | 
-
-
 ## Friends of the lab
 
 (Current or former students from other labs that have contributed to Love Lab research)

@@ -87,9 +87,10 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | School (lab) | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
-| [Anna A. Monaco](https://de.linkedin.com/in/anna-alessandra-monaco-a01623141) <br> [@AnnaAMonaco](https://twitter.com/AnnaAMonaco) | Molecular Biology/Genetics/Evo-Devo | Robert Zinzen (Berlin) | <img width="100" src="../assets/annaamonaco.jpg"> |
-| [Noor P. Singh](https://noorpratap.netlify.app/) <br> [@pratapnoor](https://twitter.com/pratapnoor) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |
-| [Dongze He](https://combine-lab.github.io/members/dongze-he.html) <br> [@dongzehe](https://twitter.com/dongzehe) | Single-cell RNA-seq | UMD (Patro) | <img width="100" src="../assets/dongzehe.jpg"> |
-| [Avi Srivastava](https://k3yavi.github.io/) <br> [@k3yavi](https://twitter.com/k3yavi) | Fast mapping, scRNA-seq quant. | SBU (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
-| [Hirak Sarkar](https://hiraksarkar.github.io/) <br> [@hiraksarkar](https://twitter.com/hiraksarkar) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | UMD (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
-| [Stuart Lee](https://stuartlee.org/) <br> [@_stuartlee](https://twitter.com/_stuartlee) | Human-centred data science, <br> tidy range operations | Melbourne | <img width="100" src="../assets/stuartlee.jpg"> |
+| [Pierre-Paul Axisa](https://github.com/ppaxisa) | Tidyomics developer | Novo Nordisk Foundation Center | <img width="100" src="../assets/pierrepaulaxisa.jpg"> |
+| [Anna A. Monaco](https://de.linkedin.com/in/anna-alessandra-monaco-a01623141) | Molecular Biology/Genetics/Evo-Devo | Robert Zinzen (Berlin) | <img width="100" src="../assets/annaamonaco.jpg"> |
+| [Noor P. Singh](https://noorpratap.netlify.app/) | Statistical methods for RNA-seq | UMD (Patro) | <img width="100" src="../assets/noorpratapsingh.jpg"> |
+| [Dongze He](https://combine-lab.github.io/members/dongze-he.html) | Single-cell RNA-seq | UMD (Patro) | <img width="100" src="../assets/dongzehe.jpg"> |
+| [Avi Srivastava](https://k3yavi.github.io/) | Fast mapping, scRNA-seq quant. | SBU (Patro) | <img width="100" src="../assets/avisrivastava.jpg"> |
+| [Hirak Sarkar](https://hiraksarkar.github.io/) | Selective alignment, <br> scRNA-seq simulation, <br> transcript grouping | UMD (Patro) | <img width="100" src="../assets/hiraksarkar.jpg"> |
+| [Stuart Lee](https://stuartlee.org/) | Human-centred data science, <br> tidy range operations | Melbourne | <img width="100" src="../assets/stuartlee.jpg"> |

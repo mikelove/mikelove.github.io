@@ -3,6 +3,12 @@ layout: page
 title: "Talks"
 ---
 
+* 
+* December 3, 2025 - Invited talk, CHARGE Consortium
+* November 6, 2025 - Centre for Computational Biomedicine, Perelman School of Medicine, UPenn
+* August 8, 2025 - *Introduction to tidyomics* workshop, UseR!, Durham, NC
+* July 22, 2025 - *Estimating gene-to-trait effects leveraging gene expression studies*, UBDS^3, Uzhhorod National University
+* June 3, 2025 - Genomic Methods Seminar, Channing Division of Network Medicine, Harvard Medical School
 * April 10, 2025 - University of Chicago, Department of Human Genetics
 * January 27, 2025 - Duke Computational Biology and Bioinformatics <br/>
   [Tidyomics: enabling tidy data analysis workflows for complex biological data](https://tidyomics.github.io/tidy-intro-talk) -- [qmd source](https://github.com/tidyomics/tidy-intro-talk)

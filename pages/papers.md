@@ -26,13 +26,13 @@ Accepted at *PLOS Genetics*. January 2025. Preprint:
 
 **Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
 Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome-Dependent Sampling Design. 
-*American Journal of Epidemiology* July 2024.
+*American Journal of Epidemiology*. July 2024.
 [10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212),
 *medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 
 **Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
-Gaussian Processes for Time Series with Lead-Lag Effects with Applications to Biology Data
-*Biometrics*. 2025. Preprint:
+Gaussian Processes for Time Series with Lead-Lag Effects with Applications to Biology Data.
+*Biometrics*. March 2025. Preprint:
 [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400), 
 Journal: [doi: 10.1093/biomtc/ujae156](https://doi.org/10.1093/biomtc/ujae156), 
 [Author published copy](../assets/wancen_mu_2025.pdf)

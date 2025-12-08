@@ -32,8 +32,10 @@ Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome
 
 **Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
 Gaussian Processes for Time Series with Lead-Lag Effects with Applications to Biology Data
-Accepted at *Biometrics*. December 2024. Preprint:
-[doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400)
+*Biometrics*. 2025. Preprint:
+[doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400), 
+Journal: [doi: 10.1093/biomtc/ujae156](https://doi.org/10.1093/biomtc/ujae156), 
+[Author published copy](../assets/wancen_mu_2025.pdf)
 
 William J Hutchison, Timothy J Keyes, Helena L Crowell, Charlotte Soneson, **Wancen Mu**, **Ji-Eun Park**, Eric S Davis, Abdullah A Nahid, Ming Tang, Victor Yuan, Pierre-Paul Axisa, Jonathan W Kitt, Chi-Lam Poon, Noriaki Sato, Raphael Gottardo, Martin Morgan, Stuart Lee, Michael Lawrence, Stephanie C Hicks, Garry P Nolan, Kara L Davis, Anthony T Papenfuss, **Michael I Love**, Stefano Mangiola.
 The tidyomics ecosystem: Enhancing omic data analyses.

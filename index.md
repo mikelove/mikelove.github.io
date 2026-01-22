@@ -32,7 +32,7 @@ in molecular and cellular phenotypes.
 * We collaborate with the [Patro lab](http://www.robpatro.com/) in the
   development of computational and statistical methods for
   quantification of RNA transcript abundance, including the software
-  packages [Salmon](https://github.com/COMBINE-lab/salmon) for short read
+  packages [salmon](https://github.com/COMBINE-lab/salmon) for short read
   RNA-seq, [oarfish](https://github.com/COMBINE-lab/oarfish) for long read RNA-seq and
   [tximeta](https://github.com/thelovelab/tximeta) for import of
   data into R/Biconductor.

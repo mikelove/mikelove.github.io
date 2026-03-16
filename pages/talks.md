@@ -3,8 +3,9 @@ layout: page
 title: "Talks"
 ---
 
-* 
-* December 3, 2025 - Invited talk, CHARGE Consortium
+* May 19, 2026 - Invited talk, STATGEN 2026, Emory University, Atlanta, GA
+* March 26, 2026 - Invited talk, Thurston Arthritis Research Center OA Genomics Symposium
+* December 3, 2025 - Invited talk, CHARGE Consortium Meeting, Durham, NC
 * November 6, 2025 - Centre for Computational Biomedicine, Perelman School of Medicine, UPenn
 * August 8, 2025 - *Introduction to tidyomics* workshop, UseR!, Durham, NC
 * July 22, 2025 - *Estimating gene-to-trait effects leveraging gene expression studies*, UBDS^3, Uzhhorod National University

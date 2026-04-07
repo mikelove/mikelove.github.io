@@ -26,6 +26,16 @@ Higher eQTL power reveals signals that boost GWAS colocalization.
 *bioRxiv*:
 [doi: 10.1101/2025.08.05.668745](https://doi.org/10.1101/2025.08.05.668745)
 
+**Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Martin Kircher, **Michael I Love**, Max Schubach.
+Uniform processing and analysis of IGVF massively parallel reporter assay data with MPRAsnakeflow.
+*bioRxiv*. September 2025.
+[doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
+
+Noor Pratap Singh, Euphy Y Wu, Jason Fan, **Michael I Love**, Rob Patro.
+Tree-based differential testing using inferential uncertainty for RNA-Seq.
+*Genome Research*. October 2025.
+[doi: 10.1101/gr.279981.124](https://doi.org/10.1101/gr.279981.124)
+
 **Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar.
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
 *PLOS Genetics*. April 2025. 

@@ -104,6 +104,14 @@ role="button">usage stats</a>
 **Newly developed**
 
 <a class="btn btn-primary"
+href="https://thelovelab.github.io/splicelogic"
+role="button">splicelogic</a>
+<img width="100" src="../assets/gh.png">
+
+* Bioconductor (submitted) package for detecting alternative splicing events from differential transcript usage results and exon-level data.
+  Funding provided by NHGRI and Wellcome Trust -- EOSS award.
+
+<a class="btn btn-primary"
 href="https://jtlandis.github.io/plyxp/"
 role="button">plyxp</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/plyxp.svg">

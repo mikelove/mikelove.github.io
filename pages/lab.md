@@ -44,7 +44,6 @@ For software support, please post to [Bioconductor support site](https://support
 | :--- | :---- | :---- |
 | Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci | PI | <img width="100" src="../assets/michaellove.jpg"> |
 | Jon Rosen | Functional interrogation of GWAS variants; <br> MPRA library design and analysis in IGVF and AMP-CMD; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Postdoctoral fellow | <img width="100" src="../assets/jonrosen.jpg"> |
-| Yuriko Harigaya | Statistical methods for response QTL, *ClassifyGxT* <br> Co-supervised with William Valdar | Postdoctoral feelow | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 | [Rachel Sharp](https://rrsharp122.github.io/) <br> [LinkedIn](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Neuropsychiatric GWAS, gene-by-environment effects, differential phenotyping in bipolar disorder | PhD candidate (Neuro/BCB) | <img width="100" src="../assets/rachelsharp.jpg"> |
 | [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Tidyomics, *plyxp*, long-read RNA-seq methods and software | PhD candidate (BCB) | <img width="100" src="../assets/justinlandis.jpg"> |
 | [Beatriz Campillo Miñano](https://www.linkedin.com/in/beatriz-campillo-mi%C3%B1ano-586bb486/) | Long-read RNA-seq methods, software, and visualization: *SPLain*, *splicelogic* | PhD candidate (BCB) | <img width="100" src="../assets/beatrizcampillominano.jpg"> |
@@ -55,6 +54,7 @@ For software support, please post to [Bioconductor support site](https://support
 
 | Name | Research topic | Current position | <font color="#EEEEEE">~~~~~~~~~~</font> |
 | :--- | :---- | :---- | :---- |
+| Yuriko Harigaya | Statistical methods for response QTL, *ClassifyGxT* <br> Co-supervised with William Valdar | Postdoctoral fellow, Valdar lab | <img width="100" src="../assets/yurikoharigaya.jpg"> |
 | [Euphy Wu](https://www.linkedin.com/in/euphy-wu-09b14383) <br> [@FennecPaaaw](https://twitter.com/FennecPaaaw) | Isoform-level allelic imbalance: [SEESAW](https://mikelove.github.io/fishpond/articles/allelic.html) | Institute for Trauma Recover | <img width="100" src="../assets/euphywu.jpg"> |
 | [Ji-Eun Park](https://jennprk.github.io/) <br> [@JiEunPark](https://twitter.com/_JiEun_Park_) | Mutational signatures and risk factors in cancer | Dana Farber Cancer Institute | <img width="100" src="../assets/ji-eunpark.jpg"> |
 | [Wancen Mu](https://www.linkedin.com/in/wancen-mu/) <br> [@wancenm](https://twitter.com/wancenm?lang=en) | Allelic imbalance in scRNA-seq: [airpart](https://bioconductor.org/packages/airpart); <br> Bootstrap enrichment analysis: [nullranges](https://bioconductor.org/packages/nullranges); <br> Gaussian processes for multi-omic time series; <br> Predictive modeling of gRNA efficiency | Meta | <img width="100" src="../assets/wancenmu.jpg"> |

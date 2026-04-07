@@ -14,10 +14,21 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* June 2026 - Justin and Bea have talks at EuroBioc in Turku, Finland
+* May 2026 - Mike has a talk at STATGEN in Emory on transcript grouping and
+  dispersion estimation. Jon and Justin have posters
+* April 2026 - Rachel's manuscript on social and polygenic risk for bipolar
+  disorder is posted to medRxiv:
+  [doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
+* March 2026 - Bea's first package is submitted to Bioconductor:
+  [splicelogic](https://github.com/thelovelab/splicelogic/). The package
+  helps users interpret differential transcript usage (DTU) results
+  as splicing events at the exon-level between pairs of transcripts
+* March 2026 - Jon's paper on eQTL power is published in AJHG: 
+  [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 * August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham
 * August 2025 - Jon Rosen's paper on [eQTL power and colocalization](https://www.biorxiv.org/content/10.1101/2025.08.05.668745v1) is preprinted
 * June 2025 - Beatriz Campillo Miñano joins the lab as a BCB PhD candidate
-* April 2025 - Yuriko's first paper from the lab *ClassifyGxT* is published: [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
 
 ### Research
 

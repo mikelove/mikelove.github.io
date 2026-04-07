@@ -14,28 +14,40 @@ of the lab, co-supervised work, or work with relevant software
 contributions from members of the lab.
 </div>
 
+**Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LaShaunta Glover, **Michael I Love**.
+Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
+*medRxiv*. April 2026.
+[doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
+
 **Jonathan D Rosen**, K Alaine Broadaway, Sarah M Brotman, Karen L Mohlke, **Michael I Love**.
 Higher eQTL power reveals signals that boost GWAS colocalization.
-*bioRxiv* August 2025.
+*AJHG*. March 2026.
+[doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
+*bioRxiv*:
 [doi: 10.1101/2025.08.05.668745](https://doi.org/10.1101/2025.08.05.668745)
 
 **Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar.
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
-Accepted at *PLOS Genetics*. January 2025. Preprint:
+*PLOS Genetics*. January 2025. 
+[doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
+*bioRxiv*:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
 
-**Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
-Assessing Etiologic Heterogeneity for Multinomial Outcome with Two-Phase Outcome-Dependent Sampling Design. 
-*American Journal of Epidemiology*. July 2024.
-[10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212),
-*medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
-
 **Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
-Gaussian Processes for Time Series with Lead-Lag Effects with Applications to Biology Data.
-*Biometrics*. March 2025. Preprint:
+Gaussian Processes for Time Series with Lead-Lag Effects 
+with Applications to Biology Data.
+*Biometrics*. March 2025.
+[doi: 10.1093/biomtc/ujae156](https://doi.org/10.1093/biomtc/ujae156)
+*arXiv*:
 [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400), 
-Journal: [doi: 10.1093/biomtc/ujae156](https://doi.org/10.1093/biomtc/ujae156), 
 [Author published copy](../assets/wancen_mu_2025.pdf)
+
+**Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
+Assessing Etiologic Heterogeneity for Multinomial Outcome with 
+Two-Phase Outcome-Dependent Sampling Design. 
+*American Journal of Epidemiology*. July 2024.
+[10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212)
+*medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 
 William J Hutchison, Timothy J Keyes, Helena L Crowell, Charlotte Soneson, **Wancen Mu**, **Ji-Eun Park**, Eric S Davis, Abdullah A Nahid, Ming Tang, Victor Yuan, Pierre-Paul Axisa, Jonathan W Kitt, Chi-Lam Poon, Noriaki Sato, Raphael Gottardo, Martin Morgan, Stuart Lee, Michael Lawrence, Stephanie C Hicks, Garry P Nolan, Kara L Davis, Anthony T Papenfuss, **Michael I Love**, Stefano Mangiola.
 The tidyomics ecosystem: Enhancing omic data analyses.

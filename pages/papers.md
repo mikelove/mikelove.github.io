@@ -28,7 +28,7 @@ Higher eQTL power reveals signals that boost GWAS colocalization.
 
 **Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar.
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
-*PLOS Genetics*. January 2025. 
+*PLOS Genetics*. April 2025. 
 [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
 *bioRxiv*:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)

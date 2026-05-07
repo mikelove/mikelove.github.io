@@ -3,23 +3,26 @@ layout: page
 title: "Software"
 ---
 
-<img width="125" src="../assets/DESeq2.png">
-<img width="125" src="../assets/tximport.png">
-<img width="125" src="../assets/tximeta.png">
-<img width="125" src="../assets/apeglm.png">
-<img width="125" src="../assets/fishpond.png">
-<img width="125" src="../assets/airpart.png">
-<img width="125" src="../assets/ClassifyGxT.png">
-<img width="125" src="../assets/TopLD.png">
-<img width="125" src="../assets/tidyomics.png">
-<img width="125" src="../assets/plyxp.png">
-<img width="125" src="../assets/SPLain.png">
-<img width="125" src="../assets/nullranges.png">
-<img width="125" src="../assets/rigvf.png">
+<div class="stickers">
 
+<img src="../assets/DESeq2.png">
+<img src="../assets/tximport.png">
+<img src="../assets/tximeta.png">
+<img src="../assets/apeglm.png">
+<img src="../assets/fishpond.png">
+<img src="../assets/airpart.png">
+<img src="../assets/ClassifyGxT.png">
+<img src="../assets/TopLD.png">
+<img src="../assets/tidyomics.png">
+<img src="../assets/plyxp.png">
+<img src="../assets/SPLain.png">
+<img src="../assets/nullranges.png">
+<img src="../assets/rigvf.png">
+
+</div>
 <br>
 
-**GitHub page**
+**GitHub page for Love Lab software**
 
 Most software from the Love Lab is part of the [Bioconductor
 Project](https://bioconductor.org). However we also provide mirrors of
@@ -32,7 +35,7 @@ called `tidyomics`:
 
 * <https://github.com/tidyomics>
 
-**Highly used**
+**Highly used software**
 
 <div class="two-column" markdown="1">
 <div markdown="1">
@@ -84,8 +87,7 @@ href="https://bioconductor.org/packages/stats/bioc/tximport/"
 role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/tximport.svg">
 
-* Imports transcript-level abundance, estimated counts and transcript
-lengths.<br>
+* Imports transcript-level abundance, counts and lengths.<br>
 Work with Charlotte Soneson and Mark Robinson.
 
 <a class="btn btn-primary"
@@ -104,14 +106,18 @@ Work with Rob Patro, Charlotte Soneson, and Peter Hickey.
 
 ---
 
-**Newly developed**
+**Newly developed software**
+
+<div class="two-column" markdown="1">
+<div markdown="1">
 
 <a class="btn btn-primary"
 href="https://thelovelab.github.io/splicelogic"
 role="button">splicelogic</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/splicelogic.svg">
 
-* Bioconductor package for detecting alternative splicing events from differential transcript usage results.
+* Bioconductor package for detecting alternative splicing events from differential transcript usage results.<br>
+  Developed by Bea Campillo.<br>
   Funding provided by NHGRI and Wellcome Trust -- EOSS award.
 
 <a class="btn btn-primary"
@@ -119,38 +125,11 @@ href="https://jtlandis.github.io/plyxp/"
 role="button">plyxp</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/plyxp.svg">
 
-* Bioconductor package that provides efficient abstractions to the
-  SummarizedExperiment such that using common dplyr functions feels as natural
-  to operating on a data.frame or tibble. Part of the tidyomics project.
-  Funding provided by Wellcome Trust -- EOSS award.
-
-<a class="btn btn-primary"
-href="https://yharigaya.github.io/classifygxt"
-role="button">classifygxt</a>
-<img width="100" src="../assets/gh.png">
-
-* R package for classifying gene-by-treatment (GxT) interactions using Bayesian
-  model selection (BMS). The method is primarily designed for molecular count
-  phenotypes, such as gene expression and chromatin accessibility.
-  Developed by Yuriko Harigaya, co-supervised by Will Valdar.
-
-<a class="btn btn-primary"
-href="https://IGVF.github.io/rigvf"
-role="button">rigvf</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/rigvf.svg">
-
-* Bioconductor package that provides an interface to the IGVF Catalog data.
-
-<a class="btn btn-primary"
-href="https://github.com/jennprk/diffsig"
-role="button">diffsig</a>
-<img width="100" src="../assets/gh.png">
-
-* R package for estimating the association of risk factors with
-  mutational signatures, making use of a Bayesian
-  Dirichlet-multinomial hierarchical model for counts.
-  Developed by Ji-Eun Park, in collaboration with labs of Melissa
-  Troester and Katie Hoadley.
+* Bioconductor package that provides efficient dplyr-like syntax for
+  annotated matrix data (*SummarizedExperiment*).
+  Part of the [tidyomics](https://github.com/tidyomics) project.<br>
+  Developed by Justin Landis.<br>
+  Funding provided by NHGRI and Wellcome Trust -- EOSS award.
 
 <a class="btn btn-primary"
 href="https://nullranges.github.io/nullranges"
@@ -160,10 +139,43 @@ role="button">nullranges</a>
 * Modular package for generation of sets of ranges representing the
   null hypothesis. These can take the form of `bootRanges`, block
   bootstrap samples of ranges, or `matchRanges`, sets of control
-  ranges that are matched across one or more covariates. 
-  Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel (UNC-CH). 
-  Contributions from other Bioconductor developers as well.
+  ranges that are matched across one or more covariates.<br>
+  Developed by Wancen Mu, Eric Davis, and Douglas Phanstiel. 
   Funding provided by CZI -- EOSS award.
+
+</div>
+<div markdown="1">
+
+<a class="btn btn-primary"
+href="https://IGVF.github.io/rigvf"
+role="button">rigvf</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/rigvf.svg">
+
+* Bioconductor package that provides an interface to the IGVF Catalog data.<br>
+  Work with Martin Morgan.
+
+<a class="btn btn-primary"
+href="https://yharigaya.github.io/classifygxt"
+role="button">classifygxt</a>
+<img width="100" src="../assets/gh.png">
+
+* R package for classifying gene-by-treatment (GxT) interactions using Bayesian
+  model selection (BMS). The method is primarily designed for molecular count
+  phenotypes, such as gene expression and chromatin accessibility.<br>
+  Developed by Yuriko Harigaya, work with Will Valdar.
+
+<a class="btn btn-primary"
+href="https://github.com/jennprk/diffsig"
+role="button">diffsig</a>
+<img width="100" src="../assets/gh.png">
+
+* R package for estimating the association of risk factors with
+  mutational signatures, making use of a Bayesian
+  Dirichlet-multinomial hierarchical model for counts.<br>
+  Developed by Ji-Eun Park, work with Melissa Troester and Katie Hoadley.
+
+</div>
+</div>
 
 ---
 

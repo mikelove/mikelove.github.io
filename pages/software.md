@@ -34,6 +34,9 @@ called `tidyomics`:
 
 **Highly used**
 
+<div class="two-column" markdown="1">
+<div markdown="1">
+
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/DESeq2"
 role="button">DESeq2</a>
@@ -43,7 +46,35 @@ role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/DESeq2.svg">
 
 * Test for differential expression based on Negative Binomial GLM.<br>
-Collaboration with Simon Anders and Wolfgang Huber (EMBL Heidelberg).
+Work with Simon Anders and Wolfgang Huber.
+
+<a class="btn btn-primary"
+href="https://bioconductor.org/packages/apeglm"
+role="button">apeglm</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/stats/bioc/apeglm/"
+role="button">usage stats</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/apeglm.svg">
+
+* Bayesian shrinkage estimators for effect sizes for GLM.<br>
+Developed by Anqi Zhu, work with Joseph Ibrahim.<br> 
+`apeglm` methods can be accessed via `DESeq2::lfcShrink`.
+
+<a class="btn btn-primary"
+href="https://thelovelab.github.io/fishpond"
+role="button">fishpond</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/stats/bioc/fishpond/"
+role="button">usage stats</a>
+<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
+
+* `swish` is a nonparametric DTE and DGE method.<br>
+  Developed by Anqi Zhu, work with Joseph Ibrahim, Avi Srivastava, Rob Patro.
+*  `SEESAW` is a suite of methods for allelic expression analysis.<br>
+  Developed by Euphy Wu, work with Gary Churchill, KB Choi, Cheryl Ackert-Bicknell, Rob Patro.
+
+</div>
+<div markdown="1">
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/tximport"
@@ -55,7 +86,7 @@ role="button">usage stats</a>
 
 * Imports transcript-level abundance, estimated counts and transcript
 lengths.<br>
-Collaboration with Charlotte Soneson (FMI) and Mark Robinson (UZH Zürich).
+Work with Charlotte Soneson and Mark Robinson.
 
 <a class="btn btn-primary"
 href="https://thelovelab.github.io/tximeta"
@@ -65,39 +96,11 @@ href="https://bioconductor.org/packages/stats/bioc/tximeta/"
 role="button">usage stats</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/tximeta.svg">
 
-* Import transcript abundances with automatic population of metadata.<br>
-Collaboration with Rob Patro (UMD), Charlotte Soneson (FMI), and Peter Hickey (WEHI).
+* Imports transcript abundances with automatic population of metadata.<br>
+Work with Rob Patro, Charlotte Soneson, and Peter Hickey.
 
-<a class="btn btn-primary"
-href="https://bioconductor.org/packages/apeglm"
-role="button">apeglm</a>
-<a class="btn btn-secondary"
-href="https://bioconductor.org/packages/stats/bioc/apeglm/"
-role="button">usage stats</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/apeglm.svg">
-
-* Bayesian shrinkage estimators for effect sizes for a variety of GLM
-models.<br>
-Developed by Anqi Zhu (UNC-CH), collaboration with Joseph Ibrahim
-(UNC-CH).<br> 
-`apeglm` methods can be accessed via `lfcShrink`
-in the [DESeq2](http://bioconductor.org/packages/DESeq2) package.
-
-<a class="btn btn-primary"
-href="https://thelovelab.github.io/fishpond"
-role="button">fishpond</a>
-<a class="btn btn-secondary"
-href="https://bioconductor.org/packages/stats/bioc/fishpond/"
-role="button">usage stats</a>
-<img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">
-
-* `swish` is a nonparametric differential transcript and gene analysis
-  method making use of inferential replicate counts. Collaboration
-  with Anqi Zhu and Joseph Ibrahim (UNC-CH), and Avi Srivastava and
-  Rob Patro (UMD). 
-*  `SEESAW` is a suite of methods for allelic expression analysis led
-  by Euphy Wu (UNC-CH)  in collaboration with Gary Churchill (JAX), KB
-  Choi, Cheryl Ackert-Bicknell (UColorado), Rob Patro (UMD) and others.
+</div>
+</div>
 
 ---
 
@@ -106,9 +109,9 @@ role="button">usage stats</a>
 <a class="btn btn-primary"
 href="https://thelovelab.github.io/splicelogic"
 role="button">splicelogic</a>
-<img width="100" src="../assets/gh.png">
+<img src="https://bioconductor.org/shields/years-in-bioc/splicelogic.svg">
 
-* Bioconductor (submitted) package for detecting alternative splicing events from differential transcript usage results and exon-level data.
+* Bioconductor package for detecting alternative splicing events from differential transcript usage results.
   Funding provided by NHGRI and Wellcome Trust -- EOSS award.
 
 <a class="btn btn-primary"

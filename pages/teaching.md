@@ -8,9 +8,9 @@ title: "Teaching"
 **Current courses:**
 
 * [BIOS 784 / BCB 784 - Introduction to Computational Biology](http://biodatascience.github.io/compbio),
-  Fall 2024, 1:25-2:40 MoWe, Aug 19 -- Dec 4
+  Fall 2026, Tue/Thur 12:30-1:45, Aug 17 -- Dec 11
 * [BCB 724 - Data Communication](https://biodatascience.github.io/datacomm),
-  Fall 2024, 2:00-3:15 TuTh, Oct 31 -- Dec 3
+  Fall 2026, Tue/Thur 2:00-3:15, late Oct -- early Dec
 
 **Previous courses:**
 

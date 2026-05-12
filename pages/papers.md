@@ -11,8 +11,15 @@ title: "Papers"
 this Google Scholar page</a>, or the PI's CV under <b>Lab members</b>.
 The following partial list includes papers and preprints either led by members
 of the lab, co-supervised work, or work with relevant software
-contributions from members of the lab.
+contributions lab members.
 </div>
+
+ **Justin T Landis**, **Michael I Love**.
+Efficient and Tidy Manipulation of Annotated Matrix Data with plyxp.
+*bioRxiv* May 2026. 
+[doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
+
+* [plyxp](https://jtlandis.github.io/plyxp/) R/Bioconductor package
 
 **Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LaShaunta Glover, **Michael I Love**.
 Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
@@ -42,6 +49,8 @@ Probabilistic classification of gene-by-treatment interactions on molecular coun
 [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
 *bioRxiv*:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
+
+* [ClassifyGxT](https://yharigaya.github.io/classifygxt/) R package
 
 **Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
 Gaussian Processes for Time Series with Lead-Lag Effects 

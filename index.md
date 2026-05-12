@@ -15,12 +15,14 @@ see [lab members](pages/lab.html) for contact details.
 ### News
 
 * June 2026 - Justin and Bea have talks at EuroBioc in Turku, Finland
+* May 2026 - Justin's manuscript on _plyxp_ is posted to bioRxiv:
+  [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
 * May 2026 - Mike has a talk at STATGEN in Emory on transcript grouping and
   dispersion estimation. Jon and Justin have posters
 * April 2026 - Rachel's manuscript on social and polygenic risk for bipolar
   disorder is posted to medRxiv:
   [doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
-* March 2026 - Bea's first package is submitted to Bioconductor:
+* April 2026 - Bea's first package is accepted in Bioconductor:
   [splicelogic](https://github.com/thelovelab/splicelogic/). The package
   helps users interpret differential transcript usage (DTU) results
   as splicing events at the exon-level between pairs of transcripts

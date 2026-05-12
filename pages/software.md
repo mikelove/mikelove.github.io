@@ -15,11 +15,13 @@ title: "Software"
 <img src="../assets/TopLD.png">
 <img src="../assets/tidyomics.png">
 <img src="../assets/plyxp.png">
+<img src="../assets/splicelogic.png">
 <img src="../assets/SPLain.png">
 <img src="../assets/nullranges.png">
 <img src="../assets/rigvf.png">
 
 </div>
+
 <br>
 
 **GitHub page for Love Lab software**

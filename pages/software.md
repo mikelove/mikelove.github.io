@@ -37,6 +37,10 @@ called `tidyomics`:
 
 * <https://github.com/tidyomics>
 
+Package download statistics for a subset of lab software:
+
+* <https://thelovelab.github.io/package-download-stats/>
+
 **Highly used software**
 
 <div class="two-column" markdown="1">

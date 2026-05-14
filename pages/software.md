@@ -24,16 +24,18 @@ title: "Software"
 
 <br>
 
-**GitHub page for Love Lab software**
+**GitHub pages for Love Lab software**
 
-Most software from the Love Lab is part of the [Bioconductor
-Project](https://bioconductor.org). However we also provide mirrors of
-the software on GitHub:
+Most software from the Love Lab is part of the 
+[Bioconductor Project](https://bioconductor.org).
+Many of these packages are mirrored here:
 
 * <https://github.com/thelovelab>
 
-We are also involved in a large collaborative project in Bioconductor
-called `tidyomics`:
+The Love Lab is part of a large collaborative project 
+within Bioconductor, called "tidyomics".
+Tidyomics packages enable dplyr-like syntax for complex omics datasets.
+The Tidyomics Project homepage is here:
 
 * <https://github.com/tidyomics>
 

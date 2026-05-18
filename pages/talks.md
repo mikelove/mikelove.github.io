@@ -3,7 +3,8 @@ layout: page
 title: "Talks"
 ---
 
-* May 19, 2026 - Invited talk, STATGEN 2026, Emory University, Atlanta, GA
+* May 19, 2026 - Invited talk, STATGEN 2026, Emory University, Atlanta, GA <br/>
+  [Aggregated transcript groups for differential transcript expression and usage](https://docs.google.com/presentation/d/1c6ymTlvsfHumSWjEJ1EZEBwecQ9i6Y0RgcfV3XwhRWk/edit?usp=sharing)
 * March 26, 2026 - Invited talk, Thurston Arthritis Research Center OA Genomics Symposium
 * December 3, 2025 - Invited talk, CHARGE Consortium Meeting, Durham, NC
 * November 6, 2025 - Centre for Computational Biomedicine, Perelman School of Medicine, UPenn

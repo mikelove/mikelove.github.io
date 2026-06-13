@@ -38,7 +38,7 @@ Uniform processing and analysis of IGVF massively parallel reporter assay data w
 *bioRxiv*. September 2025.
 [doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
 
-Noor Pratap Singh, Euphy Y Wu, Jason Fan, **Michael I Love**, Rob Patro.
+Noor Pratap Singh, **Euphy Y Wu**, Jason Fan, **Michael I Love**, Rob Patro.
 Tree-based differential testing using inferential uncertainty for RNA-Seq.
 *Genome Research*. October 2025.
 [doi: 10.1101/gr.279981.124](https://doi.org/10.1101/gr.279981.124)

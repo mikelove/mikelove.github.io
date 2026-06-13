@@ -26,6 +26,7 @@ see [lab members](pages/lab.html) for contact details.
   [splicelogic](https://github.com/thelovelab/splicelogic/). The package
   helps users interpret differential transcript usage (DTU) results
   as splicing events at the exon-level between pairs of transcripts
+* April 2026 - Jon promoted to Assistant Professor in Genetics!
 * March 2026 - Jon's paper on eQTL power is published in AJHG: 
   [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 * August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham

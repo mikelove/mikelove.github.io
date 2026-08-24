@@ -14,7 +14,14 @@ of the lab, co-supervised work, or work with relevant software
 contributions lab members.
 </div>
 
- **Justin T Landis**, **Michael I Love**.
+ **Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Beniamin Krupkin, Grace Oualline, Martin Kircher, **Michael I Love**, Max Schubach.
+Uniform processing and analysis of IGVF massively parallel reporter assay data with MPRAsnakeflow.
+*Genome Research*. August 2026.
+[doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
+*bioRxiv*:
+[doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
+
+**Justin T Landis**, **Michael I Love**.
 Efficient and Tidy Manipulation of Annotated Matrix Data with plyxp.
 *bioRxiv* May 2026. 
 [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
@@ -32,11 +39,6 @@ Higher eQTL power reveals signals that boost GWAS colocalization.
 [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 *bioRxiv*:
 [doi: 10.1101/2025.08.05.668745](https://doi.org/10.1101/2025.08.05.668745)
-
-**Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Martin Kircher, **Michael I Love**, Max Schubach.
-Uniform processing and analysis of IGVF massively parallel reporter assay data with MPRAsnakeflow.
-*bioRxiv*. September 2025.
-[doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
 
 Noor Pratap Singh, **Euphy Y Wu**, Jason Fan, **Michael I Love**, Rob Patro.
 Tree-based differential testing using inferential uncertainty for RNA-Seq.

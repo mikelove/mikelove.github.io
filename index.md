@@ -14,6 +14,8 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* August 2026 - Jon's MPRAsnakeflow paper on uniform processing of IGVF MPRA data is published in Genome Research:
+  [doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
 * June 2026 - Justin and Bea have talks at EuroBioc in Turku, Finland
 * May 2026 - Justin's manuscript on _plyxp_ is posted to bioRxiv:
   [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)

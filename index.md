@@ -14,6 +14,10 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* September 2026 - Rachel's paper on social and polygenic risk for bipolar disorder is published in HGG Advances:
+  [doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665) ~
+  [Dept of Genetics News](https://www.med.unc.edu/genetics/rachel-sharp-dr-michael-love-lab-has-published-a-paper-in-human-genetics-and-genomics-advances/)
+* August 2026 - Justin passes his BCB PhD oral exam. Congrats PhD candidate Justin!
 * August 2026 - Jon's MPRAsnakeflow paper on uniform processing of IGVF MPRA data is published in Genome Research:
   [doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
 * June 2026 - Justin and Bea have talks at EuroBioc in Turku, Finland

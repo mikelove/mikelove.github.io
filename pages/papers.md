@@ -14,7 +14,14 @@ of the lab, co-supervised work, or work with relevant software
 contributions lab members.
 </div>
 
- **Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Beniamin Krupkin, Grace Oualline, Martin Kircher, **Michael I Love**, Max Schubach.
+**Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LáShauntá Glover, **Michael I Love**.
+Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
+*Human Genetics and Genomics Advances*. September 2026.
+[doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665)
+*medRxiv*:
+[doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
+
+**Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Beniamin Krupkin, Grace Oualline, Martin Kircher, **Michael I Love**, Max Schubach.
 Uniform processing and analysis of IGVF massively parallel reporter assay data with MPRAsnakeflow.
 *Genome Research*. August 2026.
 [doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
@@ -27,11 +34,6 @@ Efficient and Tidy Manipulation of Annotated Matrix Data with plyxp.
 [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
 
 * [plyxp](https://jtlandis.github.io/plyxp/) R/Bioconductor package
-
-**Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LaShaunta Glover, **Michael I Love**.
-Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
-*medRxiv*. April 2026.
-[doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
 
 **Jonathan D Rosen**, K Alaine Broadaway, Sarah M Brotman, Karen L Mohlke, **Michael I Love**.
 Higher eQTL power reveals signals that boost GWAS colocalization.

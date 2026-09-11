@@ -19,6 +19,7 @@ title: "Software"
 <img src="../assets/SPLain.png">
 <img src="../assets/nullranges.png">
 <img src="../assets/rigvf.png">
+<img src="../assets/savingBiocObjects.png">
 
 </div>
 
@@ -184,6 +185,18 @@ role="button">diffsig</a>
 
 </div>
 </div>
+
+---
+
+**Newly developed workflows**
+
+<a class="btn btn-primary"
+href="https://mikelove.github.io/savingBiocObjects/"
+role="button">savingBiocObjects</a>
+<img width="120" src="../assets/bioc.png">
+
+* A workflow addressing how to save Bioconductor objects so that collaborators can load and use them, or so that they persist reliably across time.
+  Covers trade-offs across longevity, language interoperability (R and Python), object size, and reproducibility, with recommendations for common scenarios.
 
 ---
 

@@ -19,6 +19,7 @@ title: "Software"
 <img src="../assets/SPLain.png">
 <img src="../assets/nullranges.png">
 <img src="../assets/rigvf.png">
+<img src="../assets/savingBiocObjects.png">
 
 </div>
 
@@ -187,6 +188,18 @@ role="button">diffsig</a>
 
 ---
 
+**Newly developed workflows**
+
+<a class="btn btn-primary"
+href="https://mikelove.github.io/savingBiocObjects/"
+role="button">savingBiocObjects</a>
+<img width="120" src="../assets/bioc.png">
+
+* A workflow addressing how to save Bioconductor objects so that collaborators can load and use them, or so that they persist reliably across time.
+  Covers trade-offs across longevity, language interoperability (R and Python), object size, and reproducibility, with recommendations for common scenarios.
+
+---
+
 **Research packages**
 
 <a class="btn btn-primary"
@@ -258,7 +271,7 @@ role="button">rnaseqGene</a>
 * RNA-seq workflow: gene-level exploratory analysis and differential
   expression. <br>
   Developed in collaboration with Simon Anders, Vladislav Kim, Wolfgang Huber (EMBL Heidelberg).<br>
-  [F1000Research](https://doi.org/10.12688/f1000research.7035.2) publication
+  [publication](https://doi.org/10.12688/f1000research.7035.2)
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/rnaseqDTU"
@@ -268,7 +281,7 @@ role="button">rnaseqDTU</a>
 * Swimming downstream: statistical analysis of differential transcript
   usage following Salmon quantification.<br>
   Developed in collaboration with Charlotte Soneson (FMI) and Rob Patro (UMD).<br>
-  [F1000Research](https://doi.org/10.12688/f1000research.15398.3) publication
+  [publication](https://doi.org/10.12688/f1000research.15398.3)
 
 <a class="btn btn-primary"
 href="https://bioconductor.org/packages/fluentGenomics"
@@ -279,7 +292,7 @@ role="button">fluentGenomics</a>
   fluent genomic data analysis.<br>
   Developed by Stuart Lee (WEHI), in collaboration with Michael
   Lawrence (Genentech).<br>
-  [F1000Research](https://doi.org/10.12688/f1000research.22259.1) publication
+  [publication](https://doi.org/10.12688/f1000research.22259.1)
 
 ---
 
@@ -299,22 +312,28 @@ of metadata from abundance estimation to downstream analysis packages.
 * [My Snakemake file for running Salmon](https://gist.github.com/mikelove/5a8134e57f652f970f1a176efc900cbe)
 
 <a class="btn btn-primary"
-href="http://bioconductor.org/packages/GenomicFiles"
-role="button">GenomicFiles</a>
-<img src="http://bioconductor.org/shields/years-in-bioc/GenomicFiles.svg">
+href="https://github.com/goekelab/bambu"
+role="button">bambu</a>
+<img width="100" src="../assets/gh.png">
 
-* Provides infrastructure for parallel computations
-distributed 'by file' or 'by range'. User defined MAPPER and REDUCER
-functions provide added flexibility for data combination and manipulation.
-Collaboration with Valerie Obenchain and Martin Morgan (Bioconductor
-core team).
+* R package for multi-sample transcript discovery and quantification using
+  long read RNA-Seq data. Can be used after read alignment to obtain expression
+  estimates for known and novel transcripts and genes; output can directly be
+  used for visualization and downstream analysis such as differential gene
+  expression or transcript usage.<br>
+  Contributor to the design of the computational method.<br>
+  [publication](https://doi.org/10.1038/s41592-023-01908-w)
 
 <a class="btn btn-primary"
-href="https://cran.r-project.org/package=rafalib"
-role="button">rafalib</a> --- CRAN
+href="https://pinellolab.github.io/crispr-bean/"
+role="button">crispr-bean</a>
+<img width="100" src="../assets/gh.png">
 
-* A series of shortcuts for routine tasks.
-Collaboration with Rafael Irizarry (DFCI Boston).
+* Python package that improves CRISPR pooled screen analysis by unconfounding
+  variable per-guide editing outcome by considering genotypic outcome from
+  reporter sequence, and through accurate modeling of screen procedure.<br>
+  Advising on design and implementation.<br>
+  [publication](https://doi.org/10.1038/s41588-024-01726-6)
 
 ---
 

@@ -14,6 +14,12 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* September 2026 - Rachel's paper on social and polygenic risk for bipolar disorder is published in HGG Advances:
+  [doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665) ~
+  [Dept of Genetics News](https://www.med.unc.edu/genetics/rachel-sharp-dr-michael-love-lab-has-published-a-paper-in-human-genetics-and-genomics-advances/)
+* August 2026 - Justin passes his BCB PhD oral exam. Congrats PhD candidate Justin!
+* August 2026 - Jon's MPRAsnakeflow paper on uniform processing of IGVF MPRA data is published in Genome Research:
+  [doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
 * June 2026 - Justin and Bea have talks at EuroBioc in Turku, Finland
 * May 2026 - Justin's manuscript on _plyxp_ is posted to bioRxiv:
   [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
@@ -26,6 +32,7 @@ see [lab members](pages/lab.html) for contact details.
   [splicelogic](https://github.com/thelovelab/splicelogic/). The package
   helps users interpret differential transcript usage (DTU) results
   as splicing events at the exon-level between pairs of transcripts
+* April 2026 - Jon promoted to Assistant Professor in Genetics!
 * March 2026 - Jon's paper on eQTL power is published in AJHG: 
   [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 * August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham

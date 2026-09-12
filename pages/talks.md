@@ -3,6 +3,7 @@ layout: page
 title: "Talks"
 ---
 
+* July 16, 2026 - *Perturbation assays: CRISPR and reporter assays*, UBDS^3, Uzhhorod National University
 * May 19, 2026 - Invited talk, STATGEN 2026, Emory University, Atlanta, GA
 * March 26, 2026 - Invited talk, Thurston Arthritis Research Center OA Genomics Symposium
 * December 3, 2025 - Invited talk, CHARGE Consortium Meeting, Durham, NC

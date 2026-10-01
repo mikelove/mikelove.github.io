@@ -7,10 +7,23 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-Genetics Department ~
-Biostatistics Department ~
-UNC-Chapel Hill ~ 
-see [lab members](pages/lab.html) for contact details.
+<div class="affils">
+  <p class="affils-depts">
+    Department of Genetics <span class="sep">&middot;</span>
+    Department of Biostatistics <span class="sep">&middot;</span>
+    UNC-Chapel Hill
+  </p>
+</div>
+
+<p class="affils-contact">
+  See <a href="pages/lab.html">lab members</a> for contact details.
+</p>
+
+<p class="affils-note">
+  Note: I cannot reply to individual emails from non-UNC students
+  about joining the lab. See <a href="pages/teaching.html#mentorship">joining the lab</a>
+  for more details.
+</p>
 
 ### News
 
@@ -205,11 +218,5 @@ in molecular and cellular phenotypes.
 * Sean McCabe's first paper published in *Briefings in Bioinformatics*:
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
   [Author Manuscript](../assets/mccabe_2019.pdf)
-
----
-
-*Note: I cannot reply to individual emails from non-UNC students
-about joining the lab. See [joining the lab](pages/teaching.html#mentorship)
-for more details.*
 
 <a rel="me" href="https://genomic.social/@mikelove" style="color: white;">@mikelove@genomic.social</a>

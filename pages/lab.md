@@ -38,6 +38,10 @@ Email: michaelisaiahlove [at] gmail / love [at] unc.edu
 
 For software support, please post to [Bioconductor support site](https://support.bioconductor.org).
 
+*Note: I cannot reply to individual emails from non-UNC students
+about joining the lab. See [joining the lab](teaching.html#mentorship)
+for more details.*
+
 ---
 
 | Name | Research topics | Position | <font color="#EEEEEE">~~~~~~~~~~</font> |

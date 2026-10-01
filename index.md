@@ -14,6 +14,7 @@ see [lab members](pages/lab.html) for contact details.
 
 ### News
 
+* September 2026 - Rachel successfully defends PhD thesis. Congrats Dr. Sharp!
 * September 2026 - Rachel's paper on social and polygenic risk for bipolar disorder is published in HGG Advances:
   [doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665) ~
   [Dept of Genetics News](https://www.med.unc.edu/genetics/rachel-sharp-dr-michael-love-lab-has-published-a-paper-in-human-genetics-and-genomics-advances/)
@@ -205,4 +206,10 @@ in molecular and cellular phenotypes.
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
   [Author Manuscript](../assets/mccabe_2019.pdf)
 
-<a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a>
+---
+
+*Note: I cannot reply to individual emails from non-UNC students
+about joining the lab. See [joining the lab](pages/teaching.html#mentorship)
+for more details.*
+
+<a rel="me" href="https://genomic.social/@mikelove" style="color: white;">@mikelove@genomic.social</a>

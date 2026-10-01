@@ -51,7 +51,7 @@ layout: page
   [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 * August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham
 * August 2025 - Jon Rosen's paper on [eQTL power and colocalization](https://www.biorxiv.org/content/10.1101/2025.08.05.668745v1) is preprinted
-* June 2025 - Beatriz Campillo Miñano joins the lab as a BCB PhD candidate
+* June 2025 - Beatriz Campillo joins the lab as a BCB PhD candidate
 
 ### Research
 

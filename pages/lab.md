@@ -48,9 +48,9 @@ for more details.*
 | :--- | :---- | :---- |
 | Michael Love | Statistical software for genomic data analysis; <br> Causal mechanisms for GWAS loci | PI | <img width="100" src="../assets/michaellove.jpg"> |
 | Jon Rosen | Functional interrogation of GWAS variants; <br> MPRA library design and analysis in IGVF and AMP-CMD; <br> [Gen. Epi. of HLB Traits](https://hlbgenepit32.web.unc.edu/), [Karen Mohlke lab](https://mohlke.web.unc.edu/)  | Assist. Prof. | <img width="100" src="../assets/jonrosen.jpg"> |
-| [Rachel Sharp](https://rrsharp122.github.io/) <br> [LinkedIn](https://www.linkedin.com/in/rachel-sharp-a07b69272) <br> [@rrsharp122](https://twitter.com/rrsharp122) | Neuropsychiatric GWAS, gene-by-environment effects, differential phenotyping in bipolar disorder | PhD candidate (Neuro/BCB) | <img width="100" src="../assets/rachelsharp.jpg"> |
+| [Rachel Sharp](https://rrsharp122.github.io/) <br> [LinkedIn](https://www.linkedin.com/in/rachel-sharp-a07b69272) | Neuropsychiatric GWAS and GxE | PhD graduate (Neuro/BCB) | <img width="100" src="../assets/rachelsharp.jpg"> |
 | [Justin Landis](https://www.linkedin.com/in/justin-landis-64a586139) | Tidyomics, *plyxp*, long-read RNA-seq methods and software | PhD candidate (BCB) | <img width="100" src="../assets/justinlandis.jpg"> |
-| [Beatriz Campillo Miñano](https://www.linkedin.com/in/beatriz-campillo-mi%C3%B1ano-586bb486/) | Long-read RNA-seq methods, software, and visualization: *SPLain*, *splicelogic* | PhD candidate (BCB) | <img width="100" src="../assets/beatrizcampillominano.jpg"> |
+| [Beatriz Campillo](https://beamimc.github.io/) <br> [LinkedIn](https://www.linkedin.com/in/beatriz-campillo-mi%C3%B1ano-586bb486/) | Long-read RNA-seq methods, software, and visualization: *SPLain*, *splicelogic* | PhD candidate (BCB) | <img width="100" src="../assets/beatrizcampillominano.jpg"> |
 
 ## Alumni
 

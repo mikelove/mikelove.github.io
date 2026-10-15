@@ -16,45 +16,45 @@ contributions lab members.
 
 **Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LáShauntá Glover, **Michael I Love**.
 Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
-*Human Genetics and Genomics Advances*. September 2026.
+*Human Genetics and Genomics Advances*, September 2026.
 [doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665)
 *medRxiv*:
 [doi: 10.64898/2026.04.06.26349528](https://doi.org/10.64898/2026.04.06.26349528)
 
 **Jonathan D Rosen**, Arjun Devadas Vasanthakumari, Kilian Salomon, Nikola de Lange, Pyaree Mohan Dash, Pia Keukeleire, Ali Hassan, Alejandro Barrera, Beniamin Krupkin, Grace Oualline, Martin Kircher, **Michael I Love**, Max Schubach.
 Uniform processing and analysis of IGVF massively parallel reporter assay data with MPRAsnakeflow.
-*Genome Research*. August 2026.
+*Genome Research*, August 2026.
 [doi: 10.1101/gr.281462.125](https://doi.org/10.1101/gr.281462.125)
 *bioRxiv*:
 [doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
 
 **Yuriko Harigaya**, **Michael I Love**, William Valdar.
 DetectGxT: detecting gene-by-treatment interactions on molecular count phenotypes accounting for allelic additivity.
-*bioRxiv* August 2026.
+*bioRxiv*, August 2026.
 [doi: 10.64898/2026.07.30.740713](https://doi.org/10.64898/2026.07.30.740713)
 
 **Justin T Landis**, **Michael I Love**.
 Efficient and Tidy Manipulation of Annotated Matrix Data with plyxp.
-*bioRxiv* May 2026. 
+*bioRxiv*, May 2026.
 [doi: 10.64898/2026.05.06.721669](https://doi.org/10.64898/2026.05.06.721669)
 
 * [plyxp](https://jtlandis.github.io/plyxp/) R/Bioconductor package
 
 **Jonathan D Rosen**, K Alaine Broadaway, Sarah M Brotman, Karen L Mohlke, **Michael I Love**.
 Higher eQTL power reveals signals that boost GWAS colocalization.
-*AJHG*. March 2026.
+*AJHG*, March 2026.
 [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 *bioRxiv*:
 [doi: 10.1101/2025.08.05.668745](https://doi.org/10.1101/2025.08.05.668745)
 
 Noor Pratap Singh, **Euphy Y Wu**, Jason Fan, **Michael I Love**, Rob Patro.
 Tree-based differential testing using inferential uncertainty for RNA-Seq.
-*Genome Research*. October 2025.
+*Genome Research*, October 2025.
 [doi: 10.1101/gr.279981.124](https://doi.org/10.1101/gr.279981.124)
 
 **Yuriko Harigaya**, Nana Matoba, Brandon D. Le, Jordan M. Valone, Jason L. Stein, **Michael I. Love**, William Valdar.
 Probabilistic classification of gene-by-treatment interactions on molecular count phenotypes.
-*PLOS Genetics*. April 2025. 
+*PLOS Genetics*, April 2025.
 [doi: 10.1371/journal.pgen.1011561](https://doi.org/10.1371/journal.pgen.1011561)
 *bioRxiv*:
 [doi: 10.1101/2024.08.03.605142](https://doi.org/10.1101/2024.08.03.605142)
@@ -64,7 +64,7 @@ Probabilistic classification of gene-by-treatment interactions on molecular coun
 **Wancen Mu**\*, Jiawen Chen\*, Eric S. Davis, Kathleen Reed, Douglas Phanstiel, **Michael I. Love**, Didong Li.
 Gaussian Processes for Time Series with Lead-Lag Effects 
 with Applications to Biology Data.
-*Biometrics*. March 2025.
+*Biometrics*, March 2025.
 [doi: 10.1093/biomtc/ujae156](https://doi.org/10.1093/biomtc/ujae156)
 *arXiv*:
 [doi: 10.48550/arXiv.2401.07400](https://doi.org/10.48550/arXiv.2401.07400), 
@@ -73,7 +73,7 @@ with Applications to Biology Data.
 **Sarah A. Reifeis**, Michael G. Hudgens, Melissa A. Troester, **Michael I. Love**.
 Assessing Etiologic Heterogeneity for Multinomial Outcome with 
 Two-Phase Outcome-Dependent Sampling Design. 
-*American Journal of Epidemiology*. July 2024.
+*American Journal of Epidemiology*, July 2024.
 [10.1093/aje/kwae212](https://doi.org/10.1093/aje/kwae212)
 *medRxiv*: [doi: 10.1101/2022.07.20.22277805](https://doi.org/10.1101/2022.07.20.22277805)
 

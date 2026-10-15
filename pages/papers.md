@@ -143,13 +143,6 @@ imbalance in single-cell datasets.
 
 * [airpart](https://bioconductor.org/packages/airpart) R/Bioconductor package
 
-**Achal Patel**, Montserrat García-Closas, Andrew F. Olshan, Charles
-M. Perou, Melissa A. Troester, **Michael I. Love**, Arjun Bhattacharya.
-Gene-Level Germline Contributions to Clinical Risk of Recurrence
-Scores in Black and White Patients with Breast Cancer.
-*Cancer Research*, January 2022.
-[doi: 10.1158/0008-5472.CAN-21-1207](https://doi.org/10.1158/0008-5472.CAN-21-1207)
-
 **Sean D. McCabe**, Andrew B. Nobel, **Michael I. Love**.
 ACTOR: a latent Dirichlet model to compare expressed isoform
 proportions to a reference panel. 

@@ -28,6 +28,11 @@ Uniform processing and analysis of IGVF massively parallel reporter assay data w
 *bioRxiv*:
 [doi: 10.1101/2025.09.25.678548](https://doi.org/10.1101/2025.09.25.678548)
 
+**Yuriko Harigaya**, **Michael I Love**, William Valdar.
+DetectGxT: detecting gene-by-treatment interactions on molecular count phenotypes accounting for allelic additivity.
+*bioRxiv* August 2026.
+[doi: 10.64898/2026.07.30.740713](https://doi.org/10.64898/2026.07.30.740713)
+
 **Justin T Landis**, **Michael I Love**.
 Efficient and Tidy Manipulation of Annotated Matrix Data with plyxp.
 *bioRxiv* May 2026. 

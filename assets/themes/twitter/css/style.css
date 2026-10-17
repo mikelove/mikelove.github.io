@@ -87,3 +87,34 @@
     width: 100px;  /* original size on desktop */
   }
 }
+
+/* department affiliations block on main page */
+
+.affils {
+  margin: 20px 0 15px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #ddd;
+  text-align: center; }
+
+.affils p {
+  margin: 0; }
+
+.affils-depts {
+  font-size: 1.1em;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: #13294B; }  /* UNC navy */
+
+.affils-depts .sep {
+  color: #4B9CD3;  /* Carolina blue */
+  margin: 0 4px; }
+
+.affils-contact {
+  margin-bottom: 5px;
+  color: #555; }
+
+.affils-note {
+  margin-bottom: 25px;
+  font-size: 0.9em;
+  font-style: italic;
+  color: #777; }

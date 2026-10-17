@@ -8,13 +8,27 @@ hide_header: true
 
 <!-- {% include JB/setup %} -->
 
-Genetics Department ~
-Biostatistics Department ~
-UNC-Chapel Hill ~ 
-see [lab members](pages/lab.html) for contact details.
+<div class="affils">
+  <p class="affils-depts">
+    Department of Genetics <span class="sep">&middot;</span>
+    Department of Biostatistics <span class="sep">&middot;</span>
+    UNC-Chapel Hill
+  </p>
+</div>
+
+<p class="affils-contact">
+  See <a href="pages/lab.html">lab members</a> for contact details.
+</p>
+
+<p class="affils-note">
+  Note: I cannot reply to individual emails from non-UNC students
+  about joining the lab. See <a href="pages/teaching.html#mentorship">joining the lab</a>
+  for more details.
+</p>
 
 ### News
 
+* September 2026 - Rachel successfully defends PhD thesis. Congrats Dr. Sharp!
 * September 2026 - Rachel's paper on social and polygenic risk for bipolar disorder is published in HGG Advances:
   [doi: 10.1016/j.xhgg.2026.100665](https://doi.org/10.1016/j.xhgg.2026.100665) ~
   [Dept of Genetics News](https://www.med.unc.edu/genetics/rachel-sharp-dr-michael-love-lab-has-published-a-paper-in-human-genetics-and-genomics-advances/)
@@ -38,7 +52,7 @@ see [lab members](pages/lab.html) for contact details.
   [doi: 10.1016/j.ajhg.2026.02.009](https://doi.org/10.1016/j.ajhg.2026.02.009)
 * August 2025 - See Justin and Beatriz presenting work at [useR!](https://user2025.r-project.org/) in Durham
 * August 2025 - Jon Rosen's paper on [eQTL power and colocalization](https://www.biorxiv.org/content/10.1101/2025.08.05.668745v1) is preprinted
-* June 2025 - Beatriz Campillo Miñano joins the lab as a BCB PhD candidate
+* June 2025 - Beatriz Campillo joins the lab as a BCB PhD candidate
 
 ### Research
 
@@ -206,4 +220,4 @@ in molecular and cellular phenotypes.
   [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
   [Author Manuscript](../assets/mccabe_2019.pdf)
 
-<a rel="me" href="https://genomic.social/@mikelove">@mikelove@genomic.social</a>
+<a rel="me" href="https://genomic.social/@mikelove" style="color: white;">@mikelove@genomic.social</a>

@@ -193,6 +193,9 @@ role="button">diffsig</a>
 <a class="btn btn-primary"
 href="https://mikelove.github.io/savingBiocObjects/"
 role="button">savingBiocObjects</a>
+<a class="btn btn-secondary"
+href="https://bioconductor.org/packages/savingBiocObjects"
+role="button">Bioconductor</a>
 <img width="120" src="../assets/bioc.png">
 
 * A workflow addressing how to save Bioconductor objects so that collaborators can load and use them, or so that they persist reliably across time.

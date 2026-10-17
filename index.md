@@ -1,6 +1,7 @@
 ---
 title: Love Lab @ UNC-Chapel Hill
 layout: page
+hide_header: true
 ---
 
 <img src="assets/well.png" ALT="picture of the well on UNC campus, from unc.edu"/>

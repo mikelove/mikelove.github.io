@@ -14,6 +14,14 @@ of the lab, co-supervised work, or work with relevant software
 contributions lab members.
 </div>
 
+**Beatriz Campillo**, **Michael I Love**.
+Deducing splicing events from transcript sets with splicelogic.
+*Preprint*, November 2026.
+[PDF](../assets/splicelogic.pdf)
+
+* [splicelogic](https://thelovelab.github.io/splicelogic/) R/Bioconductor package
+  ([Bioconductor](https://www.bioconductor.org/packages/splicelogic))
+
 **Rachel R Sharp**, Micah Hysong, Robert G Mealer, Laura M Raffield, LáShauntá Glover, **Michael I Love**.
 Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program.
 *Human Genetics and Genomics Advances*, September 2026.
